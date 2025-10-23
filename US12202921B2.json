@@ -1,0 +1,29 @@
+{
+  "title": "Modeling material formulations usable in additive manufacturing of three-dimensional objects at low temperatures",
+  "application_number": "US16/959,183",
+  "inventor_name": [
+    "Elena SHPAYZER",
+    "Eduardo Napadensky",
+    "Raffy Sarfati",
+    "Mayan RUMBAK",
+    "Keren GOLDSHTEIN"
+  ],
+  "assignee_name_orig": [
+    "Stratasys Ltd"
+  ],
+  "assignee_name_current": [
+    "\n    Stratasys Ltd\n  "
+  ],
+  "priority_date": "2018-12-31",
+  "pub_date": "2020-12-24",
+  "grant_date": "2025-01-21",
+  "expiration_date": "2039-06-22",
+  "abstract_text": "\n     Modeling material formulation systems usable in additive manufacturing, 3D inkjet printing in particular, of three-dimensional objects, are provided. The formulations comprise two or more curable materials, such that an average molecular weight of the curable materials in each formulation is no more than 500 grams/mol, such that each formulation features a viscosity of no more than 50 centipoises at a temperature of 35\u00b0 C. Kits comprising the formulations or formulation systems and additive manufacturing processes utilizing same are also provided. \n   \n   ",
+  "url": "https://patents.google.com/patent/US12202921B2",
+  "patent": "US12202921B2",
+  "classifications": [
+    "Additive manufacturing",
+    "Material formulation",
+    "Low temperature"
+  ]
+}

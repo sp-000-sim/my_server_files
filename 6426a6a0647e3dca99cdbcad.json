@@ -1,0 +1,64 @@
+{
+  "": "1083",
+  "chemrxiv_id": "6426a6a0647e3dca99cdbcad",
+  "doi": "10.26434/chemrxiv-2023-fhmvj",
+  "title": "Dumbbells, chains, and ribbons: anisotropic self-assembly of isotropic nanoparticles",
+  "abstract": "Functionalizing the surface of metal nanoparticles can assure their stability in solution or mediate their self-assembly into aggregates with controlled shapes. Here we present a computational study of the colloidal aggregation of gold nanoparticles (Au NPs) isotropically functionalized by a mixture of charged and hydrophobic ligands. We show that, by varying the relative proportion of the two ligands, the NPs form anisotropic aggregates with markedly different topologies: dumbbells, chains, or ribbons. In all cases, two kinds of connections keep the aggregates together: hydrophobic bonds and ion bridges. We show that the anisotropy of the aggregates derives from the NP shell reshaping due to the formation of the hydrophobic links, while ion bridges are accountable for the “secondary structure” of the aggregates. Our findings provide a general physical principle that can also be exploited in different self-assembled systems: anisotropic/directional aggregation can be achieved starting from isotropic objects through a soft moldable surface. ",
+  "content_type": {
+    "id": "5ce663395846762193c9c430",
+    "name": "Working Paper"
+  },
+  "categories": [
+    "Theoretical and Computational Chemistry",
+    "Physical Chemistry",
+    "Nanoscience",
+    "Computational Chemistry and Modeling",
+    "Physical and Chemical Properties",
+    "Self-Assembly"
+  ],
+  "subject": {
+    "id": "5e68cb1bd1f19d49ce3ac739",
+    "name": "Chemistry",
+    "description": "Discover early research outputs such as working papers, posters and presentations in Chemistry."
+  },
+  "authors": [
+    "Enrico Lavagna",
+    "Sebastian Salassi",
+    "Davide Bochicchio",
+    "GIULIA ROSSI"
+  ],
+  "file_pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a6a0647e3dca99cdbcad/original/dumbbells-chains-and-ribbons-anisotropic-self-assembly-of-isotropic-nanoparticles.pdf",
+  "supplementary": [
+    {
+      "id": "6426a9a391074bccd095b38c",
+      "title": "Electronic Supplementary Information",
+      "description": "Model and methods; supplementary figures.",
+      "asset": {
+        "id": "6426a9a9aea4a9ae04453573",
+        "mimeType": "application/pdf",
+        "fileName": "SI.pdf",
+        "fileSizeBytes": 6131574,
+        "smallThumbnail": {
+          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/smallThumb/electronic-supplementary-information.jpg"
+        },
+        "mediumThumbnail": {
+          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/mediumThumb/electronic-supplementary-information.jpg"
+        },
+        "largeThumbnail": {
+          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/largeThumb/electronic-supplementary-information.jpg"
+        },
+        "original": {
+          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/original/electronic-supplementary-information.pdf"
+        }
+      }
+    }
+  ],
+  "keywords": [
+    "gold nanoparticles",
+    "colloidal self-assembly",
+    "coarse-grained molecular dynamics",
+    "supramolecular aggregation"
+  ],
+  "submitted_date": "2023-03-31T09:41:53.081Z",
+  "published_date": "2023-03-31T11:44:43.726Z"
+}
