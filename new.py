@@ -29,7 +29,7 @@ for page_num, image in enumerate(images, 1):
                 ]
             }
         ],
-        max_tokens=4096
+        max_tokens=4000,
     )
     
     results.append({
