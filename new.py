@@ -39,3 +39,6 @@ for page_num, image in enumerate(images, 1):
 
 # Combine all pages
 full_document = "\n\n---\n\n".join([r["content"] for r in results])
+
+with open("output.md", "w", encoding="utf-8") as f:
+    f.write(full_document)
