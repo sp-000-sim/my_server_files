@@ -1,0 +1,22 @@
+{
+  "chemrxiv_id": "632ce4ef114b7e61df19cce8",
+  "doi": "10.26434/chemrxiv-2022-9t2rj",
+  "title": "ViSAS for Entering Chemical Space: Virtual Screening of Analog Series and Related Advances",
+  "abstract": "The manuscript discusses recent advances on computer-aided drug discovery (CADD) with focus on data-dependent drug discovery. Herein, we do not intend to review the many CADD methodologies comprehensively. Instead, the review discusses progress on selected concepts, methodologies, resources, and applications that are part of multidisciplinary efforts: the manuscript covers advances in artificial intelligence, machine learning, virtual screening, and chemical space including the concept of chemical multiverses, and novel extended similarity methods for chemical space exploration. Throughout the review, we emphasize public resources and open-source code available to the scientific community working in academia and non-profit institutions.",
+  "content_type": "{'id': '61fa80b2589141001967d5bc', 'name': 'Review'}",
+  "categories": "['Theoretical and Computational Chemistry', 'Biological and Medicinal Chemistry', 'Drug Discovery and Drug Delivery Systems', 'Theory - Computational', 'Chemoinformatics - Computational Chemistry']",
+  "authors": "['José J. Naveja-Romero', ' Fernanda I. Saldívar-González', 'Diana L. Prado-Romero', 'Angel J. Ruiz-Moreno', 'Marco  Velasco-Velázquez', 'Ramón Alain Miranda-Quintana', 'José L. Medina-Franco']",
+  "file_pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/632ce4ef114b7e61df19cce8/original/vi-sas-for-entering-chemical-space-virtual-screening-of-analog-series-and-related-advances.pdf",
+  "keywords": "['chemical space', 'chemoinformatics', 'computer-aided drug design', 'compound databases', 'de novo design', 'medicinal chemistry', 'molecular modeling', 'open science', 'similarity', 'virtual screening']",
+  "submitted_time": "2022-09-22T23:07:53.678Z",
+  "published_time": "2022-09-26T04:35:03.911Z",
+  "source": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/json/632ce4ef114b7e61df19cce8.json",
+  "submitted_year": 2022,
+  "submitted_month": 9,
+  "submitted_day": 22,
+  "published_year": 2022,
+  "published_month": 9,
+  "published_day": 26
+}
+
+

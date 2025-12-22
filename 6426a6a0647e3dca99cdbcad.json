@@ -28,31 +28,7 @@
     "GIULIA ROSSI"
   ],
   "file_pdf_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a6a0647e3dca99cdbcad/original/dumbbells-chains-and-ribbons-anisotropic-self-assembly-of-isotropic-nanoparticles.pdf",
-  "supplementary": [
-    {
-      "id": "6426a9a391074bccd095b38c",
-      "title": "Electronic Supplementary Information",
-      "description": "Model and methods; supplementary figures.",
-      "asset": {
-        "id": "6426a9a9aea4a9ae04453573",
-        "mimeType": "application/pdf",
-        "fileName": "SI.pdf",
-        "fileSizeBytes": 6131574,
-        "smallThumbnail": {
-          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/smallThumb/electronic-supplementary-information.jpg"
-        },
-        "mediumThumbnail": {
-          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/mediumThumb/electronic-supplementary-information.jpg"
-        },
-        "largeThumbnail": {
-          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/largeThumb/electronic-supplementary-information.jpg"
-        },
-        "original": {
-          "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6426a9a391074bccd095b38c/original/electronic-supplementary-information.pdf"
-        }
-      }
-    }
-  ],
+  
   "keywords": [
     "gold nanoparticles",
     "colloidal self-assembly",
