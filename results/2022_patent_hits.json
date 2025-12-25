@@ -1,0 +1,1527 @@
+{
+  "set_name": "2022",
+  "search_token": "catalyst",
+  "total_matches": 113,
+  "matches": [
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11213798B2.json",
+      "id": "US11213798B2",
+      "title": "Metallocene catalyst feed system for solution polymerization process",
+      "match_type": "substring",
+      "matched_text": "Metallocene catalyst",
+      "all_classifications": [
+        "Metallocene catalyst",
+        "Solution polymerization",
+        "Polymer product",
+        "Catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11213802B2.json",
+      "id": "US11213802B2",
+      "title": "Mesoporous mixed oxide catalyst comprising silicon",
+      "match_type": "substring",
+      "matched_text": "Mixed oxide catalyst",
+      "all_classifications": [
+        "Mesoporous",
+        "Mixed oxide catalyst",
+        "Ceramic",
+        "High surface area"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11213804B2.json",
+      "id": "US11213804B2",
+      "title": "Dehydrogenation catalysts and methods of making and using the same",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Dehydrogenation",
+        "Metal source"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11213805B2.json",
+      "id": "US11213805B2",
+      "title": "Catalyst for the conversion of natural or associated gas into synthesis gas in an autothermal reforming process and method for preparing the same",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Autothermal reforming",
+        "Nickel metal"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11213806B1.json",
+      "id": "US11213806B1",
+      "title": "Catalyst supports—composition and process of manufacture",
+      "match_type": "substring",
+      "matched_text": "Catalyst support",
+      "all_classifications": [
+        "Silicon carbide",
+        "Catalyst support",
+        "Oxidation reaction"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11213810B1.json",
+      "id": "US11213810B1",
+      "title": "Method of producing a cracking catalyst",
+      "match_type": "substring",
+      "matched_text": "Cracking catalyst",
+      "all_classifications": [
+        "Zeolite-beta",
+        "Nanoparticle",
+        "Cracking catalyst",
+        "Hydrocracking"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11213811B2.json",
+      "id": "US11213811B2",
+      "title": "Preparation method for olefin epoxidation catalyst and applications thereof",
+      "match_type": "substring",
+      "matched_text": "Epoxidation catalyst",
+      "all_classifications": [
+        "Composite oxide",
+        "Chemical vapor deposition",
+        "Epoxidation catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214497B2.json",
+      "id": "US11214497B2",
+      "title": "Perovskite compound, method for producing the perovskite compound, catalyst for fuel cell including the perovskite compound and method for producing the catalyst",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Perovskite compound",
+        "Catalyst",
+        "Fuel cell",
+        "Palladium"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214529B2.json",
+      "id": "US11214529B2",
+      "title": "Production and isolation of monocyclic aromatic compounds from a gasification gas",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Monocyclic aromatic compounds",
+        "Gasification gas",
+        "Catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214535B2.json",
+      "id": "US11214535B2",
+      "title": "Method for producing ethyleneamines",
+      "match_type": "substring",
+      "matched_text": "Amination catalyst",
+      "all_classifications": [
+        "Amination catalyst",
+        "Reductive calcination",
+        "Ethyleneamines"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214559B2.json",
+      "id": "US11214559B2",
+      "title": "Method for producing 2,5-bis(aminomethyl)furan",
+      "match_type": "substring",
+      "matched_text": "Hydrogenation catalyst",
+      "all_classifications": [
+        "Hydrogenation catalyst",
+        "Amine compound",
+        "Furan"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214631B2.json",
+      "id": "US11214631B2",
+      "title": "(Di)silicon bridged metallocenes that produce polyethylene with broad molecular weight distribution and high molecular weight",
+      "match_type": "substring",
+      "matched_text": "Catalyst system",
+      "all_classifications": [
+        "Metallocene",
+        "Polyethylene",
+        "Catalyst system"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214632B2.json",
+      "id": "US11214632B2",
+      "title": "Bis-ligated phosphaguanidine group IV metal complexes and olefin polymerization catalysts produced therefrom",
+      "match_type": "substring",
+      "matched_text": "Olefin polymerization catalysts",
+      "all_classifications": [
+        "Polymer",
+        "Bis-ligated",
+        "Olefin polymerization catalysts",
+        "Metal complexes"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214633B2.json",
+      "id": "US11214633B2",
+      "title": "Ziegler-Natta catalyst systems and methods of controlling particle size",
+      "match_type": "substring",
+      "matched_text": "Ziegler-Natta catalyst",
+      "all_classifications": [
+        "Colloidal suspension",
+        "Ziegler-Natta catalyst",
+        "Particle size control"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214634B2.json",
+      "id": "US11214634B2",
+      "title": "Lewis base catalysts and methods thereof",
+      "match_type": "substring",
+      "matched_text": "Lewis base catalysts",
+      "all_classifications": [
+        "Lewis base catalysts",
+        "Polymerization",
+        "High temperature"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214636B2.json",
+      "id": "US11214636B2",
+      "title": "Rigid non-cyclopentadienyl group 4 transition metal and rare earth metal catalysts for olefin polymerization",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalyst",
+      "all_classifications": [
+        "Polymerization catalyst",
+        "Rigid ligand",
+        "Group 4 transition metal"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214637B2.json",
+      "id": "US11214637B2",
+      "title": "Processes for making polyisobutylene compositions",
+      "match_type": "substring",
+      "matched_text": "Catalyst system",
+      "all_classifications": [
+        "Polyisobutylene",
+        "Catalyst system",
+        "Coating"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214686B2.json",
+      "id": "US11214686B2",
+      "title": "Oxygen scavenging polyester compositions for containers",
+      "match_type": "substring",
+      "matched_text": "Transition metal catalyst",
+      "all_classifications": [
+        "Polyester",
+        "Oxygen scavenger",
+        "Transition metal catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214687B2.json",
+      "id": "US11214687B2",
+      "title": "Small-molecule organic dyes",
+      "match_type": "substring",
+      "matched_text": "Photocatalyst",
+      "all_classifications": [
+        "Organic dye",
+        "Fluorescent",
+        "Photocatalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214717B2.json",
+      "id": "US11214717B2",
+      "title": "High efficiency laminating adhesive formulations with improved reactivity profile",
+      "match_type": "substring",
+      "matched_text": "Latent catalyst",
+      "all_classifications": [
+        "Polyurethane",
+        "Latent catalyst",
+        "Coating"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11214741B2.json",
+      "id": "US11214741B2",
+      "title": "Fluid catalytic cracking process for cracking multiple feedstocks",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Fluid catalytic cracking",
+        "Catalyst",
+        "Cracking process"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11215148B2.json",
+      "id": "US11215148B2",
+      "title": "Vehicle powertrain with on-board catalytic reformer",
+      "match_type": "substring",
+      "matched_text": "Fuel cracking catalyst",
+      "all_classifications": [
+        "Catalytic reformer",
+        "Exhaust gas recirculation",
+        "Fuel cracking catalyst",
+        "Engine combustion"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11217805B1.json",
+      "id": "US11217805B1",
+      "title": "Point of use hydrogen production unit",
+      "match_type": "substring",
+      "matched_text": "Photocatalyst",
+      "all_classifications": [
+        "Hydrogen production",
+        "Plasma",
+        "Photocatalyst",
+        "Fuel cell",
+        "Energy compression"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11219877B2.json",
+      "id": "US11219877B2",
+      "title": "Reactor for a metallocene catalyst-based solution polymerization process for preparing polyolefin polymers",
+      "match_type": "substring",
+      "matched_text": "Metallocene catalyst",
+      "all_classifications": [
+        "Metallocene catalyst",
+        "Polyolefin polymer",
+        "Solution polymerization"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11219881B2.json",
+      "id": "US11219881B2",
+      "title": "Method for regenerating catalysts used for production of polysulphide cooking liquors",
+      "match_type": "substring",
+      "matched_text": "Catalyst Regeneration",
+      "all_classifications": [
+        "Activated Carbon",
+        "Catalyst Regeneration",
+        "Polysulphide Liquor"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11219887B2.json",
+      "id": "US11219887B2",
+      "title": "Method for preparing organic zinc catalyst, organic zinc catalyst prepared by the method and method for preparing polyalkylene carbonate resin using the catalyst",
+      "match_type": "substring",
+      "matched_text": "Zinc catalyst",
+      "all_classifications": [
+        "Zinc catalyst",
+        "Polyalkylene carbonate resin",
+        "Catalytic activity"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11219888B2.json",
+      "id": "US11219888B2",
+      "title": "Method for preparing and processing catalyst solutions",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Solution",
+        "Solvent",
+        "Coating"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11219891B1.json",
+      "id": "US11219891B1",
+      "title": "Method for manufacturing solid catalyst component for polymerization of olefin, method for manufacturing catalyst for polymerization of olefin, and method for manufacturing polymer of olefin",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Polymerization",
+        "Catalyst",
+        "Olefin",
+        "Solid catalyst component"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220069B2.json",
+      "id": "US11220069B2",
+      "title": "Composite laminate structures",
+      "match_type": "substring",
+      "matched_text": "Catalyst treatment",
+      "all_classifications": [
+        "Composite laminate",
+        "Catalyst treatment",
+        "Co-bonding"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220435B1.json",
+      "id": "US11220435B1",
+      "title": "Molecular sieve SSZ-94, catalyst, and methods of use thereof",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Molecular sieve",
+        "Catalyst",
+        "Crystalline structure"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220495B2.json",
+      "id": "US11220495B2",
+      "title": "Compound of 3,3,3′,3′-tetramethyl-1,1′-spirobiindane-based bisoxazoline ligand, intermediate thereof, preparation method thereof and use thereof",
+      "match_type": "substring",
+      "matched_text": "Chiral catalyst",
+      "all_classifications": [
+        "Bisoxazoline ligand",
+        "Chiral catalyst",
+        "Organic synthesis"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220519B2.json",
+      "id": "US11220519B2",
+      "title": "Components and catalysts for the polymerization of olefins",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Polymerization",
+        "Catalyst",
+        "Olefin",
+        "Titanium"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220560B2.json",
+      "id": "US11220560B2",
+      "title": "Universal alpha-olefin polymerization catalyst, and application thereof",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalyst",
+      "all_classifications": [
+        "Polymerization catalyst",
+        "Alpha-olefin polymerization",
+        "Electron donor compound"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220564B2.json",
+      "id": "US11220564B2",
+      "title": "Methods of preparing a catalyst",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Chromium-containing",
+        "Titanium-containing",
+        "Silica-support"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220566B2.json",
+      "id": "US11220566B2",
+      "title": "Catalyst composition for preparing elastic copolymer, and method for preparing elastic copolymer, which comprises ethylene and alpha-olefin or ethylene, alpha-olefin and unconjugated diene, by using same",
+      "match_type": "substring",
+      "matched_text": "Catalyst composition",
+      "all_classifications": [
+        "Catalyst composition",
+        "Elastic copolymer",
+        "Polymerization activity"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220633B2.json",
+      "id": "US11220633B2",
+      "title": "Process for the thermo-catalytic conversion of polymeric materials",
+      "match_type": "substring",
+      "matched_text": "Molten catalyst",
+      "all_classifications": [
+        "Thermo-catalytic conversion",
+        "Polymer",
+        "Molten catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220753B2.json",
+      "id": "US11220753B2",
+      "title": "Perovskites for catalyzing oxygen",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Perovskite",
+        "Oxygen evolution reaction",
+        "Catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11220757B2.json",
+      "id": "US11220757B2",
+      "title": "Method for manufacturing solid oxide and device therefor",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Solid oxide",
+        "Machining",
+        "Catalyst",
+        "Hydrolysis"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11224853B2.json",
+      "id": "US11224853B2",
+      "title": "Metal supported powder catalyst matrix and processes for multiphase chemical reactions",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Polymer",
+        "Membrane",
+        "Multiphase reaction"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11224859B2.json",
+      "id": "US11224859B2",
+      "title": "Carbon-coated transition metal nanocomposite material, preparation and application thereof",
+      "match_type": "substring",
+      "matched_text": "Adsorption/catalyst material",
+      "all_classifications": [
+        "Carbon-coated transition metal nanocomposite material",
+        "Graphitized carbon layer",
+        "Transition metal nanoparticle",
+        "Adsorption/catalyst material",
+        "Hydrogenation reduction reactions"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11224865B2.json",
+      "id": "US11224865B2",
+      "title": "Catalyst for the methanation of syngas and producer gas",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Methanation",
+        "Nickel-ruthenium-magnesium oxide"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11224870B2.json",
+      "id": "US11224870B2",
+      "title": "Ligand, oligomerization catalyst comprising same, and method for producing ethylene oligomer by using oligomerization catalyst",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Ligand",
+        "Oligomerization",
+        "Catalyst",
+        "Ethylene"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225413B2.json",
+      "id": "US11225413B2",
+      "title": "Process for production of hydrazine hydrate",
+      "match_type": "substring",
+      "matched_text": "Catalyst-free hydrolysis",
+      "all_classifications": [
+        "Hydrazine hydrate",
+        "Aqueous solution",
+        "Ketazine method",
+        "Catalyst-free hydrolysis"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225443B2.json",
+      "id": "US11225443B2",
+      "title": "Method for directly preparing p-xylene from synthetic gas and aromatic hydrocarbon",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Aromatic hydrocarbon",
+        "Synthetic gas",
+        "P-xylene",
+        "Metal oxide"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225451B2.json",
+      "id": "US11225451B2",
+      "title": "Process for the preparation of 3,3,4-trimethylcyclohexylidene bisphenol (BP-TMC)",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Bisphenol",
+        "Catalyst",
+        "Drying process",
+        "Gaseous acidic catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225453B2.json",
+      "id": "US11225453B2",
+      "title": "Method for producing tricyclo[5.2.1.02,6]decane-2-carboxylate",
+      "match_type": "substring",
+      "matched_text": "Acid catalyst",
+      "all_classifications": [
+        "Tricyclo[5.2.1.02,6]decane-2-carboxylate",
+        "Synthesis",
+        "Chemical reaction",
+        "Acid catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225454B2.json",
+      "id": "US11225454B2",
+      "title": "Process for catalytic hydrogenation of halonitroaromatics",
+      "match_type": "substring",
+      "matched_text": "Platinum-containing catalyst",
+      "all_classifications": [
+        "Catalytic hydrogenation",
+        "Halonitroaromatics",
+        "Platinum-containing catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225495B2.json",
+      "id": "US11225495B2",
+      "title": "Transition metal compound and method for preparing the same",
+      "match_type": "substring",
+      "matched_text": "Catalyst activity",
+      "all_classifications": [
+        "Transition metal compound",
+        "Catalyst activity",
+        "Olefin-based polymer"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225498B2.json",
+      "id": "US11225498B2",
+      "title": "Preparation of rhodium(III)-2-ethylhexanoate",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Rhodium",
+        "Catalyst",
+        "Hydroformylation",
+        "Organometallic"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225499B2.json",
+      "id": "US11225499B2",
+      "title": "Chiral platinum complex, method for preparing the same, and method for using the same",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Chiral platinum complex",
+        "Catalyst",
+        "Cancer treatment"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225533B2.json",
+      "id": "US11225533B2",
+      "title": "Hydrogenation of nitrile butadiene rubber latex",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Hydrogenation",
+        "Catalyst",
+        "Emulsifier",
+        "Nitrile butadiene rubber"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225536B1.json",
+      "id": "US11225536B1",
+      "title": "Method for producing solid catalyst component for polymerization of olefin, solid catalyst component for polymerization of olefin, catalyst for polymerization of olefin, method for producing catalyst for polymerization of olefin and method for producing polymer of olefin",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Polymerization",
+        "Catalyst",
+        "Olefin",
+        "Solid catalyst component"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225539B2.json",
+      "id": "US11225539B2",
+      "title": "Supported transition metal bis(phenolate) complexes and their use as catalysts for olefin polymerization",
+      "match_type": "substring",
+      "matched_text": "Catalyst for olefin polymerization",
+      "all_classifications": [
+        "Transition metal bis(phenolate) complexes",
+        "Catalyst for olefin polymerization",
+        "Supported catalyst composition"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225611B1.json",
+      "id": "US11225611B1",
+      "title": "Online analyzer for biofuel production",
+      "match_type": "substring",
+      "matched_text": "Catalyst poisoning",
+      "all_classifications": [
+        "Hydrotreating",
+        "Biofuel",
+        "Catalyst poisoning"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225612B2.json",
+      "id": "US11225612B2",
+      "title": "Catalyst and process for catalytic steam cracking of heavy distillate",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Nanoscale Zeolite",
+        "Cracking Process"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225631B2.json",
+      "id": "US11225631B2",
+      "title": "Acidic liquid detergent compositions containing bleach catalyst and free of anionic surfactant",
+      "match_type": "substring",
+      "matched_text": "Bleach catalyst",
+      "all_classifications": [
+        "Bleach catalyst",
+        "Detergent composition",
+        "Free of anionic surfactant"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11225675B2.json",
+      "id": "US11225675B2",
+      "title": "D-lactate dehydrogenase, engineered strain containing D-lactate dehydrogenase and construction method and use of engineered strain",
+      "match_type": "substring",
+      "matched_text": "Biocatalyst",
+      "all_classifications": [
+        "D-lactate dehydrogenase",
+        "Biocatalyst",
+        "Fermentation"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11229899B2.json",
+      "id": "US11229899B2",
+      "title": "Catalyst composition",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Zeolite",
+        "Catalyst",
+        "Titania"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11229903B1.json",
+      "id": "US11229903B1",
+      "title": "Hydroisomerization catalyst with improved thermal stability",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Hydroisomerization",
+        "Catalyst",
+        "Thermal stability",
+        "Metal dispersion"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11230511B2.json",
+      "id": "US11230511B2",
+      "title": "Method for the isomerizing dehydration of a non-linear primary alcohol feedstock in the presence of water injection and a catalyst comprising a FER or MFS zeolite",
+      "match_type": "substring",
+      "matched_text": "Zeolite catalyst",
+      "all_classifications": [
+        "Isomerizing dehydration",
+        "Zeolite catalyst",
+        "Non-linear alcohol"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11230519B2.json",
+      "id": "US11230519B2",
+      "title": "Low-viscosity solutions of alkaline-earth metal alkoxides in aprotic solvents, method for the production of same and use for the production of ziegler-natta catalysts",
+      "match_type": "substring",
+      "matched_text": "Ziegler-Natta catalysts",
+      "all_classifications": [
+        "Alkaline-earth metal alkoxides",
+        "Aprotic solvent",
+        "Ziegler-Natta catalysts"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11230627B2.json",
+      "id": "US11230627B2",
+      "title": "Method for pretreating lignocellulose by using acid-base mixture catalyst",
+      "match_type": "substring",
+      "matched_text": "Acid-base catalyst",
+      "all_classifications": [
+        "Lignocellulose",
+        "Acid-base catalyst",
+        "Pretreatment",
+        "Ethanol production"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11230774B2.json",
+      "id": "US11230774B2",
+      "title": "Homogeneously dispersed multimetal oxy-hydroxide catalysts",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Multimetal oxy-hydroxide",
+        "Homogeneously dispersed",
+        "Catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11230775B2.json",
+      "id": "US11230775B2",
+      "title": "Non-noble metal based electro-catalyst compositions for proton exchange membrane based water electrolysis and methods of making",
+      "match_type": "substring",
+      "matched_text": "Electro-catalyst",
+      "all_classifications": [
+        "Electro-catalyst",
+        "Proton exchange membrane",
+        "Water electrolysis",
+        "Non-noble metal"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11247901B2.json",
+      "id": "US11247901B2",
+      "title": "Free atom nanotube growth",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Nanotube",
+        "Catalyst",
+        "Substrate",
+        "Electromagnetic radiation"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11247948B2.json",
+      "id": "US11247948B2",
+      "title": "Process for preparing hydrocarbon mixture exhibiting unique branching structure",
+      "match_type": "substring",
+      "matched_text": "Zeolite catalyst",
+      "all_classifications": [
+        "Hydrocarbon",
+        "Olefinic feedstock",
+        "Zeolite catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11248179B2.json",
+      "id": "US11248179B2",
+      "title": "Dewaxing and dearomatization process of hydrocarbon in a slurry reactor",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Dewaxing",
+        "Dearomatization",
+        "Hydrogenation",
+        "Catalyst",
+        "Slurry reactor"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11248193B2.json",
+      "id": "US11248193B2",
+      "title": "Stabilized alpha-amylase variants and use of the same",
+      "match_type": "substring",
+      "matched_text": "Biocatalyst",
+      "all_classifications": [
+        "Stabilized alpha-amylase",
+        "Enzyme variant",
+        "Biocatalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11253839B2.json",
+      "id": "US11253839B2",
+      "title": "Shaped porous carbon products",
+      "match_type": "substring",
+      "matched_text": "Catalyst support",
+      "all_classifications": [
+        "Porous carbon",
+        "Catalyst support",
+        "Adsorbent"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11254878B2.json",
+      "id": "US11254878B2",
+      "title": "FCC catalyst having alumina derived from crystalline boehmite",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Alumina",
+        "Fluid catalytic cracking",
+        "Zeolite"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11254882B2.json",
+      "id": "US11254882B2",
+      "title": "Conversion of C2 hydrocarbons in the presence of methane",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Conversion",
+        "Aromatics",
+        "Methane"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11258071B2.json",
+      "id": "US11258071B2",
+      "title": "Oxidation of water using layered double hydroxide catalysts",
+      "match_type": "substring",
+      "matched_text": "Electrocatalyst",
+      "all_classifications": [
+        "Layered double hydroxide",
+        "Oxygen evolution reaction",
+        "Electrocatalyst",
+        "Nanoparticle"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11260357B2.json",
+      "id": "US11260357B2",
+      "title": "Process and apparatus for fluidizing a catalyst bed",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Fluidization",
+        "Catalyst",
+        "Gas",
+        "Process"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11260368B2.json",
+      "id": "US11260368B2",
+      "title": "Method for reducing metal oxide and method for producing photocatalyst using same",
+      "match_type": "substring",
+      "matched_text": "Photocatalyst",
+      "all_classifications": [
+        "Metal oxide",
+        "Photocatalyst",
+        "Reduction method"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11261101B2.json",
+      "id": "US11261101B2",
+      "title": "Method for preparing vanadium battery electrolyte by using waste vanadium catalyst",
+      "match_type": "substring",
+      "matched_text": "Waste catalyst treatment",
+      "all_classifications": [
+        "Vanadium",
+        "Battery electrolyte",
+        "Waste catalyst treatment",
+        "Polyacid ester"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11261139B2.json",
+      "id": "US11261139B2",
+      "title": "Catalyzed alkylation, alkylation catalysts, and methods of making alkylation catalysts",
+      "match_type": "substring",
+      "matched_text": "Zeolite-based catalyst",
+      "all_classifications": [
+        "Catalyzed alkylation",
+        "Zeolite-based catalyst",
+        "Solid acid",
+        "Rare earth elements"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11264624B2.json",
+      "id": "US11264624B2",
+      "title": "Electrocatalyst",
+      "match_type": "substring",
+      "matched_text": "Electrocatalyst",
+      "all_classifications": [
+        "Electrocatalyst",
+        "Metal carbide nanotubes",
+        "Corrosion resistant"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11268198B2.json",
+      "id": "US11268198B2",
+      "title": "Synthesis gas production system",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Electrolysis",
+        "Synthesis gas",
+        "Catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11268199B2.json",
+      "id": "US11268199B2",
+      "title": "Core/shell-vacancy engineering (CSVE) of catalysts for electrochemical CO2 reduction",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Core/shell-vacancy engineering",
+        "Catalyst",
+        "Electrochemical CO2 reduction",
+        "Multi-carbon hydrocarbons"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11268200B2.json",
+      "id": "US11268200B2",
+      "title": "Bipolar membranes",
+      "match_type": "substring",
+      "matched_text": "Water dissociation catalyst",
+      "all_classifications": [
+        "Bipolar membrane",
+        "Anion exchange material",
+        "Cation exchange material",
+        "Water dissociation catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11271193B2.json",
+      "id": "US11271193B2",
+      "title": "Synthesis of metal metaphosphate for catalysts for oxygen evolution reactions",
+      "match_type": "substring",
+      "matched_text": "Electrocatalyst",
+      "all_classifications": [
+        "Metal metaphosphate",
+        "Electrocatalyst",
+        "Oxygen evolution reaction"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11274119B2.json",
+      "id": "US11274119B2",
+      "title": "Industrial process for the synthesis of nomegestrol-acetate",
+      "match_type": "substring",
+      "matched_text": "Pd/C catalyst",
+      "all_classifications": [
+        "Pd/C catalyst",
+        "Acetic acid",
+        "Ethanol"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11280008B2.json",
+      "id": "US11280008B2",
+      "title": "Electrochemical apparatus having tin-based cathodic catalyst",
+      "match_type": "substring",
+      "matched_text": "Tin-based catalyst",
+      "all_classifications": [
+        "Electrochemical",
+        "Tin-based catalyst",
+        "Carbon support"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11283093B2.json",
+      "id": "US11283093B2",
+      "title": "Method for manufacturing electrode, electrode manufactured thereby, membrane-electrode assembly comprising same electrode, and fuel cell including same membrane-electrode assembly",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Acoustic energy",
+        "Ionomer",
+        "Catalyst",
+        "Fuel cell"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11286169B2.json",
+      "id": "US11286169B2",
+      "title": "Chemical reactor with integrated heat exchanger, heater, and high conductance catalyst holder",
+      "match_type": "substring",
+      "matched_text": "High conductance catalyst holder",
+      "all_classifications": [
+        "Chemical reactor",
+        "Heat exchanger",
+        "High conductance catalyst holder"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11286403B2.json",
+      "id": "US11286403B2",
+      "title": "Chemical mechanical polishing composition, chemical mechanical polishing slurry and method for polishing substrate",
+      "match_type": "substring",
+      "matched_text": "Metal catalyst",
+      "all_classifications": [
+        "Chemical mechanical polishing",
+        "Metal catalyst",
+        "Polishing composition"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11286432B2.json",
+      "id": "US11286432B2",
+      "title": "Hydrothermal liquefaction for biomass",
+      "match_type": "substring",
+      "matched_text": "Catalyst composition",
+      "all_classifications": [
+        "Hydrothermal liquefaction",
+        "Catalyst composition",
+        "Bio-oil fuels",
+        "Municipal solid waste"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11286573B2.json",
+      "id": "US11286573B2",
+      "title": "Carbon dioxide electrolytic device and method of electrolyzing carbon dioxide",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Electrolysis",
+        "Carbon dioxide",
+        "Catalyst",
+        "Oxidation"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11293006B1.json",
+      "id": "US11293006B1",
+      "title": "Endophytes for organic nitrogen use for sustainable agriculture",
+      "match_type": "substring",
+      "matched_text": "Biocatalysts",
+      "all_classifications": [
+        "Biocatalysts",
+        "Nitrogen use",
+        "Sustainable agriculture"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11306042B2.json",
+      "id": "US11306042B2",
+      "title": "Processes for an improvement to gasoline octane for long-chain paraffin feed streams",
+      "match_type": "substring",
+      "matched_text": "Zeolite catalyst",
+      "all_classifications": [
+        "Catalytic cracking",
+        "Zeolite catalyst",
+        "Octane Value increase"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11311868B2.json",
+      "id": "US11311868B2",
+      "title": "Use of catalysts for the metathesis of nitrile rubber",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Metathesis",
+        "Catalyst",
+        "Nitrile rubber"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11312912B2.json",
+      "id": "US11312912B2",
+      "title": "Hydrogen-enhanced delayed coking process",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Hydrogen-enhanced",
+        "Delayed coking process",
+        "Catalyst",
+        "Hydrodesulfurization"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11325105B2.json",
+      "id": "US11325105B2",
+      "title": "Metal-decorated barium calcium aluminum oxide and related materials for NH3 catalysis",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Metal-decorated barium calcium aluminum oxide",
+        "Catalyst",
+        "Ammonia synthesis"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11328832B2.json",
+      "id": "US11328832B2",
+      "title": "Formation and modifications of ceramic nanowires and their use in functional materials",
+      "match_type": "substring",
+      "matched_text": "Catalyst-free synthesis",
+      "all_classifications": [
+        "Ceramic nanowires",
+        "Metalorganic compound",
+        "Catalyst-free synthesis"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11332416B2.json",
+      "id": "US11332416B2",
+      "title": "Process for synthesizing fluorinated cyclic aliphatic compounds",
+      "match_type": "substring",
+      "matched_text": "Rh-carbene catalyst system",
+      "all_classifications": [
+        "Fluorinated cycloaliphatic compounds",
+        "Hydrogenation",
+        "Rh-carbene catalyst system"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11332623B2.json",
+      "id": "US11332623B2",
+      "title": "Carbon black, electrode catalyst and fuel cell using same, and method for producing carbon black",
+      "match_type": "substring",
+      "matched_text": "Electrode catalyst",
+      "all_classifications": [
+        "Carbon black",
+        "Fuel cell",
+        "Electrode catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11332674B2.json",
+      "id": "US11332674B2",
+      "title": "Catalysts, related methods and reaction products",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Fuel production",
+        "Redox catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11339056B2.json",
+      "id": "US11339056B2",
+      "title": "Controlled, compact, on-demand ammonia gas generation process and apparatus",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Ammonia generation",
+        "Catalyst",
+        "Gasification"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11339344B2.json",
+      "id": "US11339344B2",
+      "title": "TiO2 catalyst in ketonisation reactions to produce RBO",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "TiO2",
+        "Catalyst",
+        "Ketonisation",
+        "Renewable Base Oil"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11344872B2.json",
+      "id": "US11344872B2",
+      "title": "Metal complex, method for producing same, and method for producing gamma-lactam compound using same",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Metal complex",
+        "Catalyst",
+        "Gamma-lactam compound",
+        "Synthesis"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11384219B2.json",
+      "id": "US11384219B2",
+      "title": "Carbon supports for oxygen reduction catalysts",
+      "match_type": "substring",
+      "matched_text": "Electrocatalyst",
+      "all_classifications": [
+        "Carbon composite",
+        "Electrocatalyst",
+        "Pyrolysis"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11390834B2.json",
+      "id": "US11390834B2",
+      "title": "Reactive distillation in beverage spirit production",
+      "match_type": "substring",
+      "matched_text": "Esterification catalyst",
+      "all_classifications": [
+        "Reactive distillation",
+        "Esterification catalyst",
+        "Beverage spirit production"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11406967B2.json",
+      "id": "US11406967B2",
+      "title": "Heterogeneous catalyst, method of producing the heterogeneous catalyst, and method of producing lignin-derived high-substituted aromatic monomer from woody biomass material",
+      "match_type": "substring",
+      "matched_text": "Heterogeneous catalyst",
+      "all_classifications": [
+        "Heterogeneous catalyst",
+        "Nano-particle",
+        "Woody biomass material"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11406968B2.json",
+      "id": "US11406968B2",
+      "title": "Mixed oxides for the oxidative cleavage of lipids using oxygen to afford mono- and di-carboxylic acids",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_classifications": [
+        "Mixed oxides",
+        "Oxidative cleavage",
+        "Catalysts",
+        "Mono- and di-carboxylic acids"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11407700B2.json",
+      "id": "US11407700B2",
+      "title": "Process for preparing 2,3-unsaturated alcohols",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Hydrogenation",
+        "Catalyst",
+        "Fragrance",
+        "Aroma substance composition"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11407843B2.json",
+      "id": "US11407843B2",
+      "title": "Process for producing nitrile rubbers using ruthenium complex catalysts",
+      "match_type": "substring",
+      "matched_text": "Ruthenium complex catalysts",
+      "all_classifications": [
+        "Nitrile rubber",
+        "Ruthenium complex catalysts",
+        "Metathesis process",
+        "Reduced molecular weight"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11414623B2.json",
+      "id": "US11414623B2",
+      "title": "Efficient biomass carbon-based solid acid esterification catalyst for producing biodiesel",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Biomass carbon",
+        "Solid acid esterification",
+        "Catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11421345B2.json",
+      "id": "US11421345B2",
+      "title": "Ultrafine nanowires as highly efficient electrocatalysts",
+      "match_type": "substring",
+      "matched_text": "Electrocatalysts",
+      "all_classifications": [
+        "Nanowires",
+        "Electrocatalysts",
+        "De-alloying"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11439981B2.json",
+      "id": "US11439981B2",
+      "title": "Catalyst for hydrolysis of carbonyl sulfide and method of producing same",
+      "match_type": "exact_item",
+      "matched_text": "Catalyst",
+      "all_classifications": [
+        "Catalyst",
+        "Titanium dioxide",
+        "Barium compound",
+        "Hydrolysis",
+        "Cos conversion"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11453634B2.json",
+      "id": "US11453634B2",
+      "title": "Production of carboxylic acids from vicinal diols",
+      "match_type": "substring",
+      "matched_text": "Heterogeneous catalyst",
+      "all_classifications": [
+        "Oxidative cleavage",
+        "Carboxylic acid",
+        "Heterogeneous catalyst",
+        "Copper oxide"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11473471B2.json",
+      "id": "US11473471B2",
+      "title": "Exhaust gas treatment system",
+      "match_type": "substring",
+      "matched_text": "Ammonia generating catalyst",
+      "all_classifications": [
+        "Exhaust gas treatment system",
+        "Selective catalytic reduction",
+        "Ammonia generating catalyst"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11479725B2.json",
+      "id": "US11479725B2",
+      "title": "Biomass injection into fluid bed catalytic pyrolysis reactor",
+      "match_type": "substring",
+      "matched_text": "Catalyst/biomass mixture flowrate ratio",
+      "all_classifications": [
+        "Biomass injection",
+        "Fluid bed catalytic pyrolysis",
+        "Catalyst/biomass mixture flowrate ratio"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/2022/metadata/US11517882B2.json",
+      "id": "US11517882B2",
+      "title": "Ruthenium-based catalyst for ammonia synthesis and preparation method and use thereof",
+      "match_type": "substring",
+      "matched_text": "Ruthenium-based catalyst",
+      "all_classifications": [
+        "Ruthenium-based catalyst",
+        "Core-shell structure",
+        "Ammonia synthesis"
+      ]
+    }
+  ]
+}

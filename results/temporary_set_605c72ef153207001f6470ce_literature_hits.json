@@ -1,0 +1,115 @@
+{
+  "set_name": "temporary_set_605c72ef153207001f6470ce",
+  "search_token": "catalyst",
+  "total_matches": 7,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/temporary_set_605c72ef153207001f6470ce/metadata/67d26702fa469535b90ca123.json",
+      "id": "67d26702fa469535b90ca123",
+      "title": "Deep Graph Kernel Learning for Material and Atomic Level      Uncertainty Quantification in Adsorption Energy Prediction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysts",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/temporary_set_605c72ef153207001f6470ce/metadata/67da1c86fa469535b9bf32e7.json",
+      "id": "67da1c86fa469535b9bf32e7",
+      "title": "Barrierless Crystallization in Glassy Precursors  Drives Zeolite Formation\\n",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Physical Chemistry",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Physical and Chemical Processes",
+        "Self-Assembly"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/temporary_set_605c72ef153207001f6470ce/metadata/67da5d256dde43c9085ff076.json",
+      "id": "67da5d256dde43c9085ff076",
+      "title": "Dual-sites for low-concentration NO to NH3 electrosynthesis in neutral media: promoting NO adsorption and water dissociation",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Electrocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/temporary_set_605c72ef153207001f6470ce/metadata/6751b56ef9980725cf27a01d.json",
+      "id": "6751b56ef9980725cf27a01d",
+      "title": "Effects of charge, dopant, and H saturation on the hydrogen evolution activity of Au25-based thiolate-protected nanoclusters ",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Catalysis",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Electrocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/temporary_set_605c72ef153207001f6470ce/metadata/6784f0b5fa469535b9c5f3d3.json",
+      "id": "6784f0b5fa469535b9c5f3d3",
+      "title": "Closed-to-open-shell ground state solid state photoswitching of thienyl-based acylhydrazones",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Organic Chemistry",
+        "Materials Science",
+        "Photochemistry (Org.)",
+        "Carbon-based Materials",
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/temporary_set_605c72ef153207001f6470ce/metadata/6792087bfa469535b96c61cf.json",
+      "id": "6792087bfa469535b96c61cf",
+      "title": "Asynchronous Swarm-Based Global Optimisation: Overcoming Premature Convergence to Produce Realistic Pt Nanoparticle Ensembles",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Catalysis",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Theory - Computational"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/temporary_set_605c72ef153207001f6470ce/metadata/67a37679fa469535b92717b6.json",
+      "id": "67a37679fa469535b92717b6",
+      "title": "Platinum-Modified Cantor Alloys as High-Entropy Electrocatalysts for Oxygen Reduction Reaction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Alloys",
+        "Catalysts",
+        "Machine Learning"
+      ]
+    }
+  ]
+}

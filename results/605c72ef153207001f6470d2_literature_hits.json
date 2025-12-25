@@ -1,0 +1,1157 @@
+{
+  "set_name": "605c72ef153207001f6470d2",
+  "search_token": "catalyst",
+  "total_matches": 80,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/67a37679fa469535b92717b6.json",
+      "id": "67a37679fa469535b92717b6",
+      "title": "Platinum-Modified Cantor Alloys as High-Entropy Electrocatalysts for Oxygen Reduction Reaction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Alloys",
+        "Catalysts",
+        "Machine Learning"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/6780991c81d2151a028a3077.json",
+      "id": "6780991c81d2151a028a3077",
+      "title": "Magnetic Field-Assisted Fe Nanowire Conformable Aerogels Galvanically Displaced to Cu and Pt for 3-Dimensional Electrode Applications",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Magnetic Materials",
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/676ab844fa469535b9a55400.json",
+      "id": "676ab844fa469535b9a55400",
+      "title": "CrossMat: Integrating Material Databases for Multi-Domain Cross-Application",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysts",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/67533ef6085116a133988d14.json",
+      "id": "67533ef6085116a133988d14",
+      "title": "Exploring the Atomic-Scale Interactions at the Interface of Reducible Oxide and Ruthenium Nanocatalyst in Ammonia Decomposition",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/66fa69f0cec5d6c142a90485.json",
+      "id": "66fa69f0cec5d6c142a90485",
+      "title": "Fingerprint Analysis of X-Ray Absorption Spectra of Catalysts: From Linear Combination Fit to Machine-Learning Trained on Multielement Experimental Library",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Machine Learning",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/66f3d3d912ff75c3a166d408.json",
+      "id": "66f3d3d912ff75c3a166d408",
+      "title": "Acquiring and Transferring Comprehensive Catalyst Knowledge through Integrated High-Throughput Experimentation and Automatic Feature Engineering",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/66f4009151558a15ef114e56.json",
+      "id": "66f4009151558a15ef114e56",
+      "title": "Copper nanocubes as low-cost enzyme mimics in a sarcosine-sensing reaction cascade ",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysts",
+        "Metamaterials",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/66993514c9c6a5c07a9c5bba.json",
+      "id": "66993514c9c6a5c07a9c5bba",
+      "title": "Magnetic – Field Assisted Synthesis of Cobalt Nanowire Aerogels for Tunable Structural, Magnetic, and Electrochemical Properties",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Catalysts",
+        "Magnetic Materials",
+        "Nanostructured Materials - Materials",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/666c330d5101a2ffa894bf11.json",
+      "id": "666c330d5101a2ffa894bf11",
+      "title": "Germanium Distributions in Zeolites Derived from Neural Network Potentials.",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Machine Learning"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/6601902ce9ebbb4db97eb362.json",
+      "id": "6601902ce9ebbb4db97eb362",
+      "title": "Atomically smooth CeO2(001) films on YSZ(001)",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Catalysts",
+        "Thin Films"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/65fb09729138d23161e04ad4.json",
+      "id": "65fb09729138d23161e04ad4",
+      "title": "Alumina-Titania Nanolaminate Condensers for Hot Programmable Catalysis\\n",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Multilayers",
+        "Electrocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/65f66e8b66c138172926c63c.json",
+      "id": "65f66e8b66c138172926c63c",
+      "title": "Simultaneously Utilizing Excited Holes and Electrons for Piezoelectric-Enhanced Photoproduction of H2O2 from S-Scheme 2D S-doped VOx/g-C3N4 Nanostructures ",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Nanoscience",
+        "Carbon-based Materials",
+        "Catalysts",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/65f4f42866c138172915b1ef.json",
+      "id": "65f4f42866c138172915b1ef",
+      "title": "The Big Problem in Surface Catalysis Modelling",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Theory - Computational",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/653b998ca8b423585a5afc78.json",
+      "id": "653b998ca8b423585a5afc78",
+      "title": "A Multi-metal Approach for the Reticulation of Iridium into Metal-Organic Framework Building Units",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysts",
+        "Hybrid Organic-Inorganic Materials",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/64c1d2a4ce23211b209ced01.json",
+      "id": "64c1d2a4ce23211b209ced01",
+      "title": "Morphology and defects in CeO2-ZnO",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Catalysts",
+        "Composites",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/64b97e0eae3d1a7b0d102135.json",
+      "id": "64b97e0eae3d1a7b0d102135",
+      "title": "Simultaneous Electrochemical Exfoliation and Functionalization of 2H-MoS2",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/64ae5ed8ba3e99daeff43e52.json",
+      "id": "64ae5ed8ba3e99daeff43e52",
+      "title": "Quantifying the effect of Si/Al ratio on proton solvation and water diffusion in H-FAU using reactive neural network potential.",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Physical Chemistry",
+        "Materials Science",
+        "Catalysts",
+        "Computational Chemistry and Modeling",
+        "Machine Learning"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/649c95829ea64cc167218c89.json",
+      "id": "649c95829ea64cc167218c89",
+      "title": "Photothermal-triggered nanoreactors with tunable catalyst location and catalytic activity ",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Catalysts",
+        "Core-Shell Materials",
+        "Plasmonic and Photonic Structures and Devices",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/6458b1a827fccdb3eab0898a.json",
+      "id": "6458b1a827fccdb3eab0898a",
+      "title": "Scanning transmission X-ray spectromicroscopy: a nanotool to probe hematite nanorods for solar water splitting",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/64472eaf83fa35f8f6332a07.json",
+      "id": "64472eaf83fa35f8f6332a07",
+      "title": "Resolving the structural complexity of gamma-Al2O3: the nature of vacancy ordering and the structure of complex antiphase boundaries",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Physical Chemistry",
+        "Materials Science",
+        "Catalysts",
+        "Structure",
+        "Materials Chemistry",
+        "Crystallography"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/6407582d6642bf8c8f1fb191.json",
+      "id": "6407582d6642bf8c8f1fb191",
+      "title": "The need for operando modelling of 27Al NMR in zeolites",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Machine Learning"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/63db66b62d1431fca8d21b0b.json",
+      "id": "63db66b62d1431fca8d21b0b",
+      "title": "Surfactant-free colloidal syntheses of gold-based nanomaterials in alkaline water and mono-alcohol mixtures",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Alloys",
+        "Catalysts",
+        "Nanostructured Materials - Nanoscience",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/63ced2cb246f166af7ca1b5e.json",
+      "id": "63ced2cb246f166af7ca1b5e",
+      "title": "In-Situ Liquid Phase Transmission Electron Microscopy  and Electron Diffraction Provides Mechanistic Insight into Electrochemical CO2 Reduction on Palladium/Palladium Hydride Catalysts ",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Electrocatalysis",
+        "Nanocatalysis - Reactions & Mechanisms",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/63c7bc570cc4334bcfd60126.json",
+      "id": "63c7bc570cc4334bcfd60126",
+      "title": "Employing Surface Curvature for Spatially Resolved X-Ray Reflectivity: Graphene Domains on Liquid Copper",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Thin Films",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/63550160ee31868b4d6eb804.json",
+      "id": "63550160ee31868b4d6eb804",
+      "title": "Free-standing film based on dissolution and homogeneous compounding of carbon nitride for photocatalytic sterilization",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysts",
+        "Photosensitizers",
+        "Thin Films"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/634cac1d86473a8255156d2a.json",
+      "id": "634cac1d86473a8255156d2a",
+      "title": "Observation of asymmetric oxidation catalysis with B20 chiral crystals",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Electrocatalysis",
+        "Heterogeneous Catalysis",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/62afc00af70c211ecc34d0b1.json",
+      "id": "62afc00af70c211ecc34d0b1",
+      "title": "Fabrication and assembly of thermoplastic microfluidics; a review",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Biocompatible Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanofluidics",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/6283bda3f053df1eed1eefc0.json",
+      "id": "6283bda3f053df1eed1eefc0",
+      "title": "Electron Beam Transparent Boron Doped Diamond Electrodes for Combined Electrochemistry – Transmission Electron Microscopy",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Materials Science",
+        "Nanoscience",
+        "Carbon-based Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanofabrication"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/6176f83f0c0480b47f44a889.json",
+      "id": "6176f83f0c0480b47f44a889",
+      "title": "A response surface model to predict and experimentally tune the chemical, magnetic and optoelectronic properties of oxygen-doped boron nitride",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/616dfb19fb86192308fd2c7f.json",
+      "id": "616dfb19fb86192308fd2c7f",
+      "title": "Stability of oxidized states of ceria-supported PtOx particles under a wide range of gas-phase conditions",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience",
+        "Theory - Computational"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/6165df90a3d2c90a7ed49f7c.json",
+      "id": "6165df90a3d2c90a7ed49f7c",
+      "title": "Into the Facet-Selectivity of Sequenced Amphiphilic Peptoids at the Au-Water Interface",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/615483d846030a4a69c20564.json",
+      "id": "615483d846030a4a69c20564",
+      "title": "Atomistic and electronic structure of metal clusters supported on transition metal carbides: implications for catalysis",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysis",
+        "Carbon-based Materials",
+        "Catalysts",
+        "Computational Chemistry and Modeling"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/614df7884853d2d47cb120f5.json",
+      "id": "614df7884853d2d47cb120f5",
+      "title": "Elucidating the formation and structural evolution of platinum single-site catalysts for hydrogen evolution reaction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Electrocatalysis",
+        "Heterogeneous Catalysis",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/614d12afb1d4a6427292792f.json",
+      "id": "614d12afb1d4a6427292792f",
+      "title": "Data-driven design of bi-selective OSDAs for intergrowth zeolites",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Computational Chemistry and Modeling",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/61475d9caeaa6ed146f18063.json",
+      "id": "61475d9caeaa6ed146f18063",
+      "title": "Stabilizing Highly Dispersed Halo Sites in Thermally Restructured Palladium Core@shell Nanoparticles for Improved Catalyst Activity and Durability",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Nanoscience",
+        "Core-Shell Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/61465357aeaa6ec6eaf0f7c9.json",
+      "id": "61465357aeaa6ec6eaf0f7c9",
+      "title": "Unravelling the impact of Ta doping on the electronic and structural properties of titania: A combined theoretical and experimental approach",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysts",
+        "Materials Processing",
+        "Computational Chemistry and Modeling",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7589e4c8919b890ad4bfc.json",
+      "id": "60c7589e4c8919b890ad4bfc",
+      "title": "Active Knowledge Extraction from Cyclic Voltammetry",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Electrochemical Analysis",
+        "Computational Chemistry and Modeling",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c756ac337d6c345fe28e73.json",
+      "id": "60c756ac337d6c345fe28e73",
+      "title": "Synchronizing Gas Injections and Time-Resolved Data Acquisition for Perturbation-Enhanced APXPS Experiments",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Chemical Kinetics",
+        "Interfaces",
+        "Physical and Chemical Properties",
+        "Spectroscopy (Physical Chem.)",
+        "Surface",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c75667469df4f59bf452e1.json",
+      "id": "60c75667469df4f59bf452e1",
+      "title": "Prediction of Co and Ru Nanocluster Morphology on 2D MoS2 from Interaction Energies",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Computational Chemistry and Modeling",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c755d59abda22ee7f8e446.json",
+      "id": "60c755d59abda22ee7f8e446",
+      "title": "Peroxidase-Mimicking Nanozyme with Surface-Dispersed Pt Atoms as the Label for the Lateral Flow Immunoassay of C-Reactive Protein",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Core-Shell Materials",
+        "Nanostructured Materials - Materials",
+        "Biochemical Analysis",
+        "Nanocatalysis - Catalysts & Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7542d567dfef824ec602a.json",
+      "id": "60c7542d567dfef824ec602a",
+      "title": "Enhancing the Electrocatalytic Activity and Stability of Prussian Blue Analogues Through the Introduction of Au Nanoparticles in a Core@shell Heterostructure",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Core-Shell Materials",
+        "Nanocatalysis - Catalysts & Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c75416567dfedbfaec6018.json",
+      "id": "60c75416567dfedbfaec6018",
+      "title": "Heterogeneous Adsorption and Local Ordering of Formate on a Magnetite Surface",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Computational Chemistry and Modeling",
+        "Interfaces",
+        "Structure",
+        "Surface",
+        "Thermodynamics (Physical Chem.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7541a337d6cb86ae289a6.json",
+      "id": "60c7541a337d6cb86ae289a6",
+      "title": "Secondary Phosphine Oxide Functionalized Gold Clusters and their Application in Photoelectrocatalytic Hydrogenation Reactions",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience",
+        "Electrocatalysis",
+        "Nanocatalysis - Reactions & Mechanisms",
+        "Photocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c75379ee301c08c8c7adeb.json",
+      "id": "60c75379ee301c08c8c7adeb",
+      "title": "Molten-Salt Flux Mediated Synthesis of ZnO-SnO2 Composites: Effects of Surface Areas and Crystallinities on Photocatalytic Activity",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Ceramics",
+        "Composites",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c75312bb8c1aa22a3dbf98.json",
+      "id": "60c75312bb8c1aa22a3dbf98",
+      "title": "Non-Hydrolytic Sol-Gel Route to a Family of Hybrid Mesoporous Aluminosilicate Ethanol Dehydration Catalysts",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Hybrid Organic-Inorganic Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Acid Catalysis",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c75218842e65ec13db3c8f.json",
+      "id": "60c75218842e65ec13db3c8f",
+      "title": "Boron-Doped Boron Nitride Photocatalyst for Visible Light-Driven H2 Evolution and CO2 Photoreduction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7525a337d6c0f30e286f5.json",
+      "id": "60c7525a337d6c0f30e286f5",
+      "title": "Boron Oxynitride Quantum Dots for CO2 Photoreduction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7508eee301c63abc7a8b9.json",
+      "id": "60c7508eee301c63abc7a8b9",
+      "title": "An Affordable Option to Au Single Crystals Through Cathodic Corrosion of a Wire: Fabrication, Electrochemical Behavior, and Applications in Electrocatalysis and Spectroscopy",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c75077337d6c40d7e28310.json",
+      "id": "60c75077337d6c40d7e28310",
+      "title": "Area-Selective Deposition of Ruthenium by Area-Dependent Surface Diffusion",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Aggregates and Assemblies",
+        "Catalysts",
+        "Coating Materials",
+        "Nanostructured Materials - Materials",
+        "Thin Films"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74ff3337d6ccca3e281ff.json",
+      "id": "60c74ff3337d6ccca3e281ff",
+      "title": "Band Positioning in Boron Nitride and Metal-Free Photocatalysts via Photoelectron- and UV-Vis Diffuse Reflectance Spectroscopy",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74f2c9abda20390f8d7be.json",
+      "id": "60c74f2c9abda20390f8d7be",
+      "title": "Hypercrosslinked Polymers as a Photocatalytic Platform for Visible-Light-Driven CO2 Photoreduction Using H2O",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74ee5bdbb8917dfa39c80.json",
+      "id": "60c74ee5bdbb8917dfa39c80",
+      "title": "Mechanism to Enhance Visible-light-driven Photocatalysis of Flower-like Composite of AgI Nanoparticle/BiOI Nanosheet",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Dyes and Chromophores",
+        "Nanostructured Materials - Materials",
+        "Photosensitizers",
+        "Nanostructured Materials - Nanoscience",
+        "Solid State Chemistry",
+        "Heterogeneous Catalysis",
+        "Nanocatalysis - Reactions & Mechanisms",
+        "Photocatalysis",
+        "Interfaces",
+        "Photochemistry (Physical Chem.)",
+        "Physical and Chemical Properties"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74ed9702a9b633d18ba7c.json",
+      "id": "60c74ed9702a9b633d18ba7c",
+      "title": "CO2 Hydrogenation to Methanol with Ga- and Zn-Doped Mesoporous Cu/SiO2 Catalysts Prepared by the Aerosol-Assisted Sol-Gel Process",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Heterogeneous Catalysis",
+        "Nanocatalysis - Reactions & Mechanisms"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74f58bb8c1afb133db900.json",
+      "id": "60c74f58bb8c1afb133db900",
+      "title": "When More Is Less: Nonmonotonic Trends in Adsorption on Clusters in Alloy Surfaces",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Alloys",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74e65702a9b175618b9d7.json",
+      "id": "60c74e65702a9b175618b9d7",
+      "title": "Hybrid Chemo-Biocatalysts Prepared in One Step from Zeolite Nanocrystals and Enzyme-Polyelectrolyte Complexes",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Hybrid Organic-Inorganic Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Biocatalysis",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74e49bdbb892c04a39b6c.json",
+      "id": "60c74e49bdbb892c04a39b6c",
+      "title": "Controlling Pd Morphology in Electrodeposition from Nanoparticles to Dendrites via the use of Mixed Solvents",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Aggregates and Assemblies",
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Electrochemical Analysis",
+        "Nanofabrication",
+        "Nanostructured Materials - Nanoscience"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74e26bdbb892d8da39b37.json",
+      "id": "60c74e26bdbb892d8da39b37",
+      "title": "Ultra-Fine Ni2P Nanoparticles Decorated R-GO: Novel Phosphidation Approach and Dibenzothiophene Hydrodesulfurization",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Carbon-based Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience",
+        "Nanocatalysis - Reactions & Mechanisms"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74e3cbb8c1a04123db704.json",
+      "id": "60c74e3cbb8c1a04123db704",
+      "title": "Nucleation and Structural Identification in Gold Particles of High Aspect Ratios Developed through Mechanistic Approach",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Nanostructured Materials - Materials",
+        "Microscopy",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanodevices",
+        "Nanostructured Materials - Nanoscience",
+        "Interfaces",
+        "Self-Assembly",
+        "Structure",
+        "Surface"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74ca94c89195ee4ad3694.json",
+      "id": "60c74ca94c89195ee4ad3694",
+      "title": "Basal Plane Activation in Monolayer MoTe2 for Hydrogen Evolution Reaction via Phase Boundaries",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74c41702a9b27e618b609.json",
+      "id": "60c74c41702a9b27e618b609",
+      "title": "Formaldehyde Sensing by Co3O4 Hollow Spheres at Room Temperature",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74a89469df44b5df43d5e.json",
+      "id": "60c74a89469df44b5df43d5e",
+      "title": "On the Use of DFT+U to Describe the Electronic Structure of TiO2 Nanoparticles: (TiO2)35 as a Case Study",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Computational Chemistry and Modeling",
+        "Theory - Computational"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74a1b469df43aacf43cac.json",
+      "id": "60c74a1b469df43aacf43cac",
+      "title": "HPM-14, a New Germanosilicate Zeolite with Interconnected Extra-Large Pores Plus Odd-Membered and Small Pores",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74928337d6cba2fe276ab.json",
+      "id": "60c74928337d6cba2fe276ab",
+      "title": "Ni Nanoparticles on CeO2 (111): Energetics, Electron Transfer and Structure by Ni Adsorption Calorimetry, Spectroscopies and DFT",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7488bbb8c1a05553dacb7.json",
+      "id": "60c7488bbb8c1a05553dacb7",
+      "title": "IDM-1, a New Zeolite with Intersecting Medium and Extra-Large Pores Built as an Expansion of Zeolite MFI",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c746c5469df44732f43705.json",
+      "id": "60c746c5469df44732f43705",
+      "title": "Combinatorial Screening Yields Discovery of 29 Metal Oxide Photoanodes for Solar Fuel Generation",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7468bee301c3c37c79558.json",
+      "id": "60c7468bee301c3c37c79558",
+      "title": "Magnetically Responsive Horseradish peroxidase@ZIF-8 for Biocatalysts",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Composites",
+        "Hybrid Organic-Inorganic Materials",
+        "Magnetic Materials",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74682bdbb899d0ea38c0e.json",
+      "id": "60c74682bdbb899d0ea38c0e",
+      "title": "Benchmarking the Acceleration of Materials Discovery by Sequential Learning",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74608bdbb89cb84a38b97.json",
+      "id": "60c74608bdbb89cb84a38b97",
+      "title": "Functional Ionic Porous Frameworks Based on Triaminoguanidinium for CO2 Conversion and Combating Microbes",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Biological Materials",
+        "Catalysts",
+        "Composites",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c745e9567dfe01abec452e.json",
+      "id": "60c745e9567dfe01abec452e",
+      "title": "Scalable Approach to High Coverages on Oxides via Iterative Training of a Machine-Learning Algorithm",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7432c4c89191a45ad25c2.json",
+      "id": "60c7432c4c89191a45ad25c2",
+      "title": "Aggregation-Induced Emission Luminogen: The New Perspective in Photo-Degradation of Organic Pollution",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Optical Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c742ae9abda26622f8c075.json",
+      "id": "60c742ae9abda26622f8c075",
+      "title": "New Insights into the Nature of the Band Gap of CuGeO3 Nanoparticles: Synthesis, Electronic Structure, and Optical and Photocatalytic Properties",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Ceramics",
+        "Materials Processing",
+        "Nanostructured Materials - Materials",
+        "Optical Materials",
+        "Computational Chemistry and Modeling"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7426d0f50db9171395cef.json",
+      "id": "60c7426d0f50db9171395cef",
+      "title": "2,2’-Dipyridylamine as Organic Molecular Electrocatalyst for Hydrogen Evolution Reaction in Acidic Electrolytes",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Computational Chemistry and Modeling",
+        "Electrocatalysis",
+        "Heterogeneous Catalysis",
+        "Organocatalysis",
+        "Electrochemistry - Mechanisms, Theory & Study"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74251f96a00cda72865ae.json",
+      "id": "60c74251f96a00cda72865ae",
+      "title": "Ba-Addition Induced Enhanced Surface Reducibility of SrTiO3: Implication on Catalytic Aspects",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience",
+        "Heterogeneous Catalysis",
+        "Nanocatalysis - Reactions & Mechanisms"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c741e3bdbb893c8ea383d3.json",
+      "id": "60c741e3bdbb893c8ea383d3",
+      "title": "Similarities and Differences for Atomic and Diatomic Molecule Adsorption on the B-5 type sites of the HCP(1016) surfaces of Co, Os, and Ru from DFT Calculation",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Computational Chemistry and Modeling",
+        "Heterogeneous Catalysis",
+        "Nanocatalysis - Reactions & Mechanisms"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c7418b337d6c3c35e268ef.json",
+      "id": "60c7418b337d6c3c35e268ef",
+      "title": "Phase & Morphology Engineered Surface Reducibility of MnO2 Nano-heterostructures: Implications on Catalytic Activity Towards CO Oxidation",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Surface"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c74160567dfe78eeec3d56.json",
+      "id": "60c74160567dfe78eeec3d56",
+      "title": "Highly Robust but Surface-Active: N-Heterocyclic Carbene-Stabilized Au25 Nanocluster as a Homogeneous Catalyst",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Theory - Computational",
+        "Clusters",
+        "Surface"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c73e51842e6511f6db18be.json",
+      "id": "60c73e51842e6511f6db18be",
+      "title": "Seeking a Structure-Function Relationship for γ-Al2O3 Surfaces",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Theory - Computational",
+        "Structure",
+        "Surface"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c73d4e0f50db445339543b.json",
+      "id": "60c73d4e0f50db445339543b",
+      "title": "First-Principles Analysis of the Stability of Water on the Oxidised and Reduced CuO(111) Surface",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Materials Processing"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c73d3a9abda2508bf8b690.json",
+      "id": "60c73d3a9abda2508bf8b690",
+      "title": "Understanding Energy Conversion and Loss Mechanisms in Ternary Metal Oxide Photoelectrodes: The Case of Copper Vanadate",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Thin Films"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d2/metadata/60c73d34bb8c1a80f23d96bf.json",
+      "id": "60c73d34bb8c1a80f23d96bf",
+      "title": "Impact of surface hydroxylation in MgO-/SnO-nanocluster modified TiO2 anatase (101) composites on visible light absorption, charge separation and reducibility.",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Composites"
+      ]
+    }
+  ]
+}

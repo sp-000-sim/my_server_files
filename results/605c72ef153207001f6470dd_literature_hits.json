@@ -1,0 +1,22 @@
+{
+  "set_name": "605c72ef153207001f6470dd",
+  "search_token": "catalyst",
+  "total_matches": 1,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470dd/metadata/668ea219c9c6a5c07ae16e4f.json",
+      "id": "668ea219c9c6a5c07ae16e4f",
+      "title": "Amino acid-based, sustainable organic nanozyme for allergic biomolecule detection",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Analytical Chemistry",
+        "Nanoscience",
+        "Agriculture and Food Chemistry",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience"
+      ]
+    }
+  ]
+}

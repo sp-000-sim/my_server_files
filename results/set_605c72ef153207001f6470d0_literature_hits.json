@@ -1,0 +1,176 @@
+{
+  "set_name": "set_605c72ef153207001f6470d0",
+  "search_token": "catalyst",
+  "total_matches": 10,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/60c73f9dbb8c1a9b7d3d9bbd.json",
+      "id": "60c73f9dbb8c1a9b7d3d9bbd",
+      "title": "Highly Adjustable 3D Nano-Architectures and Chemistries via Assembled 1D Biological Templates",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Alloys",
+        "Catalysts",
+        "Core-Shell Materials",
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanofabrication",
+        "Nanostructured Materials - Nanoscience",
+        "Bioengineering and Biotechnology"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/60c74a45702a9b3dd218b257.json",
+      "id": "60c74a45702a9b3dd218b257",
+      "title": "Dispersion State Phase Diagram of Citrate-Coated Metallic Nanoparticles in Saline Solutions",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Aggregates and Assemblies",
+        "Biocompatible Materials",
+        "Coating Materials",
+        "Composites",
+        "Core-Shell Materials",
+        "Nanostructured Materials - Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanodevices",
+        "Nanostructured Materials - Nanoscience",
+        "Plasmonic and Photonic Structures and Devices",
+        "Supramolecular Chemistry (Inorg.)",
+        "Bioengineering and Biotechnology",
+        "Drug Discovery and Drug Delivery Systems",
+        "Computational Chemistry and Modeling",
+        "Theory - Computational",
+        "Physical and Chemical Properties",
+        "Self-Assembly",
+        "Statistical Mechanics",
+        "Surface",
+        "Thermodynamics (Physical Chem.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/60c757e6bdbb898c33a3acb3.json",
+      "id": "60c757e6bdbb898c33a3acb3",
+      "title": "Electric Field Induced Biomimetic Transmembrane Electron Transport using Carbon Nanotube Porins as Bipolar Electrodes",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Electrochemical Analysis",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanodevices",
+        "Cell and Molecular Biology"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/60c75984337d6ca897e293f3.json",
+      "id": "60c75984337d6ca897e293f3",
+      "title": "Bridging Oxidase- and Oxygen Reduction Electro-Catalysis by Model Single-Atom Catalysts",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanocatalysis - Catalysts & Materials",
+        "Drug Discovery and Drug Delivery Systems",
+        "Electrocatalysis",
+        "Redox Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/60eeeca5338e9285990b0583.json",
+      "id": "60eeeca5338e9285990b0583",
+      "title": "Inactivation of novel coronavirus and alpha variant by photo-renewable CuxO/TiO2 nanocomposites",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Biological and Medicinal Chemistry",
+        "Materials Science",
+        "Nanoscience",
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Thin Films"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/6486088c4f8b1884b7265466.json",
+      "id": "6486088c4f8b1884b7265466",
+      "title": "Optimization of the diaminobenzidine substrate composition improves the performance of peroxidase-like Prussian Blue nanozymes in colorimetric assays",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Biological and Medicinal Chemistry",
+        "Analytical Chemistry",
+        "Nanoscience",
+        "Analytical Chemistry - General",
+        "Nanocatalysis - Catalysts & Materials",
+        "Biochemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/648ac8a5e64f843f41d008b2.json",
+      "id": "648ac8a5e64f843f41d008b2",
+      "title": "An Activity-Based Sensing Approach to Monitor Nanomaterial-Promoted Changes in Labile Metal Pools in Living Systems",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Biological and Medicinal Chemistry",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Cell and Molecular Biology",
+        "Chemical Biology"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/661ebdaa418a5379b0fb52de.json",
+      "id": "661ebdaa418a5379b0fb52de",
+      "title": "Artificial manganese metalloenzymes with laccase-like activity: Design, Synthesis and Characterization",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Biological and Medicinal Chemistry",
+        "Catalysis",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Chemical Biology",
+        "Biocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/6626e07591aefa6ce1210b7c.json",
+      "id": "6626e07591aefa6ce1210b7c",
+      "title": "Short catalytic peptides with tunable activity: Cys confers functionality and adaptability",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Biological and Medicinal Chemistry",
+        "Catalysis",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Biocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/set_605c72ef153207001f6470d0/metadata/667aab1901103d79c516c406.json",
+      "id": "667aab1901103d79c516c406",
+      "title": "Enhancing Nanozyme-Based Colorimetric Assays by Optimizing Substrate Composition",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Biological and Medicinal Chemistry",
+        "Analytical Chemistry",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials"
+      ]
+    }
+  ]
+}

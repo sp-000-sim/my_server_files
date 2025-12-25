@@ -1,0 +1,82 @@
+{
+  "set_name": "605c72ef153207001f6470ce",
+  "search_token": "catalyst",
+  "total_matches": 5,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470ce/metadata/67da5d256dde43c9085ff076.json",
+      "id": "67da5d256dde43c9085ff076",
+      "title": "Dual-sites for low-concentration NO to NH3 electrosynthesis in neutral media: promoting NO adsorption and water dissociation",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysis",
+        "Catalysts",
+        "Electrocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470ce/metadata/67d26702fa469535b90ca123.json",
+      "id": "67d26702fa469535b90ca123",
+      "title": "Deep Graph Kernel Learning for Material and Atomic Level      Uncertainty Quantification in Adsorption Energy Prediction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Materials Science",
+        "Catalysts",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470ce/metadata/65e774a466c138172943fb87.json",
+      "id": "65e774a466c138172943fb87",
+      "title": "Gold-Thiolate Nanocluster Dynamics and Intercluster Reactions Enabled by a Machine Learned Interatomic Potential",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Machine Learning",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470ce/metadata/6407337ccc600523a3cd2921.json",
+      "id": "6407337ccc600523a3cd2921",
+      "title": "Incorporation of Tungsten or Cobalt into TaN Barrier\\nLayers Controls Morphology of Deposited Copper",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Theory - Computational",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470ce/metadata/60c74b32bb8c1a9e923db16d.json",
+      "id": "60c74b32bb8c1a9e923db16d",
+      "title": "Selecting Machine Learning Models for Metallic Nanoparticles",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience",
+        "Plasmonic and Photonic Structures and Devices",
+        "Machine Learning"
+      ]
+    }
+  ]
+}

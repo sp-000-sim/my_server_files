@@ -1,0 +1,85 @@
+{
+  "set_name": "605c72ef153207001f6470d6",
+  "search_token": "catalyst",
+  "total_matches": 5,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d6/metadata/66666e5912188379d8bd0cb3.json",
+      "id": "66666e5912188379d8bd0cb3",
+      "title": "Low vapor pressure solvents for single-molecule junction measurements",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Physical Chemistry",
+        "Organometallic Chemistry",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanodevices",
+        "Transport phenomena (Physical Chem.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d6/metadata/60c7536d9abda24d30f8dfb2.json",
+      "id": "60c7536d9abda24d30f8dfb2",
+      "title": "Ultra-Low Amounts of Palladium (0.005-0.05 Wt% Pd) Supported on Titania: Remarkable Low-Temperature Activity for NO Reduction with CO and Structure-Function Property Relationships in Methane Oxidation",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Nanocatalysis - Catalysts & Materials",
+        "Heterogeneous Catalysis",
+        "Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d6/metadata/60c73db6f96a00d1ea285e04.json",
+      "id": "60c73db6f96a00d1ea285e04",
+      "title": "Activation of CO2 at Chromia-Nanocluster-Modified Rutile and Anatase TiO2",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Theory - Computational",
+        "Heterogeneous Catalysis",
+        "Photocatalysis",
+        "Catalysis",
+        "Surface"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d6/metadata/60c73d92702a9b329d189bd3.json",
+      "id": "60c73d92702a9b329d189bd3",
+      "title": "CO2 Activation on Heterostructures of Bi2O3-Nanocluster Modified TiO2: Promoting the Critical First Step in CO2 Conversion",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Heterogeneous Catalysis",
+        "Photocatalysis",
+        "Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d6/metadata/60c73d91337d6cfc6ce2616e.json",
+      "id": "60c73d91337d6cfc6ce2616e",
+      "title": "Probing Substrate Diffusion in Interstitial MOF Chemistry with Kinetic Isotope Effects",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Heterogeneous Catalysis",
+        "Kinetics and Mechanism - Organometallic Reactions",
+        "Ligands (Organomet.)",
+        "Chemical Kinetics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "set_name": "lubricant",
+  "search_token": "catalyst",
+  "total_matches": 2,
+  "matches": [
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/lubricant/metadata/US11866761B2.json",
+      "id": "US11866761B2",
+      "title": "Process for producing esters and biolubricants, catalysed by fermented solid",
+      "match_type": "substring",
+      "matched_text": "Biocatalyst",
+      "all_classifications": [
+        "Esters",
+        "Biocatalyst",
+        "Lipases",
+        "Fermentation"
+      ]
+    },
+    {
+      "source_type": "patent",
+      "file": "/home/siddharth/nas/chemquest_patents/lubricant/metadata/US11970574B2.json",
+      "id": "US11970574B2",
+      "title": "Process of manufacturing surfactants and lubricants",
+      "match_type": "substring",
+      "matched_text": "Lewis acid catalyst",
+      "all_classifications": [
+        "Surfactant",
+        "Lubricant",
+        "Ethylene oxide",
+        "Lewis acid catalyst"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "set_name": "605c72ef153207001f6470d1",
+  "search_token": "catalyst",
+  "total_matches": 16,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/6784f0b5fa469535b9c5f3d3.json",
+      "id": "6784f0b5fa469535b9c5f3d3",
+      "title": "Closed-to-open-shell ground state solid state photoswitching of thienyl-based acylhydrazones",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Theoretical and Computational Chemistry",
+        "Organic Chemistry",
+        "Materials Science",
+        "Photochemistry (Org.)",
+        "Carbon-based Materials",
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/672868cf5a82cea2faf66655.json",
+      "id": "672868cf5a82cea2faf66655",
+      "title": "GLAS : An open-source easily expandable Git-based Scheduling Architecture for integral Lab Automation",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Materials Science",
+        "Catalysis",
+        "Process Chemistry",
+        "Catalysts",
+        "Homogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/66a6e6e201103d79c517aaa6.json",
+      "id": "66a6e6e201103d79c517aaa6",
+      "title": "Highly Tolerant Living/Controlled Anionic Polymerization of Dialkyl Acrylamides Enabled by Zinc Triflate/Phosphine Lewis Pair",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Catalysis",
+        "Polymer Science",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/66a370d701103d79c5beb90d.json",
+      "id": "66a370d701103d79c5beb90d",
+      "title": "Photoinduced deprotection of masked boronic acids enables light-triggered polycondensation of siloxanes ",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Polymer Science",
+        "Organic Compounds and Functional Groups",
+        "Photochemistry (Org.)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/64076927cc600523a3cfde9b.json",
+      "id": "64076927cc600523a3cfde9b",
+      "title": "A  Study of [2+2] Cycloaddition–Retroelectrocyclization in Water: Observation of Substrate-driven Transient Nanoreactor Induced New Reactivity",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Organic Chemistry",
+        "Nanoscience",
+        "Organic Compounds and Functional Groups",
+        "Organic Synthesis and Reactions",
+        "Nanocatalysis - Catalysts & Materials",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/611bdfa55322c152fc03bcfb.json",
+      "id": "611bdfa55322c152fc03bcfb",
+      "title": "Synthesis of Phenanthridine by Palladium Catalyzed Suzuki Coupling and Condensation Reaction",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Materials Science",
+        "Organometallic Chemistry",
+        "Organic Compounds and Functional Groups",
+        "Organic Synthesis and Reactions",
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c753e79abda26359f8e0a0.json",
+      "id": "60c753e79abda26359f8e0a0",
+      "title": "Catalyst-Controlled Regiodivergence in Rearrangements of Indole-Based Onium Ylides",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Natural Products",
+        "Organic Compounds and Functional Groups",
+        "Organic Synthesis and Reactions",
+        "Catalysts",
+        "Computational Chemistry and Modeling",
+        "Theory - Computational",
+        "Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c75196f96a005c9e288060.json",
+      "id": "60c75196f96a005c9e288060",
+      "title": "Synthesis and Catalytic Applications of Ultrasmall Copper Nanoparticles Using Aloe Vera Plant Extract",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Organic Synthesis and Reactions",
+        "Nanocatalysis - Catalysts & Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c74788337d6cea36e27373.json",
+      "id": "60c74788337d6cea36e27373",
+      "title": "Spontaneous Aminolytic Cyclization and Self-Assembly of Dipeptide Methyl Esters in Water",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Physical Organic Chemistry",
+        "Supramolecular Chemistry (Org.)",
+        "Catalysts",
+        "Nanostructured Materials - Materials"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c74684469df41169f4366a.json",
+      "id": "60c74684469df41169f4366a",
+      "title": "Mapping the Optoelectronic Property Space of Small Aromatic Molecules",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Physical Organic Chemistry",
+        "Carbon-based Materials",
+        "Catalysts",
+        "Dyes and Chromophores",
+        "Optical Materials",
+        "Photosensitizers",
+        "Computational Chemistry and Modeling",
+        "Chemoinformatics - Computational Chemistry",
+        "Energy Storage",
+        "Photovoltaics"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c7463dbb8c1ab6323da848.json",
+      "id": "60c7463dbb8c1ab6323da848",
+      "title": "Recoverable Microparticle-Supported Metal Nanocatalysts",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Natural Products",
+        "Biocompatible Materials",
+        "Magnetic Materials",
+        "Nanocatalysis - Catalysts & Materials",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c744e1842e6507f1db2519.json",
+      "id": "60c744e1842e6507f1db2519",
+      "title": "A Minimalistic Hydrolase Based on Co-Assembled Cyclic Dipeptides",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Supramolecular Chemistry (Org.)",
+        "Aggregates and Assemblies",
+        "Catalysts",
+        "Organocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c74089337d6c83b1e26719.json",
+      "id": "60c74089337d6c83b1e26719",
+      "title": "Electro-Inductive Effect: Using an Electrode as a Functional Group to Control the Reactivity of Molecules with Voltage",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Physical Organic Chemistry",
+        "Catalysts",
+        "Theory - Computational",
+        "Heterogeneous Catalysis",
+        "Homogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c74061469df40a9bf42c29.json",
+      "id": "60c74061469df40a9bf42c29",
+      "title": "Plasmonic Nanocavities Enable Self-Induced Electrostatic Catalysis",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Physical Organic Chemistry",
+        "Nanocatalysis - Catalysts & Materials",
+        "Plasmonic and Photonic Structures and Devices",
+        "Theory - Computational"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c74049bb8c1a09823d9d74.json",
+      "id": "60c74049bb8c1a09823d9d74",
+      "title": "Evaluation of Industrial Routes to Vinyl Chloride According to Material and Energy Efficiency Green Metrics Analysis",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Organic Synthesis and Reactions",
+        "Catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d1/metadata/60c73f5dbb8c1a50e03d9ac6.json",
+      "id": "60c73f5dbb8c1a50e03d9ac6",
+      "title": "Mechanistic Study and Development of Catalytic Reactions of Sm(II)",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Physical Organic Chemistry",
+        "Catalysts"
+      ]
+    }
+  ]
+}

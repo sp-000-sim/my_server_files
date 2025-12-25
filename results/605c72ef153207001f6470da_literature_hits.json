@@ -1,0 +1,99 @@
+{
+  "set_name": "605c72ef153207001f6470da",
+  "search_token": "catalyst",
+  "total_matches": 6,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470da/metadata/669264155101a2ffa846f985.json",
+      "id": "669264155101a2ffa846f985",
+      "title": "A novel multi-molecular catalysis for CO2 decomposition ",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Catalysis",
+        "Earth, Space, and Environmental Chemistry",
+        "Catalysts",
+        "Atmospheric Chemistry",
+        "Acid Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470da/metadata/6396ab4992f084ccc531f764.json",
+      "id": "6396ab4992f084ccc531f764",
+      "title": "Low bandgap high entropy alloy for visible light-assisted photocatalytic degradation of pharmaceutically active compounds",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Earth, Space, and Environmental Chemistry",
+        "Catalysts",
+        "Materials Processing",
+        "Environmental Science",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470da/metadata/60c73cc0567dfe8ea5ec3568.json",
+      "id": "60c73cc0567dfe8ea5ec3568",
+      "title": "Effective Removal of Water-Soluble Methylated Arsenic Contaminants with Phosphorene Oxide Nanoflakes: A DFT Study",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Alloys",
+        "Nanostructured Materials - Materials",
+        "Thin Films",
+        "Environmental Science",
+        "Wastes",
+        "Nanocatalysis - Catalysts & Materials",
+        "Computational Chemistry and Modeling",
+        "Interfaces",
+        "Physical and Chemical Properties",
+        "Quantum Mechanics",
+        "Surface"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470da/metadata/60c749914c89190390ad30d7.json",
+      "id": "60c749914c89190390ad30d7",
+      "title": "Factorial Design of Experiments for Optimization of Photocatalytic Degradation of Tartrazine by Zinc Oxide (ZnO) Nanorods with Different Aspect Ratios",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Wastes",
+        "Nanocatalysis - Catalysts & Materials",
+        "Chemical Kinetics"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470da/metadata/60c7488cf96a00e6ae287097.json",
+      "id": "60c7488cf96a00e6ae287097",
+      "title": "Order and Disorder in Layered Double Hydroxides: Lessons Learned from the Green Rust Sulphate - Nikischerite Series.",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Geological Materials",
+        "Environmental Science"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470da/metadata/60c74191ee301c1fabc78cb7.json",
+      "id": "60c74191ee301c1fabc78cb7",
+      "title": "Palladium/ Zeolite Low Temperature Passive NOx Adsorbers (PNA): Structure-Adsorption Property Relationships for Hydrothermally Aged PNA Materials",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Environmental Science",
+        "Industrial Manufacturing"
+      ]
+    }
+  ]
+}

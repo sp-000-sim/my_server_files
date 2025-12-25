@@ -1,0 +1,897 @@
+{
+  "set_name": "605c72ef153207001f6470d7",
+  "search_token": "catalyst",
+  "total_matches": 59,
+  "matches": [
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/67866d056dde43c9087b064f.json",
+      "id": "67866d056dde43c9087b064f",
+      "title": "Using Data Science to Interrogate \\nTransition State Stabilization in Anion-Binding Catalysis \\nfor Disulfide Ring-Opening Polymerization",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Polymer Science",
+        "Physical Organic Chemistry",
+        "Supramolecular Chemistry (Org.)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6747ffbc7be152b1d02f5606.json",
+      "id": "6747ffbc7be152b1d02f5606",
+      "title": "A greener and more scalable synthesis of biogenic polydisulfides from lipoic acid",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Biopolymers",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/673ca19d7be152b1d09f8681.json",
+      "id": "673ca19d7be152b1d09f8681",
+      "title": "Comparison of PGSE NMR and ESI-MS Measurements on Methylaluminoxane",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Organometallic Chemistry",
+        "Polymer Science",
+        "Polymerization catalysts",
+        "Homogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6723b619f9980725cfb5014b.json",
+      "id": "6723b619f9980725cfb5014b",
+      "title": "Triblock architecture and PEG hydrophilic blocks enable efficient thermogelation of poly(2-phenyl-2-oxazine)-based worm-gels",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Polymer Science",
+        "Biocompatible Materials",
+        "Hydrogels",
+        "Polymerization catalysts",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/670a1d0751558a15efd578f3.json",
+      "id": "670a1d0751558a15efd578f3",
+      "title": "Highly Strained Tricyclic Oxanorbornenes with Uncommon Reactivity Enable Rapid ROMP for High-Performance Polyenes",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/65d33090e9ebbb4db9af8171.json",
+      "id": "65d33090e9ebbb4db9af8171",
+      "title": "High Molar Mass Polycarbonates as Closed-Loop Recyclable Thermoplastics",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organometallic Chemistry",
+        "Polymer Science",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/65ca62a9e9ebbb4db931725f.json",
+      "id": "65ca62a9e9ebbb4db931725f",
+      "title": "Enzymatic Synthesis of Furan-Based Copolymers: Material Characterization and Potential for Biomedical Applications ",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Organic Polymers",
+        "Polymerization catalysts",
+        "Polymer scaffolds"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/65b2486966c13817293ba717.json",
+      "id": "65b2486966c13817293ba717",
+      "title": "Synthesis and properties of polythiophene bearing an alkylsulfonic acid ester at the side chain",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Polymer Science",
+        "Organic Synthesis and Reactions",
+        "Conducting polymers",
+        "Polymerization catalysts",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/65a2807c66c13817295a6bfe.json",
+      "id": "65a2807c66c13817295a6bfe",
+      "title": "First Cu-Nanostar as Sustainable Catalyst Realized through Synergistic Effects of Bowl-shaped Features and Surface Activation of Sporopollenin Exine",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Nanostructured Materials - Nanoscience",
+        "Heterogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6583d3be9138d231612aa6d5.json",
+      "id": "6583d3be9138d231612aa6d5",
+      "title": "Studies on circular dichroism behaviors of aggregated poly(1,4-phenylene)s with head-to-tail regioregularity",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Conducting polymers",
+        "Organic Polymers",
+        "Polymerization catalysts",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/656806d45bc9fcb5c9b26bfd.json",
+      "id": "656806d45bc9fcb5c9b26bfd",
+      "title": "Photocontrolled Stereoselective Cationic Polymerization",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Polymerization catalysts",
+        "Organocatalysis",
+        "Photocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/651cd2318bab5d20559a7044.json",
+      "id": "651cd2318bab5d20559a7044",
+      "title": "Accelerated and controlled polymerization of N-carboxyanhydrides catalyzed by acids",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6514a35fa69febde9ece7088.json",
+      "id": "6514a35fa69febde9ece7088",
+      "title": "ABCD Block Copolymers Using a Multistate Aluminum Complex",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Organometallic Chemistry",
+        "Polymer Science",
+        "Polymerization catalysts",
+        "Homogeneous Catalysis",
+        "Ligand Design"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6492a4e4a2c387fa9aaf83cd.json",
+      "id": "6492a4e4a2c387fa9aaf83cd",
+      "title": "Ring-opening terpolymerisation of phthalic thioanhydride with carbon dioxide and epoxides ",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Polymerization catalysts",
+        "Homogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6492cc57853d501c00426d18.json",
+      "id": "6492cc57853d501c00426d18",
+      "title": "Precise construction of weather-sensitive poly(ester-alt-thioesters) from phthalic thioanhydride\\nand oxetane",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Organic Polymers",
+        "Polymerization catalysts",
+        "Homogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6488c327e64f843f41bd2eec.json",
+      "id": "6488c327e64f843f41bd2eec",
+      "title": "Enzymatically catalyzed furan-based copolyesters containing dilinoleic diol as a building block",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Polymer Science",
+        "Biodegradable Materials",
+        "Polymerization catalysts",
+        "Polymer morphology"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6438bbf073c6563f14d19cba.json",
+      "id": "6438bbf073c6563f14d19cba",
+      "title": "cis-Selective Acyclic Diene Metathesis Polymerization of α, ω-Dienes",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Organic Polymers",
+        "Polymerization catalysts",
+        "Homogeneous Catalysis",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/641dff93647e3dca9973f174.json",
+      "id": "641dff93647e3dca9973f174",
+      "title": "Injectable and photocurable macromonomers synthesized using a heterometallic magnesium-titanium metal-organic catalyst for elastomeric polymer networks",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Polymer Science",
+        "Biocompatible Materials",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/63d827e8d8f55fd0aa954fad.json",
+      "id": "63d827e8d8f55fd0aa954fad",
+      "title": "Mechanically Activated Covalent Organic Framework as Metal Free Photocatalyst for Continuous Flow Fenton-like Degradation of Organic Pollutants and Hexavalent Chromium Reduction",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Heterogeneous Catalysis",
+        "Photocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/63cf3206bb08ed75511511aa.json",
+      "id": "63cf3206bb08ed75511511aa",
+      "title": "RAFT polymerization by the radical decarboxylation of carboxylic acids",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Organic Polymers",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/63b78e9474e09517dd0fe690.json",
+      "id": "63b78e9474e09517dd0fe690",
+      "title": "Post-functionalization and Mechanical Properties of Poly(lactide-cyclohexadiene oxide) Block Copolymers",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Biopolymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/63b775354a7fa1dc8f11d27a.json",
+      "id": "63b775354a7fa1dc8f11d27a",
+      "title": "Synthesis and Self-assembly of Limonene Oxide - Lactide Block Copolymers",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Biopolymers",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/63480e663e8d99aea61870e7.json",
+      "id": "63480e663e8d99aea61870e7",
+      "title": "Polyketones from Carbon Dioxide and Ethylene by Integrating Electrochemical and Organometallic Catalysis",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Organometallic Chemistry",
+        "Polymer Science",
+        "Polymerization catalysts",
+        "Electrocatalysis",
+        "Electrochemistry - Organometallic"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/634389ace665bda0f424f1a8.json",
+      "id": "634389ace665bda0f424f1a8",
+      "title": "Toward high-performance stereo- and sequence-defined block copolymers via site-monomer specific recognition of chiral three-site organocatalyst",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/633de6a7cf3829554abea483.json",
+      "id": "633de6a7cf3829554abea483",
+      "title": "Frontal Polymerizations: From Chemical Perspectives to Macroscopic Properties and Applications",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Polymerization kinetics",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/62f7753ea01447e65bb5dce0.json",
+      "id": "62f7753ea01447e65bb5dce0",
+      "title": "Polyureas as SEI-forming Additives for Li Metal Anodes",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Polymer Science",
+        "Energy",
+        "Catalysts",
+        "Organic Polymers",
+        "Energy Storage"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/62c492a6d66f681fb9bdaafe.json",
+      "id": "62c492a6d66f681fb9bdaafe",
+      "title": "Isocyanate-free Polyurea Synthesis via Ru-Catalyzed Car-bene Insertion into the N‒H Bonds of Urea",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Polymerization catalysts",
+        "Polymerization kinetics",
+        "Homogeneous Catalysis",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/61fa02aa71868d546ac6e929.json",
+      "id": "61fa02aa71868d546ac6e929",
+      "title": "Stereocontrolled Acyclic Diene Metathesis Polymerization",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Polymer Science",
+        "Stereochemistry",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/61d817f76be4207ba824e05e.json",
+      "id": "61d817f76be4207ba824e05e",
+      "title": "Fatty-acid-derived ester-urethane macromonomers synthesized using bismuth and zinc catalysts",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Materials Science",
+        "Polymer Science",
+        "Biocompatible Materials",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/61581c59700ea6bb3a75c3ac.json",
+      "id": "61581c59700ea6bb3a75c3ac",
+      "title": "Metal-Free Stereoselective Cationic Polymerization of Vinyl Ethers by Employing a Confined Brønsted Acid as the Catalyst",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymer Science",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6142346eabeb63ab93d40b42.json",
+      "id": "6142346eabeb63ab93d40b42",
+      "title": "Synthesis of Chain Transfer Agents for RAFT Polymerization by using DBU",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Chemistry",
+        "Polymer Science",
+        "Organic Compounds and Functional Groups",
+        "Organic Synthesis and Reactions",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/6139d65c656369336f26f151.json",
+      "id": "6139d65c656369336f26f151",
+      "title": "Polydopamine coated CdSe@CdS dot-in-rod heterostructures with Rhodium-based catalysts for stable photocatalytic NAD+ reduction",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Catalysis",
+        "Polymer Science",
+        "Nanoscience",
+        "Nanocatalysis - Catalysts & Materials",
+        "Heterogeneous Catalysis",
+        "Photocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c7580bbdbb8910e8a3ad09.json",
+      "id": "60c7580bbdbb8910e8a3ad09",
+      "title": "Heterogenisation of a Carbonylation Catalyst on Dispersible Microporous Polymer Nanoparticles",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Organic Polymers",
+        "Kinetics and Mechanism - Inorganic Reactions",
+        "Organometallic Compounds",
+        "Polymers",
+        "Heterogeneous Catalysis",
+        "Homogeneous Catalysis",
+        "Catalysis",
+        "Kinetics and Mechanism - Organometallic Reactions",
+        "Materials Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c757d34c8919576bad4aab.json",
+      "id": "60c757d34c8919576bad4aab",
+      "title": "Exponential Amplification Using Photoredox Autocatalysis",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Dyes and Chromophores",
+        "Organic Polymers",
+        "Polymerization catalysts",
+        "Biochemical Analysis",
+        "Reaction Engineering",
+        "Photocatalysis",
+        "Redox Catalysis",
+        "Chemical Kinetics",
+        "Photochemistry (Physical Chem.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c757040f50db5ead3981bb.json",
+      "id": "60c757040f50db5ead3981bb",
+      "title": "Polyethylene Materials with In-Chain Ketones from Catalytic Copolymerization",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Inorganic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c7548d842e65d85bdb416c.json",
+      "id": "60c7548d842e65d85bdb416c",
+      "title": "Photocatalyst-Independent Photoredox Ring-Opening Polymerization of O-Carboxyanhydrides: Stereocontrol and Mechanism",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Polymerization (Organomet.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74edabb8c1af5a83db809.json",
+      "id": "60c74edabb8c1af5a83db809",
+      "title": "Effective Regulation of Polycaprolactone Molecular Weight and Oligomers Content Using Tetraphenyltin Catalyst",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Biopolymers",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Polymerization kinetics"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74ea9702a9b3ee618ba32.json",
+      "id": "60c74ea9702a9b3ee618ba32",
+      "title": "A Recommender System for Inverse Design of Polycarbonates and Polyesters",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Polymers"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74da2337d6c4105e27dff.json",
+      "id": "60c74da2337d6c4105e27dff",
+      "title": "Rapid High Resolution Visible Light 3D Printing",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Dyes and Chromophores",
+        "Elastic Materials",
+        "Materials Processing",
+        "Photosensitizers",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74d24ee301ceebdc7a1e0.json",
+      "id": "60c74d24ee301ceebdc7a1e0",
+      "title": "Catalyst Halogenation Enables Rapid and Efficient Polymerizations with Visible to Near-Infrared Light",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Polymerization kinetics",
+        "Photocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74d1fbdbb894cf9a3991d.json",
+      "id": "60c74d1fbdbb894cf9a3991d",
+      "title": "Tertiary Amines Paired with Trialkyl Boranes: A Simple Organocatalyst for Fully Alternating Copolymerization of Carbon Dioxide and Propylene Oxide",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74b17337d6ca68ae27a13.json",
+      "id": "60c74b17337d6ca68ae27a13",
+      "title": "Stereoretentive Ring-Opening Metathesis Polymerization to Access All-cis Poly(p-phenylene vinylene)s with Living Characteristics",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Conducting polymers",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Homogeneous Catalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74ae9bdbb89cf61a3947a.json",
+      "id": "60c74ae9bdbb89cf61a3947a",
+      "title": "Functionalized Polyesters via Stereoselective Electrochemical Ring-Opening Polymerization of O-Carboxyanhydrides",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c749fb842e6546c6db2e5a.json",
+      "id": "60c749fb842e6546c6db2e5a",
+      "title": "3D Printing and Growth Induced Bending based on PET-RAFT Polymerization",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Dyes and Chromophores",
+        "Materials Processing",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c748e3702a9b182d18b081.json",
+      "id": "60c748e3702a9b182d18b081",
+      "title": "Iron Catalyzed Synthesis and Chemical Recycling of Telechelic, 1,3-Enchained Oligocyclobutanes",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Oligomers",
+        "Organic Polymers",
+        "Polymer chains",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Catalysis",
+        "Polymerization (Organomet.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74947842e657a7cdb2cdf.json",
+      "id": "60c74947842e657a7cdb2cdf",
+      "title": "Protoenzymes: The Case of Hyperbranched Polymer-Scaffolded ZnS Nanocrystals",
+      "match_type": "substring",
+      "matched_text": "Nanocatalysis - Catalysts & Materials",
+      "all_categories": [
+        "Biopolymers",
+        "Polymer scaffolds",
+        "Nanocatalysis - Catalysts & Materials",
+        "Biocatalysis"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c748e3f96a00047028713b.json",
+      "id": "60c748e3f96a00047028713b",
+      "title": "Identification of Prime Factors to Maximize the Photocatalytic Hydrogen Evolution of Covalent Organic Frameworks",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Organic Polymers",
+        "Heterogeneous Catalysis",
+        "Photocatalysis",
+        "Energy Storage",
+        "Spectroscopy (Physical Chem.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c7482eee301c6fc2c79818.json",
+      "id": "60c7482eee301c6fc2c79818",
+      "title": "Sequence-Modification in Copoly(ester-Imide)s: A Catalytic/supramolecular Approach to Writing/reading Copolymer Sequence-Information",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Polymers",
+        "Polymer chains",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74851f96a000590287059.json",
+      "id": "60c74851f96a000590287059",
+      "title": "Cross-Coupling Polymerization at Iodophenyl Thin Films Prepared by Spontaneous Grafting of a Diazonium Salt",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Conducting polymers",
+        "Organic Polymers",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74769f96a000408286f1a.json",
+      "id": "60c74769f96a000408286f1a",
+      "title": "Chemoselective Ring-Opening Polymerization of Bio-Renewable α-Methylene-γ-Butyrolactone via an Organophosphazene/urea Binary Synergistic Catalytic System Toward a Sustainable Polyester",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymerization (Polymers)",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74714ee301c2924c7963a.json",
+      "id": "60c74714ee301c2924c7963a",
+      "title": "Combining Automated Microfluidic Experimentation with Machine Learning for Efficient Polymerization Design",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Organic Synthesis and Reactions",
+        "Process Chemistry",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Polymerization kinetics",
+        "Analytical Apparatus",
+        "Chemoinformatics",
+        "Spectroscopy (Anal. Chem.)",
+        "High-throughput Screening",
+        "Theory - Computational",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Chemoinformatics - Computational Chemistry",
+        "Industrial Manufacturing",
+        "Process Control",
+        "Reaction Engineering",
+        "Homogeneous Catalysis",
+        "Organocatalysis",
+        "Catalysis",
+        "Polymerization (Organomet.)",
+        "Reaction (Organomet.)"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c745b7567dfe625fec44dd.json",
+      "id": "60c745b7567dfe625fec44dd",
+      "title": "PET-RAFT Facilitated 3D Printing of Polymeric Materials",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Dyes and Chromophores",
+        "Materials Processing",
+        "Hydrogels",
+        "Organic Polymers",
+        "Polymerization (Polymers)",
+        "Polymerization catalysts",
+        "Polymer scaffolds"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c7449af96a00c3a3286a66.json",
+      "id": "60c7449af96a00c3a3286a66",
+      "title": "Polymer Metal-Organic Cage Gels Based on Cu24L24 Cuboctahedra: Design, Synthesis, and Additive Manufacturing Enabled by Three-State Photoswitching",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Coordination polymers",
+        "Hydrogels",
+        "Inorganic Polymers",
+        "Organic Polymers",
+        "Polymerization catalysts",
+        "Polymer scaffolds"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74315bb8c1a56e23da268.json",
+      "id": "60c74315bb8c1a56e23da268",
+      "title": "Structurally Diverse Covalent Triazine-based Framework Materials for Photocatalytic Hydrogen Evolution from Water",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Catalysts",
+        "Photosensitizers",
+        "Conducting polymers"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c742794c89190803ad2499.json",
+      "id": "60c742794c89190803ad2499",
+      "title": "‘Connecting the Dots’: Knitting C-Phenylresorcin[4]arenes with Aromatic Linkers for Task-Specific Porous Organic Polymers",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Supramolecular Chemistry (Org.)",
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Organic Polymers"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c7422e842e65628edb202a.json",
+      "id": "60c7422e842e65628edb202a",
+      "title": "Reprocessing Cross-linked Polyurethanes by Catalyzing Carbamate Exchange",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Physical Organic Chemistry",
+        "Materials Processing",
+        "Organic Polymers",
+        "Polymerization catalysts"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c74127702a9b7af218a1f0.json",
+      "id": "60c74127702a9b7af218a1f0",
+      "title": "Specific-Ion Effects Directed Noble Metal Aerogels: Versatile Manipulation for Electrocatalysis and Beyond",
+      "match_type": "exact_item",
+      "matched_text": "Catalysts",
+      "all_categories": [
+        "Aggregates and Assemblies",
+        "Catalysts",
+        "Nanostructured Materials - Materials",
+        "Hydrogels",
+        "Nanostructured Materials - Nanoscience",
+        "Theory - Computational",
+        "Self-Assembly",
+        "Solution Chemistry"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c740639abda228e8f8bc9b.json",
+      "id": "60c740639abda228e8f8bc9b",
+      "title": "Revisiting Glycerol Esterification with Acetic Acid over Amberlyst-35 via Statistically Designed Experiments: Overcoming Transport Limitations",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Polymerization catalysts",
+        "Heterogeneous Catalysis",
+        "Nanocatalysis - Reactions & Mechanisms"
+      ]
+    },
+    {
+      "source_type": "literature",
+      "file": "/home/siddharth/nas/chemquest_literature/605c72ef153207001f6470d7/metadata/60c73f5fee301ca76cc788d6.json",
+      "id": "60c73f5fee301ca76cc788d6",
+      "title": "Acid Catalyzed Polymerization of Phenyl Ethane 1,2-diol for One-Pot Synthesis of Organosoluble Poly(phenylene Vinylene)",
+      "match_type": "substring",
+      "matched_text": "Polymerization catalysts",
+      "all_categories": [
+        "Conducting polymers",
+        "Polymerization catalysts",
+        "Acid Catalysis"
+      ]
+    }
+  ]
+}
