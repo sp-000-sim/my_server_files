@@ -1,0 +1,117 @@
+{
+  "file_name": "EP3545952A2.pdf",
+  "num_pages": 9,
+  "total_token_count": 15370,
+  "total_chunks": 201,
+  "total_images": 6,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2097,
+      "num_chunks": 37,
+      "num_images": 3
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2045,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2184,
+      "num_chunks": 27,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1989,
+      "num_chunks": 25,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2295,
+      "num_chunks": 22,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1953,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1786,
+      "num_chunks": 32,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 391,
+      "num_chunks": 8,
+      "num_images": 3
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 630,
+      "num_chunks": 8,
+      "num_images": 0
+    }
+  ]
+}

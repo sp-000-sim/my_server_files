@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5//EN" "ep-patent-document-v1-5.dtd">
+<ep-patent-document id="EP11797364B1" file="EP11797364NWB1.xml" lang="fr" country="EP" doc-number="2637500" kind="B1" date-publ="20180228" status="n" dtd-version="ep-patent-document-v1-5">
+<SDOBI lang="fr"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 0.1.63 (23 May 2017) -  2100000/0</B007EP></eptags></B000><B100><B110>2637500</B110><B120><B121>FASCICULE DE BREVET EUROPEEN</B121></B120><B130>B1</B130><B140><date>20180228</date></B140><B190>EP</B190></B100><B200><B210>11797364.4</B210><B220><date>20111104</date></B220><B240><B241><date>20130430</date></B241><B242><date>20140506</date></B242></B240><B250>fr</B250><B251EP>fr</B251EP><B260>fr</B260></B200><B300><B310>1059195</B310><B320><date>20101108</date></B320><B330><ctry>FR</ctry></B330></B300><B400><B405><date>20180228</date><bnum>201809</bnum></B405><B430><date>20130918</date><bnum>201338</bnum></B430><B450><date>20180228</date><bnum>201809</bnum></B450><B452EP><date>20170906</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>A01N  25/04        20060101AFI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A01N  63/02        20060101ALI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A01N  65/00        20090101ALI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A01N  65/24        20090101ALI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>A01P   1/00        20060101ALI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>A01P  15/00        20060101ALI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C09D   5/14        20060101ALI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C09D  11/00        20140101ALI20120529BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>A01N  37/02        20060101ALI20120529BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>FLÜSSIGE ZUSAMMENSETZUNGEN ZUR HERSTELLUNG EINER BESCHICHTUNG MIT ANTIVIRALEN EIGENSCHAFTEN</B542><B541>en</B541><B542>LIQUID COMPOSITIONS FOR FORMING A COATING WITH ANTIVIRAL PROPERTIES</B542><B541>fr</B541><B542>COMPOSITIONS FLUIDES APTES À FORMER UN REVÊTEMENT PRÉSENTANT DES PROPRIÉTÉS ANTIVIRALES</B542></B540><B560><B561><text>EP-A2- 1 138 314</text></B561><B561><text>WO-A1-2005/056449</text></B561><B561><text>WO-A1-2006/008566</text></B561><B561><text>WO-A2-03/084326</text></B561><B561><text>WO-A2-2008/127416</text></B561><B561><text>WO-A2-2010/128487</text></B561><B561><text>US-A- 4 662 403</text></B561><B561><text>US-A- 5 968 538</text></B561><B562><text>DATABASE WPI Week 201032 Thomson Scientific, London, GB; AN 2010-F02129 XP002660092, &amp; CN 101 698 769 A (FOSHAN FUTIAN COATING CHEM CO LTD) 28 avril 2010 (2010-04-28)</text></B562><B562><text>LOIZZO M R ET AL: "Phytochemical Analysis and in vitro Antiviral Activities of the Essential Oils of Seven Lebanon Species", CHEMISTRY &amp; BIODIVERSITY, HELVETICA CHIMICA ACTA, ZUERICH, CH, vol. 5, no. 3, 1 mars 2008 (2008-03-01), pages 461-470, XP002558017, ISSN: 1612-1872, DOI: 10.1002/CBDV.200890045 [extrait le 2008-03-20]</text></B562><B562><text>CLARKE N M ET AL: "Effect of antimicrobial factors in human milk on rhinoviruses and milk-bourne cytomegalovirus in vitro", JOURNAL OF MEDICAL MICROBIOLOGY, HARLOW, GB, vol. 49, 30 juin 2000 (2000-06-30), pages 719-723, XP002558016, ISSN: 0022-2615</text></B562><B562><text>LUCILLA SEGANTI ET AL: "Antiviral activity of lactoferrin towards naked viruses", BIOMETALS, KLUWER ACADEMIC PUBLISHERS, BO, vol. 17, no. 3, 1 juin 2004 (2004-06-01), pages 295-299, XP019232211, ISSN: 1572-8773, DOI: 10.1023/B:BIOM.0000027708.27142.BC</text></B562><B562><text>HALLDOR THORMAR ET AL: "Inactivation of Enveloped Viruses and Killing of Cells by Fatty Acids and Monoglycerides", ANTIMICROBIAL AGENTS AND CHEMOTHERAPY, 1 janvier 1987 (1987-01-01), pages 27-31, XP55018609,</text></B562><B562><text>Tatsawan Tipvarakarnkoon ET AL: "Rheological properties and phase change behaviors of coconut fats and oils", ANNUAL TRANSACTIONS OF THE NORDIC RHEOLOGY SOCIETY, 1 January 2008 (2008-01-01), pages 1-7, XP55115490, Retrieved from the Internet: URL:http://rheology-esr.net/Open_transacti ons/2008/Posters/Tipvarakarnkoon et al.pdf [retrieved on 2014-04-28]</text></B562></B560></B500><B700><B720><B721><snm>ROSSET, Henri</snm><adr><str>66 allée de la Combe Chatte</str><city>38730 Le Pin</city><ctry>FR</ctry></adr></B721></B720><B730><B731><snm>Oberthur Fiduciaire SAS</snm><iid>101319803</iid><irf>BR580770/KLP</irf><adr><str>7 avenue de Messine</str><city>75008 Paris</city><ctry>FR</ctry></adr></B731></B730><B740><B741><snm>Nony</snm><iid>101303589</iid><adr><str>11 rue Saint-Georges</str><city>75009 Paris</city><ctry>FR</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>IB2011054927</anum></dnum><date>20111104</date></B861><B862>fr</B862></B860><B870><B871><dnum><pnum>WO2012063176</pnum></dnum><date>20120518</date><bnum>201220</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="fr"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">L'invention concerne des compositions fluides aptes à former, en surface de support, un revêtement, en particulier un vernis, une encre, une laque ou une peinture, et avantageusement dotées de propriétés antivirales.</p>
+<p id="p0002" num="0002">Le domaine de l'invention est plus particulièrement celui des compositions destinées à être appliquées en surface d'un support souple ou massique en vue d'y figurer une couche de protection et/ou de figuration et/ou esthétique et/ou un motif.</p>
+<p id="p0003" num="0003">Dans les sociétés modernes, une quantité de plus en plus importante de matériaux ou objets entrant dans le champ d'application de l'invention est dédiée à être manipulée quotidiennement et fréquemment par un grand nombre de personnes.</p>
+<p id="p0004" num="0004">A titre illustratif et non limitatif de ces objets, peuvent notamment être cités les substrats, notamment des billets de banque ou des cartes telles que des cartes à puce, ou objets plastiques tels que par exemple les jouets, les claviers et souris d'ordinateurs, les écrans tactiles et les claviers, écrans et combinés de téléphones, les instruments de soins, médicaux ou de santé, les instruments de musique, les vêtements de travail, les outils, les tissus d'ameublement.</p>
+<p id="p0005" num="0005">Pour des raisons évidentes, les utilisateurs de ces objets peuvent être porteurs de virus, susceptibles de générer des maladies épidémiques et pandémiques plus ou moins graves et, à ce titre, être susceptibles de contaminer tout objet à leur contact. Or, lorsque cet objet est dédié à être consécutivement manipulé par un ou plusieurs autres utilisateurs, il devient à son tour un important véhicule de dissémination, à l'égard d'autres personnes, du virus véhiculé par le premier utilisateur.</p>
+<p id="p0006" num="0006">En conséquence, il serait avantageux de pouvoir neutraliser dans un bref délai tout virus en contact avec un objet ou substrat dédié à un usage multiple.</p>
+<p id="p0007" num="0007">Pour des raisons manifestes, ce mode de neutralisation doit d'une part être efficace et d'autre part avoir une durée prolongée dans le temps. En outre, il doit être facile de mise en oeuvre et dans la mesure du possible ne pas affecter l'usage de l'objet considéré.</p>
+<p id="p0008" num="0008">Le document <patcit id="pcit0001" dnum="US5968538A"><text>US 5 968 538</text></patcit> propose une méthode pour procurer des propriétés anti-pathogéniques à un substrat <i>via</i> la formation d'un revêtement à partir d'une composition contenant un agent anti-pathogénique consistant essentiellement en de la povidone iodée (PVP-1) et du nonoxynol (N-9).<!-- EPO <DP n="2"> --></p>
+<p id="p0009" num="0009">La publication <nplcit id="ncit0001" npl-type="s"><text>Clarke et al., Journal of Medical Microbiology, vol. 49, pages 719-723</text></nplcit>, rapporte une étude de l'efficacité antivirale de facteurs antimicrobiens présents dans le lait humain contre trois rhinovirus et un isolat de cytomégalovirus (CMV), et indique l'efficacité de la vitamine A, de la monolaurine et de la lactoferrine pour inhiber la croissance du CMV.</p>
+<p id="p0010" num="0010">La publication<nplcit id="ncit0002" npl-type="s"><text> Thormar et al., Antimicrobial Agents and Chemotherapy, 1987-01-01, pages 27-31</text></nplcit>, rapporte une étude de l'efficacité d'un certain nombre d'acides gras, notamment de l'acide laurique et de la monolaurine, contre des virus enveloppés, tels que VSV, VV et HSV-1.</p>
+<p id="p0011" num="0011">Le document <patcit id="pcit0002" dnum="US4662403A"><text>US 4,662,403</text></patcit> propose la mise en oeuvre d'une émulsion de monolaurine pour traiter des emballages en cellulose utilisés pour les saucisses, la monolaurine étant fixée à la surface cellulosique des emballages formés.</p>
+<p id="p0012" num="0012">Contre toute attente, les inventeurs ont constaté que les objectifs précités sont satisfaits via la mise en oeuvre d'une composition fluide antivirale apte à former un revêtement.</p>
+<p id="p0013" num="0013">Ainsi, l'invention concerne, selon un de ses aspects, une composition fluide selon la revendication 1.</p>
+<p id="p0014" num="0014">Au sens de l'invention, une température ambiante s'entend comme une température variant de 18 à 25 °C.</p>
+<p id="p0015" num="0015">L'invention concerne en particulier une composition fluide apte à former un revêtement en surface de matériaux ou un substrat, et plus particulièrement destinée à recouvrir les objets susceptibles de véhiculer des virus, notamment des jouets pour enfants, ou encore des instruments de soins, médicaux ou de santé, des billets de banque ou des cartes telles que des cartes à puce.</p>
+<p id="p0016" num="0016">Ainsi, selon un autre de ses aspects, l'invention concerne des objets, notamment tels que décrits ci-dessus, caractérisés en ce qu'il sont susceptibles d'être obtenus par un procédé comprenant au moins une étape de revêtement en surface par une composition fluide selon l'invention.</p>
+<p id="p0017" num="0017">Selon un de ses aspects, l'étape de revêtement décrite ci-dessus est effectuée par pulvérisation, impression, surimpression, surfaçage, couchage ou dépôt de la composition selon l'invention sur la surface.<!-- EPO <DP n="3"> --></p>
+<p id="p0018" num="0018">D'une manière générale, le virucide requis selon l'invention est formulé dans un milieu solvant, notamment tel que défini ci-après.</p>
+<p id="p0019" num="0019">Comme il ressort des exemples ci-après, le virucide considéré selon l'invention, s'avère avantageux au-delà de son activité biologique.</p>
+<p id="p0020" num="0020">Tout d'abord, il se prête à une solubilisation dans les milieux solvants classiquement considérés pour le traitement de surface de support, et qui sont très souvent des solvants aqueux ou des résines à réticulation UV.</p>
+<p id="p0021" num="0021">Par ailleurs, les solutions correspondantes et en particulier les solutions aqueuses ou à réticulation UV conservent leur aspect coloriel d'origine. En d'autres termes, si le milieu solvant est nativement incolore, ce même milieu formulé avec le virucide conserve cette transparence.</p>
+<p id="p0022" num="0022">Aussi, dans le cas d'un vernis, le revêtement qu'il forme en surface d'un support, est à la fois efficace et peut être totalement transparent, sous réserve de la nature du milieu solvant retenu.</p>
+<p id="p0023" num="0023">Cette pseudo invisibilité du revêtement est pour des raisons évidentes, particulièrement intéressante. En particulier, les vernis selon l'invention s'avèrent particulièrement avantageux pour constituer des vernis de surimpression de support d'information tels que des billets. Ils ne gênent pas la visibilité des éléments de sécurité intégrés dans ces billets.</p>
+<p id="p0024" num="0024">De même, dans le cas d'une encre, peinture ou laque, la présence d'un virucide selon l'invention, ne s'avère pas préjudiciable à l'effet coloriel recherché parallèlement avec le ou les pigments associés.</p>
+<p id="p0025" num="0025">Par ailleurs, les inventeurs ont constaté que l'activité virucide des revêtements formés selon l'invention en surface de support ne s'avère pas altérée par une exposition prolongée à la lumière ou à une lumière UV.</p>
+<p id="p0026" num="0026">Enfin, comme détaillé ci-après, l'efficacité virucide, est obtenue avec des concentrations réduites en virucide. De façon surprenante, une quantité inférieure à 3 % voire à 2 % en poids de virucide exprimée en poids sec du revêtement le contenant, en particulier un vernis, s'avère particulièrement efficace.</p>
+<p id="p0027" num="0027">Selon une variante particulière, les compositions selon l'invention contiennent également en outre au moins un agent humectant.</p>
+<p id="p0028" num="0028">Les compositions considérées selon l'invention sont plus particulièrement des<!-- EPO <DP n="4"> --> vernis, des encres, des laques ou des peintures.</p>
+<p id="p0029" num="0029">Selon un mode de réalisation, les compositions considérées selon l'invention sont des vernis, et plus particulièrement des vernis de surimpression.</p>
+<p id="p0030" num="0030">En conséquence, les compositions selon l'invention peuvent contenir, outre le virucide, au moins un des composants classiquement considérés dans ce type de formulations.</p>
+<p id="p0031" num="0031">Ainsi, les agents liants sont des composés conventionnellement utilisés dans les compositions de type vernis et/ou encre. Ils y ont généralement pour fonction d'assurer la dispersion des particules tels que les pigments si présents au sein de la composition et de contribuer, après séchage et/ou réticulation de la composition appliquée en surface d'un support, à la formation d'un film de dureté suffisante pour assurer à ce dernier une pérennité.</p>
+<p id="p0032" num="0032">Contre toute attente, les inventeurs ont en effet constaté qu'il est possible de concilier la présence au sein d'une même composition de deux types de composés aussi distincts qu'un agent liant et un virucide sans porter préjudice à leurs efficacités respectives.</p>
+<p id="p0033" num="0033">Les compositions selon l'invention contiennent donc avantageusement en outre au moins un agent liant et le cas échéant au moins un pigment.</p>
+<p id="p0034" num="0034">L'invention concerne également, selon un autre de ses aspects, un procédé utile pour conférer des propriétés virucides à tout ou partie de la surface d'un support souple ou massique selon la revendication 11.</p>
+<p id="p0035" num="0035">D'une manière générale, le revêtement attendu est obtenu à l'issue du séchage de la composition appliquée.</p>
+<p id="p0036" num="0036">Selon une variante de réalisation, le séchage de la composition appliquée est un séchage UV. Selon ce mode de réalisation, les encres ou les vernis obtenus seront qualifiés de vernis « UV » ou d'encre « UV ».</p>
+<p id="p0037" num="0037">Le virucide selon l'invention est un virucide d'origine naturelle, notamment tel que défini ci-après.</p>
+<p id="p0038" num="0038">Selon une variante de réalisation, le virucide peut être généré <i>in situ</i> à partir d'une composition selon l'invention contenant, à titre d'actif, une forme précurseur de ce virucide.</p>
+<p id="p0039" num="0039">Ainsi, l'invention concerne également un procédé selon la revendication 12.<!-- EPO <DP n="5"> --></p>
+<heading id="h0001"><b><u>Composition fluide</u></b></heading>
+<p id="p0040" num="0040">Comme il ressort de qui précède, une composition fluide selon l'invention présente une viscosité comprise entre 30 mPa.s et 40 Pa.s, en particulier entre 50 mPa.s et 25 Pa.s, mesurée à température et pression ambiante.</p>
+<p id="p0041" num="0041">Les viscosités des compositions peuvent être mesurées par des méthodes conventionnelles. La sélection de la méthode de mesure de même que l'appareillage de mesure adéquats notamment au regard de l'échelle de viscosité de la composition considérée relève clairement des compétences de l'homme de l'art.</p>
+<p id="p0042" num="0042">Par exemple, pour une composition possédant une viscosité manifestement inférieure à 2 Pa.s, il est privilégié comme appareillage de mesure un viscosimètre Brookfield avec l'axe n°2 à 100 tours par minute (ISO 2555).</p>
+<p id="p0043" num="0043">Cette viscosité peut être ajustée au regard de la fonction particulière attachée à la composition à savoir constituer par exemple un vernis, une encre, une laque ou une peinture, mais également au mode d'application considéré pour traiter la surface d'un support avec ladite composition.</p>
+<p id="p0044" num="0044">Par exemple, une composition fluide selon l'invention peut être déposée en surface d'un support par impression offset, par héliogravure, par flexographie, par surimpression flexographique, par gravure en taille-douce, par typographie ou par lithographie.</p>
+<p id="p0045" num="0045">Ainsi, à température et pression ambiante, une composition fluide selon l'invention utilisée :
+<ul id="ul0001" list-style="dash" compact="compact">
+<li>en héliogravure peut avantageusement présenter une viscosité comprise entre 30 et 50 mPa.s,</li>
+<li>en flexographie peut avantageusement présenter une viscosité comprise entre 30 et 90 mPa.s,</li>
+<li>en surimpression flexographique peut avantageusement présenter une viscosité comprise entre 30 et 50 mPa.s,</li>
+<li>en gravure en taille-douce peut avantageusement présenter une viscosité comprise entre 9 et 25 Pa.s,</li>
+<li>en impression offset peut avantageusement présenter une viscosité comprise entre 2 et 40 Pa.s, et<!-- EPO <DP n="6"> --></li>
+<li>en lithographie peut avantageusement présenter une viscosité comprise entre 10 et 20 Pa.s.</li>
+</ul></p>
+<p id="p0046" num="0046">La viscosité de la composition fluide selon l'invention peut être ajustée via la nature et/ou quantité du milieu solvant associé au virucide requis selon l'invention, ou encore via l'ajout et l'ajustement de la quantité de liant(s) selon l'invention et dans lequel est formulé le virucide ou précurseur de virucide requis selon l'invention.</p>
+<heading id="h0002"><b><u>Virucide</u></b></heading>
+<p id="p0047" num="0047">La composition fluide apte à former un revêtement conforme à l'invention contient au moins un virucide et/ou de ses précurseurs.</p>
+<p id="p0048" num="0048">Au sens de la présente invention, le terme « virucide » désigne tout composé possédant la capacité de tuer ou d'inhiber les virus.</p>
+<p id="p0049" num="0049">Le virucide selon la présente invention est plus particulièrement dédié à tuer et/ou à inhiber un virus pathogène à l'égard des mammifères et plus particulièrement de l'Homme. De tels virus peuvent être des virus nus ou des virus enveloppés.</p>
+<p id="p0050" num="0050">A titre représentatif des virus pathogènes pour l'Homme susceptibles d'être considérés selon l'invention, on peut plus particulièrement citer les rétrovirus, les cytomégalovirus, les rotavirus, les paramyxovirus, les poliovirus, les hantavirus, les virus coxsackie, le virus de l'encéphalomyocardite, les picornavirus dont les rhinovirus, les virus à ADN ou à ARN notamment les flaviviridae, le virus du SIDA, les virus de la grippe, le virus de la variole, le virus de la fièvre jaune, le virus de l'hépatite C, les virus de l'herpès, le virus d'Epstein-Barr, le virus varicelle-zona, le virus de la rubéole, ou encore le virus simien 40 ou SV40.</p>
+<p id="p0051" num="0051">Les virucides peuvent être synthétiques ou d'origine naturelle.</p>
+<p id="p0052" num="0052">A titre illustratif des virucides synthétiques peuvent notamment être cités les dérivés chlorés et les aldéhydes. Il peut s'agir plus particulièrement de glutaraldehyde, peroxomonosulfate de potassium, perborate de sodium, peroxodisulfate de potassium, et de percarbonate de sodium.</p>
+<p id="p0053" num="0053">Selon l'invention, le virucide est d'origine naturelle.</p>
+<p id="p0054" num="0054">Par « virucide d'origine naturelle », on entend désigner tout virucide pré-existant dans la nature ou pouvant être synthétisé à partir de composés naturels existant dans la nature.<!-- EPO <DP n="7"> --></p>
+<p id="p0055" num="0055">Les virucides d'origine naturelle peuvent ainsi être obtenus soit par extraction et purification à partir d'un milieu naturel les contenant, soit par synthèse à partir de composés naturels.</p>
+<p id="p0056" num="0056">A titre d'exemple de tels virucides, on peut notamment citer l'acide laurique ou la monolaurine qui peut être obtenue par synthèse à partir de glycérol et d'acide laurique.</p>
+<p id="p0057" num="0057">Dans le cas de cette seconde alternative, le glycérol et l'acide laurique constituent au sens de l'invention un précurseur de virucide dans la mesure où ils permettent, à l'issue du procédé selon l'invention de générer un support souple ou massique à propriétés antivirales.</p>
+<p id="p0058" num="0058">Plus précisément, le terme « précurseur » désigne, selon l'invention, un composé qui est à même, lors des étapes du procédé d'application selon l'invention, soit par transformation soit par réaction avec un autre composé qui lui est associé, et donc également qualifié de précurseur, de générer le virucide attendu.</p>
+<p id="p0059" num="0059">On peut décrire comme virucides l'acide laurique, la monolaurine, la lactoferrine et les huiles essentielles présentant une activité antivirale, comme par exemple l'huile essentielle de laurier. Selon l'invention le virucide contient au moins la monolaurine. Au sens de l'invention, le terme monolaurine entend désigner à la fois la monolaurine pré-existant naturellement et celle obtenue par synthèse à partir de glycérol et d'acide laurique.</p>
+<p id="p0060" num="0060">Ce type de virucide d'origine naturelle a en effet été identifié comme présentant des propriétés particulièrement avantageuses pour la préparation de compositions fluides aptes à former un revêtement telles que considérées dans le cadre de la présente invention.</p>
+<p id="p0061" num="0061">Dans le cadre de la présente invention, préférentiellement, la synthèse de la monolaurine à partir de l'acide laurique est effectuée à une température d'environ 100 °C, de préférence supérieure ou égale à 100 °C, de sorte qu'elle peut notamment être réalisée lors de la préparation de vernis dans les fours ou encore lors de la réticulation ou du séchage d'encres.</p>
+<p id="p0062" num="0062">La composition fluide apte à former un revêtement conforme à l'invention contient une quantité efficace d'au moins un virucide et/ou au moins un de ses précurseurs, c'est-à-dire une quantité suffisante de celui-ci pour doter la composition l'incorporant de propriétés antivirales.<!-- EPO <DP n="8"> --></p>
+<p id="p0063" num="0063">Selon un mode de réalisation, il peut notamment s'agir d'une quantité suffisante de virucide pour conférer à ladite composition l'incorporant une activité antivirale supérieure à 1 log, suivant le protocole de mesure décrit dans les exemples.</p>
+<p id="p0064" num="0064">Pour des raisons évidentes, la quantité de virucide à mettre en oeuvre selon l'invention dépend notamment de la nature dudit virucide et/ou de la nature de ladite composition et peut donc varier dans une large mesure.</p>
+<p id="p0065" num="0065">L'homme du métier peut aisément, sur la base de ses connaissances générales, déterminer les quantités appropriées. L'ajustement de la quantité de virucide fait partie des compétences de l'homme du métier.</p>
+<p id="p0066" num="0066">Les inventeurs ont notamment déterminé qu'une quantité de virucide inférieure à 2 % en poids permet d'obtenir une activité antivirale satisfaisante.</p>
+<p id="p0067" num="0067">Une composition fluide conforme à l'invention contient de 0,1 % à 3 % en poids sec, par exemple de 0,1 % à 2 % en poids sec, par exemple de 0,5 % à 1,5 % en poids sec, de virucide par rapport à son poids total.</p>
+<p id="p0068" num="0068">Selon un mode de réalisation, la composition fluide conforme à l'invention peut contenir en outre d'autres composés actifs additionnels, présentant ou non une activité antivirale.</p>
+<p id="p0069" num="0069">Il peut notamment contenir en outre des biocides, et par exemple des biocides de type bactériostatique et/ou bactéricide et/ou fongistatique et/ou fongicide.</p>
+<p id="p0070" num="0070">Ainsi, selon un mode de réalisation, la composition selon l'invention contient outre le virucide requis, au moins un bactéricide et/ou un fongicide.</p>
+<p id="p0071" num="0071">A titre illustratif des bactéricides peuvent notamment être cités les sels d'argent réfractaires, les sels d'ammonium quaternaire tels que le chlorure de myristyl dimethyl benzyl ammonium ou le saccharinate d'alkyl diméthyl benzyl ammonium, les pyrithiones et ses dérivés.</p>
+<p id="p0072" num="0072">De préférence, la composition ne comprend pas de bactéricide toxique. En particulier, elle est exempte de pyrithiones et de ses dérivés.</p>
+<p id="p0073" num="0073">A titre illustratif des fongicides peuvent notamment être cités le diiodométhyl-p-tolylsulfone ou le 3-iodopropargyl-N-butylcarbamate.</p>
+<p id="p0074" num="0074">De préférence, la composition ne comprend pas de fongicide toxique. En particulier, elle est exempte de diiodométhyl-p-tolylsulfone.<!-- EPO <DP n="9"> --></p>
+<p id="p0075" num="0075">Selon un autre mode de réalisation, le virucide requis selon l'invention peut présenter lui-même, outre son activité antivirale, au moins une autre activité biologique.</p>
+<p id="p0076" num="0076">Ainsi, le virucide requis selon l'invention peut par exemple présenter en outre une activité bactériostatique, bactéricide, fongistatique ou fongicide, et plus particulièrement une activité bactériostatique ou bactéricide.</p>
+<p id="p0077" num="0077">Comme précisé précédemment, le virucide peut être mis en oeuvre sous une forme associée à un agent humectant.</p>
+<heading id="h0003"><b><u>Agent humectant</u></b></heading>
+<p id="p0078" num="0078">Au sens de l'invention, un agent humectant est un composé apte à procurer un effet d'hydratation ou encore hygroscopique.</p>
+<p id="p0079" num="0079">Contre toute attente, les inventeurs ont constaté que la présence d'un tel composé peut permettre de stimuler l'activité antivirale du virucide, en particulier d'un virucide d'origine naturelle associé, et donc d'accroître l'activité antivirale manifestée par une composition fluide conforme à l'invention incorporant ces deux composés.</p>
+<p id="p0080" num="0080">A titre représentatif de ces agents humectants, peuvent être tout particulièrement considérés, dans le cadre de la présente invention, les composés de type polyol, tels que, par exemple, la glycérine, dite encore glycérol, le propylène glycol, le polyéthylène glycol, le butylène glycol, le triacétate de glycéryle, ou encore le sorbitol.</p>
+<p id="p0081" num="0081">Selon une variante de réalisation préférée, l'agent humectant considéré est le glycérol.</p>
+<p id="p0082" num="0082">Selon une autre variante de réalisation, l'agent humectant considéré est choisi parmi les composés suivants :
+<ul id="ul0002" list-style="dash" compact="compact">
+<li>l'acide pidolique (PCA) et ses dérivés (arginine PCA, copper PCA, ethylhexyl PCA, lauryl PCA, magnesium PCA, sodium PCA, zinc PCA...),</li>
+<li>le gluconate de calcium,</li>
+<li>le fructose, le glucose, l'isomalt, le lactose, le maltitol, le mannitol, le polydextrose, le sorbitol, le saccharose ou le xylitol,</li>
+<li>l'acide glycyrrhizique et ses dérivés,</li>
+<li>l'histidine,</li>
+<li>l'acide hyaluronique et ses sels tels que l'hyaluronate de sodium,</li>
+<li>les hydrolysats de soie, de kératine ou de soja,<!-- EPO <DP n="10"> --></li>
+<li>le phytantriol,</li>
+<li>la soie, ou</li>
+<li>l'urée.</li>
+</ul></p>
+<p id="p0083" num="0083">La composition fluide conforme à l'invention peut contenir de 0,5 % à 4 % en poids sec, par exemple de 1 % à 3 % en poids sec d'agent(s) humectant(s), et notamment de glycérol, par rapport à son poids total.</p>
+<p id="p0084" num="0084">Selon un mode de réalisation préféré, l'agent humectant est présent dans la composition fluide apte à former un revêtement conforme à l'invention en un rapport pondéral masse d'agent(s) humectant(s) sur masse de virucide(s) au moins égal à 1.</p>
+<p id="p0085" num="0085">Selon un mode de réalisation particulier, la composition fluide conforme à l'invention peut contenir au moins un virucide selon la présente invention, au moins un agent humectant, notamment du glycérol, et en outre au moins un biocide bactériostatique et/ou bactéricide ou un biocide fongistatique et/ou fongicide.</p>
+<p id="p0086" num="0086">Selon un autre mode de réalisation particulier, la composition fluide conforme à l'invention peut contenir au moins un précurseur du virucide selon la présente invention, au moins un agent humectant, notamment du glycérol, et en outre au moins un biocide bactériostatique et/ou bactéricide et au moins un biocide fongistatique et/ou fongicide.</p>
+<p id="p0087" num="0087">Le virucide et/ou un de ses précurseurs et l'agent humectant si présent sont formulés avantageusement dans un milieu solvant.</p>
+<heading id="h0004"><b><u>Milieu solvant</u></b></heading>
+<p id="p0088" num="0088">La nature de ce milieu solvant est directement liée au type de composition visée.</p>
+<p id="p0089" num="0089">Le milieu solvant peut être monophasique ou biphasique.</p>
+<p id="p0090" num="0090">Par exemple, un milieu solvant selon l'invention peut se présenter sous la forme d'une émulsion huile dans eau ou eau dans huile.</p>
+<p id="p0091" num="0091">Comme précisé précédemment, les compositions selon l'invention sont plus particulièrement des encres, des vernis, des laques ou des peintures.</p>
+<p id="p0092" num="0092">Plus préférentiellement, les compositions selon l'invention sont des encres ou des vernis.</p>
+<p id="p0093" num="0093">D'une manière générale, l'ensemble de ces compositions mettent en oeuvre à titre de milieu solvant de l'eau, un solvant organique, une huile ou un de leurs mélanges.<!-- EPO <DP n="11"> --></p>
+<p id="p0094" num="0094">Par exemple, parmi les encres, il existe des encres aqueuses dont le solvant est l'eau, ainsi que des " encres solvantées " dont le solvant est organique, et des encres grasses. Par encres grasses, on entend les différentes encres utilisées pour l'impression typographique, la lithographique ou l'impression des gravures en taille-douce.</p>
+<p id="p0095" num="0095">Ainsi, une composition fluide selon l'invention peut comprendre au moins un milieu solvant organique composé d'au moins un solvant organique volatil à température ambiante.</p>
+<p id="p0096" num="0096">Comme solvant organique volatil ou non à température ambiante, on peut citer :
+<ul id="ul0003" list-style="dash" compact="compact">
+<li>les cétones liquides à température ambiante tels que la méthyléthylcétone, la méthylisobutylcétone, la diisobutylcétone, l'isophorone, la cyclohexanone, acétone ;</li>
+<li>les alcools liquides à température ambiante tels que l'éthanol, l'isopropanol, le butanol, le diacétone alcool, le 2-butoxyéthanol, le cyclohexanol, le 2-amino-2-méthyl-1-propanol ;</li>
+<li>les glycols liquides à température ambiante tels que l'éthylène glycol, le propylène glycol, le pentylène glycol, le glycérol, le 2-amino-2-ethyl-1,3-propane-diol ;</li>
+<li>les éthers de propylène glycol liquides à température ambiante tels que le monométhyléther de propylène glycol, l'acétate de monométhyl éther de propylène glycol, le mono n-butyl éther de dipropylène glycol ;</li>
+<li>les esters à chaînes courtes (ayant de 3 à 8 atomes de carbone au total) tels que l'acétate d'éthyle, l'acétate de méthyle, l'acétate de propyle, l'acétate de butyle, l'acétate d'aryle, l'acétate d'isopentyle ;</li>
+<li>les alcanes liquides à température ambiante tels que le décane, l'heptane, l'octane, le dodécane, le cyclohexane, l'isododécane ; et</li>
+<li>leurs mélanges.</li>
+</ul></p>
+<p id="p0097" num="0097">En ce qui concerne les huiles, elles peuvent être choisies parmi :
+<ul id="ul0004" list-style="dash" compact="compact">
+<li>les huiles végétales ;</li>
+<li>l'huile de lin purifiée ;</li>
+<li>l'huile de tung, notamment pour des encres à séchage rapide ;</li>
+<li>l'huile de soja, notamment dans le domaine de l'imprimerie. Cette huile est appréciée pour l'amélioration qu'elle apporte au mouillage des pigments ;<!-- EPO <DP n="12"> --></li>
+<li>l'huile de tournesol, notamment pour préparer des résines alkydes ;</li>
+<li>l'huile de colza ;</li>
+<li>le tall oil ; et</li>
+<li>les distillats pétroliers.</li>
+</ul></p>
+<p id="p0098" num="0098">Les compositions selon l'invention peuvent également mettre en oeuvre à titre de milieu solvant une résine réticulable UV.</p>
+<p id="p0099" num="0099">Par exemple, il existe des encres flexographiques UV mettant en oeuvre ce type de résine à titre de milieu solvant.</p>
+<p id="p0100" num="0100">Outre le virucide ou précurseur de virucide, une composition selon l'invention contient les composants conventionnellement mis en oeuvre dans ce type de composition.</p>
+<p id="p0101" num="0101">Ainsi, une encre, un vernis, une laque ou une peinture est généralement composé d'un ou plusieurs pigments et d'un agent liant.</p>
+<heading id="h0005"><b><u>Liants</u></b></heading>
+<p id="p0102" num="0102">Comme précisé ci-dessus, une composition fluide apte à former un revêtement selon l'invention contient en outre au moins un agent liant.</p>
+<p id="p0103" num="0103">Plus particulièrement, un agent liant selon l'invention est choisi parmi les résines, les cires, et les gommes.</p>
+<p id="p0104" num="0104">Une résine peut être notamment choisie parmi les résines époxy cycloaliphatiques, acryliques, vinyliques, cétoniques, polyesters, et aldéhydes.</p>
+<p id="p0105" num="0105">Une résine peut être présente dans une composition selon l'invention dans une teneur comprise entre 15 % et 60 % en poids, de préférence entre 20 % et 40 % en poids, par rapport au poids total de la composition.</p>
+<p id="p0106" num="0106">A titre de cires pouvant être utilisées selon l'invention, on peut citer :
+<ul id="ul0005" list-style="dash" compact="compact">
+<li>les cires végétales telles que la cire de Carnauba, de Candellila, d'Ouricury, du Japon, le beurre de cacao ou les cires de fibres de liège ou de canne à sucre,</li>
+<li>les cires minérales, par exemple de paraffine, de vaseline, de lignite ou les cires microcristallines ou les ozokérites,</li>
+<li>les cires synthétiques parmi lesquelles les cires polyoléfiniques notamment de polyéthylène, et les cires obtenues par synthèse de Fisher-Tropsch,</li>
+<li>les cires de silicone, en particulier les polysiloxanes linéaires substitués; on peut citer, par exemple, les cires de silicone polyéther, les alkyl ou alkoxy-diméthicones<!-- EPO <DP n="13"> --> ayant de 16 à 45 atomes de carbone, les alkyl méthicones comme la C<sub>30</sub>-C<sub>45</sub> alkyl méthicone vendue sous la dénomination commerciale « AMS C 30 » par DOW CORNING,</li>
+<li>les huiles hydrogénées,</li>
+<li>et/ou leurs mélanges.</li>
+</ul></p>
+<p id="p0107" num="0107">A titre illustratif des cires convenant à l'invention, on peut notamment citer les cires hydrocarbonées comme la cire d'abeilles, la cire de lanoline, et les cires d'insectes de Chine; la cire de son de riz, la cire de Carnauba, la cire de Candellila, la cire d'Ouricury, la cire d'Alfa, la cire de berry, la cire de shellac, la cire du Japon et la cire de sumac; la cire de montan, les cires d'orange et de citron, les cires micro cristallines, les paraffines et l'ozokérite; les cires de polyéthylène, les cires obtenues par la synthèse de Fisher-Tropsch et les copolymères cireux ainsi que leurs esters.</p>
+<p id="p0108" num="0108">Une cire peut être présente dans une composition selon l'invention dans une teneur comprise entre 0 % et 20 % en poids, de préférence entre 0,5 % et 15 % en poids, par rapport au poids total de la composition.</p>
+<p id="p0109" num="0109">Une gomme peut être notamment choisie parmi les gommes arabiques, les gommes adragantes, les gommes de casse, les gommes de gutte, les gommes de laque, les sandaraques, les gommes de mastic ou les gommes-résines.</p>
+<p id="p0110" num="0110">La nature du liant conditionne généralement le type de vernis à savoir vernis cellulosiques, vernis polyuréthanes, ou encore vernis acryliques.</p>
+<p id="p0111" num="0111">De préférence, une composition fluide selon l'invention est une encre et elle contient au moins un pigment et au moins un agent liant en particulier choisi parmi une cire polyéthylénique, une résine acrylique et leurs mélanges.</p>
+<p id="p0112" num="0112">De préférence, une composition fluide selon l'invention est un vernis et elle contient au moins un agent liant en particulier choisi parmi une cire polyéthylénique, une résine acrylique et leurs mélanges.</p>
+<p id="p0113" num="0113">De préférence, une composition fluide selon l'invention est un vernis de surimpression et elle contient au moins un agent liant en particulier choisi parmi les résines époxy cycloaliphatiques.</p>
+<heading id="h0006"><b><u>Pigments</u></b></heading><!-- EPO <DP n="14"> -->
+<p id="p0114" num="0114">Une composition fluide apte à former un revêtement selon l'invention peut avantageusement contenir un ou plusieurs pigment(s).</p>
+<p id="p0115" num="0115">Les pigments peuvent être présents à raison de 0 % à 60 % en poids, notamment de 10 % à 50 % en poids, et en particulier de 15 % à 35 % en poids, par rapport au poids total de la composition fluide apte à former un revêtement selon l'invention.</p>
+<p id="p0116" num="0116">De préférence, la composition fluide selon l'invention est une encre, et les pigments peuvent être présents à raison de 0 % à 60 % en poids, notamment de 10 % à 50 % en poids, et en particulier de 15 % à 35 % en poids, par rapport au poids total de la composition fluide apte à former un revêtement selon l'invention.</p>
+<p id="p0117" num="0117">Par pigments, il faut comprendre des particules blanches ou colorées, minérales ou organiques, insolubles dans une solution aqueuse, destinées à colorer et/ou opacifier le film résultant.</p>
+<p id="p0118" num="0118">Comme pigments minéraux utilisables dans l'invention, on peut citer les oxydes de titane, de zirconium ou de cérium ainsi que les oxydes de zinc, de fer ou de chrome, le bleu ferrique, le violet de manganèse, le bleu outremer et l'hydrate de chrome.</p>
+<p id="p0119" num="0119">Parmi les pigments organiques utilisables dans l'invention, on peut citer le noir de carbone, les pigments de type D &amp; C, les laques à base de carmin de cochenille, de baryum, strontium, calcium ou aluminium.</p>
+<p id="p0120" num="0120">Selon une variante de réalisation, ces pigments peuvent être également des pigments perlescents ou dits encore nacrés, et/ou des pigments luminescents et en particulier fluorescents ou phosphorescents.</p>
+<p id="p0121" num="0121">Comme pigments nacrés utilisables dans l'invention, on peut citer le mica titane recouvert avec un oxyde de fer, le mica titane recouvert d'oxychlorure de bismuth, le mica titane recouvert avec de l'oxyde de chrome, le mica titane recouvert avec un colorant organique ainsi que les pigments nacrés à base d'oxychlorure de bismuth. Il peut également s'agir de particules de mica à la surface desquelles sont superposées au moins deux couches successives d'oxydes métalliques et/ou de matières colorantes organiques.</p>
+<p id="p0122" num="0122">On peut également citer, à titre d'exemple de pigments nacrés, le mica naturel recouvert d'oxyde de titane, d'oxyde de fer, de pigment naturel ou d'oxychlorure de bismuth.</p>
+<p id="p0123" num="0123">Comme substances fluorescentes inorganiques utilisables dans la présente invention, on peut par exemple citer les substances fluorescentes inorganiques à base<!-- EPO <DP n="15"> --> d'oxyde de zinc, les pigments fluorescents à la lumière du jour qui sont généralement fabriqués à partir de colorants fluorescents qui sont préalablement dissous dans une résine support afin d'obtenir une solution solide laquelle est ensuite broyée en une poudre de particules de résine présentant des propriétés fluorescentes.</p>
+<p id="p0124" num="0124">Les pigments fluorescents convenant à la présente invention peuvent être choisis parmi les résines colorées de polyamide et/ou de formaldéhyde/benzoguanamine et/ou de melamine/formaldéhyde/ sulfonamide, parmi les co-condensats aminotriazine/formaldéhyde/sulfonamide colorés et/ou parmi les paillettes polyester métallisées et/ou leurs mélanges. Ces pigments fluorescents peuvent aussi se présenter sous la forme de dispersions aqueuses de pigments fluorescents.</p>
+<p id="p0125" num="0125">Lorsque les substances fluorescentes organiques sont blanches, on les appelle également des azurants optiques absorbant essentiellement dans l'UVA entre 300 et 390 nm et remettant essentiellement entre 400 et 525 nm.</p>
+<p id="p0126" num="0126">Les compositions peuvent également comprendre un ou plusieurs additifs permettant d'optimiser les caractéristiques du revêtement pendant et après son application.</p>
+<p id="p0127" num="0127">Parmi les additifs, on trouve notamment des agents dispersants, des agents anti-mousses, mais également des polymères, des épaississants et des plastifiants.</p>
+<heading id="h0007"><b><u>Procédé d'application</u></b></heading>
+<p id="p0128" num="0128">Un autre objet de l'invention concerne un procédé d'application d'une composition fluide apte à former un revêtement telle que définie précédemment.</p>
+<p id="p0129" num="0129">Selon un premier mode de réalisation, il peut s'agir d'un procédé utile pour conférer des propriétés virucides à tout ou partie de la surface d'un support souple ou massique selon la revendication 11.</p>
+<p id="p0130" num="0130">Concernant l'incorporation dudit virucide en particulier d'origine naturelle au niveau de ladite composition, on peut être amené à utiliser des émulsions ou des solutions particulières, par exemple telles que des solutions ammoniacales ou de préférence à base de 2-amino-2-méthyl-1-propanol qui présente l'avantage de ne pas engendrer de dégagement odorant.</p>
+<p id="p0131" num="0131">Selon une variante de réalisation, l'agent humectant peut être présent dans une telle émulsion.<!-- EPO <DP n="16"> --></p>
+<p id="p0132" num="0132">Le virucide en particulier d'origine naturelle peut être tel que défini précédemment, et notamment choisi parmi la monolaurine, la lactoferrine et une huile essentielle présentant une activité antivirale, comme par exemple l'huile essentielle de laurier. Selon l'invention le virucide contient au moins la monolaurine. L'agent humectant peut également être tel que défini précédemment, et notamment être du glycérol.</p>
+<p id="p0133" num="0133">L'application de ladite composition sur la surface du support souple ou massique à recouvrir peut se faire de diverses manières :
+<ul id="ul0006" list-style="dash" compact="compact">
+<li>par pulvérisation de ladite composition sur la surface,</li>
+<li>par impression de ladite composition sur la surface,</li>
+<li>par surimpression de ladite composition sur la surface au moins partiellement imprimé,</li>
+<li>par surfaçage de ladite composition sur la surface,</li>
+<li>par couchage de ladite composition sur la surface, et</li>
+<li>par dépôt de ladite composition sur la surface.</li>
+</ul></p>
+<p id="p0134" num="0134">L'agent humectant est avantageusement présent dans la composition fluide selon l'invention.</p>
+<p id="p0135" num="0135">En particulier, ladite application de la composition fluide selon l'invention peut être favorisée par l'utilisation d'une émulsion de monolaurine.</p>
+<p id="p0136" num="0136">Selon une variante de réalisation, le virucide peut être généré <i>in situ</i> à partir d'une composition selon l'invention contenant à titre d'actif une forme précurseur de ce virucide.</p>
+<p id="p0137" num="0137">Ainsi, selon un autre de ses aspects, l'invention concerne également un procédé selon la revendication 12.</p>
+<p id="p0138" num="0138">Selon une variante de réalisation, ce procédé peut comprendre en outre la mise en oeuvre d'un agent humectant, notamment tel que défini ci-dessus.</p>
+<p id="p0139" num="0139">Cette variante de réalisation est particulièrement adaptée lorsque le virucide est d'origine naturelle et que celui-ci est par exemple aisément accessible par synthèse, de préférence à des coûts en outre avantageux.</p>
+<p id="p0140" num="0140">Ainsi, il pourra s'agir par exemple de la monolaurine synthétisée <i>in situ</i> par réaction d'acide laurique et de glycérol en présence d'un catalyseur.<!-- EPO <DP n="17"> --></p>
+<p id="p0141" num="0141">La monolaurine est en effet disponible par ailleurs commercialement mais à des prix relativement élevés. Sa synthèse <i>in situ</i> selon cette variante de réalisation permet donc de la mettre en oeuvre dans une composition fluide de type revêtement à un coût réduit.</p>
+<p id="p0142" num="0142">Concernant l'incorporation dudit virucide au niveau de ladite composition, elle peut être favorisée par l'utilisation d'une solution d'acide laurique, notamment telle qu'une solution ammoniacale ou de préférence à base de 2-amino-2-méthyl-1-propanol qui présente l'avantage de ne pas engendrer de dégagement odorant.</p>
+<p id="p0143" num="0143">Selon ce deuxième mode de réalisation, le procédé peut comprendre au moins les étapes consistant à :
+<ol id="ol0001" compact="compact" ol-style="">
+<li>a) Disposer d'un support souple ou massique dont la surface à traiter comporte au moins un catalyseur et/ou réactif apte à stimuler l'interaction entre l'acide laurique et le glycérol ;</li>
+<li>b) Mettre en contact ladite surface avec une composition fluide telle que définie ci-dessus contenant au moins de l'acide laurique et du glycérol ; et</li>
+<li>c) Imposer à la surface traitée en étape b) un traitement thermique propice à la synthèse de la monolaurine ;</li>
+</ol>
+lesdites étapes b) et c) pouvant être réalisées consécutivement ou simultanément.</p>
+<p id="p0144" num="0144">Selon une autre variante de réalisation, le catalyseur peut être présent dans la composition fluide contenant l'acide laurique et le glycérol.</p>
+<p id="p0145" num="0145">Selon une variante de réalisation, ce procédé peut être réalisé en présence d'un agent anti-mousse.</p>
+<p id="p0146" num="0146">Plus particulièrement, il s'agit d'un composé commercialisé sous le nom Aerotech 3514® (KEMIRA CHIMIE SA) et qui est formé d'un mélange d'huiles minérales et de tensioactifs non ioniques.</p>
+<p id="p0147" num="0147">Un tel composé peut être introduit à une concentration comprise entre 0,01 % et 0,30 %, de préférence entre 0,04 % et 0,20 %, et plus préférentiellement entre 0,04 % et 0,12 % par rapport au poids total du mélange d'acide laurique et de glycérol.</p>
+<p id="p0148" num="0148">Comme indiqué précédemment, la synthèse de monolaurine à partir d'acide laurique et de glycérol se déroule en présence d'un catalyseur.<!-- EPO <DP n="18"> --></p>
+<p id="p0149" num="0149">A titre d'exemple de catalyseur convenant plus particulièrement à la catalyse de cette réaction, on peut notamment citer les zéolites, et par exemple la zéolite A commercialisée par la société FMC Foret ou les lipases.</p>
+<p id="p0150" num="0150">Dans le cas où le catalyseur est une lipase, on peut notamment se référer aux conditions de réaction décrites par Pereira <nplcit id="ncit0003" npl-type="s"><text>C.C.B., Da Silva M.A.P. et Langone M.A.P. dans la publication « Enzymatic synthesis of monolaurine » (Applied biochemistry and Biotechnology, 2004, vol. 113-116, P.433-445</text></nplcit>).</p>
+<p id="p0151" num="0151">A titre de lipase convenant plus particulièrement dans le cadre de la présente invention, on peut par exemple citer les lipases commercialisées sous les références Lipozyme RM IM®, Lipozyme TL IM® et Resinase A2C® par la société NOVOZYMES.</p>
+<p id="p0152" num="0152">La composition fluide conforme à l'invention peut contenir de 0,5 % à 3 % en poids sec, par exemple de 0,5 % à 2 % en poids sec, de catalyseur par rapport à son poids total.</p>
+<p id="p0153" num="0153">Le catalyseur, par exemple la zéolite, peut être introduit à raison d'au moins 2 % en poids, par exemple au moins 5 % en poids, par rapport au poids total du mélange d'acide laurique et de glycérol.</p>
+<p id="p0154" num="0154">Selon une première variante de réalisation, l'acide laurique et le glycérol peuvent être introduits en mélange équimolaire.</p>
+<p id="p0155" num="0155">Selon une deuxième variante de réalisation, le glycérol peut être introduit en excès par rapport à l'acide laurique.</p>
+<p id="p0156" num="0156">Selon cette deuxième variante, du glycérol en excès résiduel reste donc présent dans le revêtement à la fin de la réaction.</p>
+<p id="p0157" num="0157">Comme mentionné précédemment, ce glycérol résiduel peut jouer le rôle d'agent humectant et augmenter les propriétés antivirales.</p>
+<p id="p0158" num="0158">Les exemples suivants, non limitatifs, permettront de mieux comprendre comment l'invention peut être mise en pratique et ses avantages.</p>
+<heading id="h0008"><b><u>Exemple 1</u></b></heading>
+<heading id="h0009"><u>Préparation d'une émulsion de monolaurine</u></heading>
+<p id="p0159" num="0159">On agite au Rayneri sous bain-marie à 50 °C, 50 g de monolaurine de synthèse jusqu'à ce qu'elle soit fondue.</p>
+<p id="p0160" num="0160">On ajoute 5g de Disponil TD® 0785 et 7 g d'eau.<!-- EPO <DP n="19"> --></p>
+<p id="p0161" num="0161">On ajoute 4 g d'Eumulgin BA® 10 fondu à 50 °C puis après homogénéisation, on laisse refroidir à température ambiante sous agitation.</p>
+<p id="p0162" num="0162">On ajoute 6 g d'eau sous agitation puis on laisse agiter pendant 15 mn.</p>
+<p id="p0163" num="0163">On introduit lentement 47,5g d'eau sous agitation.</p>
+<p id="p0164" num="0164">On obtient une émulsion de monolaurine à 42 %.</p>
+<heading id="h0010"><u>Encre flexographique</u></heading>
+<p id="p0165" num="0165">
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title><u>Tableau I</u></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="73mm"/>
+<colspec colnum="2" colname="col2" colwidth="47mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry align="center" valign="top">%</entry>
+<entry align="center" valign="top">% sec</entry></row></thead>
+<tbody>
+<row>
+<entry>Slurry Kaolin : Intrafill 60 (ES 60 %)</entry>
+<entry align="center">33.4</entry>
+<entry align="center">20</entry></row>
+<row>
+<entry>Joncryl 1674 (ES 41%)</entry>
+<entry align="center">56.8</entry>
+<entry align="center">23.3</entry></row>
+<row>
+<entry>PE Wax Emulsion : Aquacer 2500 (ES 40 %)</entry>
+<entry align="center">4.8</entry>
+<entry align="center">1.9</entry></row>
+<row>
+<entry>Antimousse Nopco 8034</entry>
+<entry align="center">0.48</entry>
+<entry align="center"/></row>
+<row>
+<entry valign="middle">Emulsion de monolaurine à 42 % selon l'exemple 1</entry>
+<entry align="center">4.5 soit 1.9 % de monolaurine</entry>
+<entry align="center">1.9</entry></row>
+<row>
+<entry align="right">Total</entry>
+<entry align="center">100 %</entry>
+<entry align="center">47.1 %</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0166" num="0166">La préparation est faite au Rayneri.</p>
+<p id="p0167" num="0167">On couche l'encre flexographique préparée comme indiquée ci-dessus sur deux faces d'un support papier classique (velin NS 2005 5175).</p>
+<p id="p0168" num="0168">On sèche chaque face pendant 3 mn à 100 °C.</p>
+<p id="p0169" num="0169">La dépose moyenne par face est de 14.4 g/m<sup>2</sup> humide soit environ 6.8 g/m<sup>2</sup> sec (0.27 g/m<sup>2</sup> de monolaurine).</p>
+<heading id="h0011"><u>Vernis de sur-impression</u></heading>
+<p id="p0170" num="0170">
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title><u>Tableau II</u></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="67mm"/>
+<colspec colnum="2" colname="col2" colwidth="45mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry align="center" valign="top">%</entry>
+<entry align="center" valign="top">% sec</entry></row></thead>
+<tbody>
+<row>
+<entry>Joncryl 1674 (ES 41 %)</entry>
+<entry align="center">62.0</entry>
+<entry align="center">26.7</entry></row>
+<row>
+<entry>Joncryl 8078 (ES 32 %)</entry>
+<entry align="center">19.1</entry>
+<entry align="center">6.1</entry></row>
+<row>
+<entry>PE Wax Emulsion :Aquacer 2500 (ES 40 %)</entry>
+<entry align="center">6.7</entry>
+<entry align="center">2.7</entry></row>
+<row>
+<entry>eau</entry>
+<entry align="center">7.6</entry>
+<entry align="center"/></row>
+<row>
+<entry>Emulsion de monolaurine à 42 %</entry>
+<entry align="center">4.5 soit 1.9 % de monolaurine</entry>
+<entry align="center">1.9</entry></row>
+<row>
+<entry align="right">Total</entry>
+<entry align="center">100</entry>
+<entry align="center">37.4</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0171" num="0171">La préparation est faite au Rayneri.<!-- EPO <DP n="20"> --></p>
+<p id="p0172" num="0172">On couche le vernis de sur-impression préparé comme indiqué ci-dessus sur deux faces d'un support plastique Polyart® (Polyart P3 non couché).</p>
+<p id="p0173" num="0173">On sèche chaque face pendant 2 mn à 90 °C.</p>
+<p id="p0174" num="0174">La dépose moyenne par face est de 15.8 g/m<sup>2</sup> humide soit environ 5.8 g/m<sup>2</sup> sec (0.30 g/m<sup>2</sup> de monolaurine).</p>
+<heading id="h0012"><b><u>Exemple 2</u></b></heading>
+<heading id="h0013"><u>Activité antiphagique de support traité selon l'invention</u></heading>
+<p id="p0175" num="0175">Un test de l'activité antiphagique est réalisé. Le test est basé sur la norme JIS L 1902 modifiée, ou encore sur la norme ISO 20743 modifiée, sur les phages MS2, qui sont réputés être très résistants, et appliquée sur des temps d'action compris entre 18 et 24 heures.</p>
+<p id="p0176" num="0176">Le principe est le suivant : des phages MS2 sont déposés sur le support papier classique (velin NS 2005 5175) considéré en 1<sup>ère</sup> partie de l'exemple 1 , puis le nombre de phages MS2 actifs est évalué une première fois à t=0h, et une deuxième fois à t=24h.</p>
+<p id="p0177" num="0177">Pour évaluer le nombre de phages MS2 actifs sur les supports à tester à un temps donné, on met ces supports en présence de bactéries particulières qui présentent la propriété d'être des hôtes des phages MS2 : la mesure du nombre de plages de lyses (ou pfp) après culture permet alors de remonter à la quantité de phages MS2 recherchée.</p>
+<p id="p0178" num="0178">On peut ainsi en déduire une activité antiphagique (notée A), définie comme suit : <maths id="math0001" num=""><math display="block"><mi mathvariant="normal">A</mi><mo>=</mo><mfenced open="[" close="]"><mrow><mi>moy log </mi><mfenced><msub><mi mathvariant="normal">C</mi><mn>24</mn></msub></mfenced><mo>−</mo><mi>moy log </mi><mfenced><msub><mi mathvariant="normal">C</mi><mn>0</mn></msub></mfenced></mrow></mfenced><mo>−</mo><mfenced open="[" close="]"><mrow><mi>moy log </mi><mfenced><msub><mi mathvariant="normal">E</mi><mn>24</mn></msub></mfenced><mo>−</mo><mi>moy log </mi><mfenced><msub><mi mathvariant="normal">E</mi><mn>0</mn></msub></mfenced></mrow></mfenced><mo>,</mo></math><img id="ib0001" file="imgb0001.tif" wi="119" he="5" img-content="math" img-format="tif"/></maths> formule dans laquelle E<sub>24</sub> correspond au nombre de plages de lyses à 24h et Eo correspond au nombre de plages de lyses juste après sa mise en contact avec le support testé.</p>
+<p id="p0179" num="0179">Les conditions expérimentales sont les suivantes :
+<ul id="ul0007" list-style="dash" compact="compact">
+<li>Le diluant utilisé est le peptone/sel (de référence DIFCO, 1897-17) et la souche bactérienne utilisée est <i>Escherichia coli</i> K12, qui est une souche hôte des phages MS2.</li>
+<li>Le support témoin est un textile 100 % coton non traité.</li>
+<li>On dépose 200 µL d'une suspension de phages à 1 x 10<sup>5</sup> pfp/mL.</li>
+</ul></p>
+<p id="p0180" num="0180">On en déduit l'activité antiphagique suivante : <maths id="math0002" num=""><math display="block"><msub><mi mathvariant="normal">A</mi><mi>encre flexographique selon l'exemple 1</mi></msub><mo>=</mo><mo>−</mo><mn>2,74</mn><mo>−</mo><mfenced><mrow><mo>−</mo><mn>3,94</mn></mrow></mfenced><mo>=</mo><mn>1,20</mn><mi> log</mi></math><img id="ib0002" file="imgb0002.tif" wi="98" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0181" num="0181">Les résultats sont reportés ci-après.<!-- EPO <DP n="21"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title><u>Tableau III</u></title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="12mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="13mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="13mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Temps d'incubation</entry>
+<entry namest="col2" nameend="col6" align="center" valign="middle">0h</entry>
+<entry namest="col7" nameend="col10" align="center" valign="middle">24h</entry></row>
+<row>
+<entry align="center" valign="middle">Echantillon</entry>
+<entry align="center" valign="middle">éprouvette</entry>
+<entry align="center" valign="middle">Co (pfp/ech)</entry>
+<entry align="center" valign="middle">log (Co)</entry>
+<entry align="center" valign="middle">moy Co</entry>
+<entry align="center" valign="middle">log (moy Co)</entry>
+<entry align="center" valign="middle">C<sub>24</sub> (pfp/ech)</entry>
+<entry align="center" valign="middle">log (C<sub>24</sub>)</entry>
+<entry align="center" valign="middle">moy C<sub>24</sub></entry>
+<entry align="center" valign="middle">log (moy C<sub>24</sub>)</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="1" align="center" valign="middle">Témoin = Support textile sans encre</entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">6 300 000</entry>
+<entry align="center" valign="middle">6,80</entry>
+<entry morerows="1" align="center" valign="middle">5580 000</entry>
+<entry morerows="1" align="center" valign="middle">6,75</entry>
+<entry align="center" valign="middle">4300</entry>
+<entry align="center" valign="middle">3,63</entry>
+<entry morerows="1" align="center" valign="middle">10150</entry>
+<entry morerows="1" align="center" valign="middle">4,01</entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">4 860 000</entry>
+<entry align="center" valign="middle">6,69</entry>
+<entry align="center" valign="middle">16000</entry>
+<entry align="center" valign="middle">4,20</entry></row>
+<row>
+<entry namest="col1" nameend="col10" align="center" valign="middle"/></row></tbody></tgroup>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="21mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="12mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="13mm"/>
+<colspec colnum="9" colname="col9" colwidth="15mm"/>
+<colspec colnum="10" colname="col10" colwidth="13mm"/>
+<thead>
+<row>
+<entry align="center" valign="middle">Temps d'incubation</entry>
+<entry namest="col2" nameend="col6" align="center" valign="middle">0 h</entry>
+<entry namest="col7" nameend="col10" align="center" valign="middle">24 h</entry></row>
+<row>
+<entry align="center" valign="middle">Echantillon</entry>
+<entry align="center" valign="middle">éprouvette</entry>
+<entry align="center" valign="middle">Eo (pfp/ech)</entry>
+<entry align="center" valign="middle">log (Eo)</entry>
+<entry align="center" valign="middle">moy Eo</entry>
+<entry align="center" valign="middle">log (moy Eo)</entry>
+<entry align="center" valign="middle">E<sub>24</sub> (pfp/ech)</entry>
+<entry align="center" valign="middle">log (E<sub>24</sub>)</entry>
+<entry align="center" valign="middle">moy E24</entry>
+<entry align="center" valign="middle">log (moy E<sub>24</sub>)</entry></row></thead>
+<tbody>
+<row>
+<entry morerows="1" align="center" valign="middle"><b>Support traité avec encre flexographique selon l'exemple 1</b></entry>
+<entry align="center" valign="middle">1</entry>
+<entry align="center" valign="middle">2 900 000</entry>
+<entry align="center" valign="middle">6,46</entry>
+<entry morerows="1" align="center" valign="middle">4950 000</entry>
+<entry morerows="1" align="center" valign="middle"><b>6,69</b></entry>
+<entry align="center" valign="middle">430</entry>
+<entry align="center" valign="middle">2,63</entry>
+<entry morerows="1" align="center" valign="middle">560</entry>
+<entry morerows="1" align="center" valign="middle"><b>2,75</b></entry></row>
+<row>
+<entry align="center" valign="middle">2</entry>
+<entry align="center" valign="middle">7 000 000</entry>
+<entry align="center" valign="middle">6,85</entry>
+<entry align="center" valign="middle">690</entry>
+<entry align="center" valign="middle">2,84</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0014"><b><u>Exemple 3</u></b></heading>
+<heading id="h0015"><u>Activité antivirale de support traité selon l'invention</u></heading>
+<p id="p0182" num="0182">Deux tests de l'activité antivirale sont réalisés, l'un au regard de Poliovirus Lsc 1 et l'autre au regard de Influenza A (H1N1).</p>
+<p id="p0183" num="0183">Le support testé est le support plastique Polyart® (Polyart P3 non couché) considéré en 2<sup>ème</sup> partie de l'exemple 1.</p>
+<heading id="h0016">a) Poliovirus Lsc 1</heading>
+<p id="p0184" num="0184">Le protocole opératoire est comparable au test ASTM E 1053-97 (Standard Test Method for Efficacy of Virucidal Agents Intended for Inanimate Surfaces).</p>
+<p id="p0185" num="0185">Les supports sont des papiers unis en coton non traités.</p>
+<p id="p0186" num="0186">Le principe est le suivant :
+<ul id="ul0008" list-style="none" compact="compact">
+<li>Les papiers traités et non traités sont coupés en sections de 30 mm<sup>2</sup>.</li>
+</ul></p>
+<p id="p0187" num="0187">Cinq de ces sections traitées et non traitées sont placées dans des boites de Pétri stériles en plastique de 250 mm.</p>
+<p id="p0188" num="0188">100 microlitres d'une dilution comprenant des virus tels que définis ci-dessus sont appliqués uniformément sur la surface des sections carrées.</p>
+<p id="p0189" num="0189">Les cinq dilutions testées à la fin sur le support traité selon l'invention et le support témoin sont précisées dans le Tableau IV.</p>
+<p id="p0190" num="0190">Les boites de Pétri sont couvertes et incubées pendant 24h à 22 °C.</p>
+<p id="p0191" num="0191">Elles sont ensuite retirées et chaque section inoculée est transférée dans un tube à centrifuge stérile à fond conique (Fisher scientific, PA). Pour chaque tube, on ajoute<!-- EPO <DP n="22"> --> 20 mL de PBS (Phosphate Buffered saline) stérile et de l'extrait de boeuf à 3 % (Becton Dickinson # 263010, MD).</p>
+<p id="p0192" num="0192">Les tubes sont placés sur un agitateur orbital et agités à basse vitesse pendant 15 minutes.</p>
+<p id="p0193" num="0193">Après agitation, on retire 5 ml de liquide de chaque tube que l'on place chacun dans un nouveau tube à centrifuge stérile à fond conique (Fisher scientific, PA).</p>
+<p id="p0194" num="0194">Les suspensions sont dilués dix fois dans du PBS.</p>
+<p id="p0195" num="0195">Le nombre de poliovirus viable dans chaque tube est recensé.</p>
+<p id="p0196" num="0196">Le recensement est effectué par inoculation aliquote des dilutions d'échantillon sur des monocouches de cellules BGM fraîchement préparée en utilisant un revêtement d'agar.</p>
+<p id="p0197" num="0197">Les plaques sont enregistrées durant une période de 2-4 jours d'incubation.</p>
+<p id="p0198" num="0198">Les cellules sont incubées à 35 ° C dans une atmosphère à 5 % de CO<sub>2</sub>.</p>
+<p id="p0199" num="0199">Les résultats sont reportés ci-après.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title><u>Tableau IV</u></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="60mm"/>
+<colspec colnum="2" colname="col2" colwidth="45mm"/>
+<colspec colnum="3" colname="col3" colwidth="62mm"/>
+<thead>
+<row rowsep="0">
+<entry namest="col1" nameend="col3" align="left" valign="middle">La concentration initiale d'unités virales infectieuses par échantillon est de 1700 pfu/ml (pfu = plaque forming units) ;</entry></row>
+<row>
+<entry namest="col1" nameend="col3" align="left" valign="middle">Les résultats sont appréciés après un temps de contact de 24h.</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Concentration de Poliovirus pfu/ml %</entry>
+<entry align="center" valign="middle">Pourcentage moyen de réduction de la concentration de virus</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">23</entry>
+<entry morerows="4" align="center" valign="middle">98,8</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">28,5</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">22</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">17</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">10,5</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 1</entry>
+<entry align="center" valign="middle">170</entry>
+<entry align="center" valign="middle">53,9</entry></row><!-- EPO <DP n="23"> -->
+<row>
+<entry align="center" valign="middle">Témoin 2</entry>
+<entry align="center" valign="middle">650</entry>
+<entry morerows="3" align="center" valign="middle"/></row>
+<row>
+<entry align="center" valign="middle">Témoin 3</entry>
+<entry align="center" valign="middle">900</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 4</entry>
+<entry align="center" valign="middle">110</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 5</entry>
+<entry align="center" valign="middle">1100</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0017"><u>b) Influenza A (H1N1)</u></heading>
+<heading id="h0018"><u>Préparation des cultures de virus :</u></heading>
+<p id="p0200" num="0200">Le virus Influenza A (H1N1 ; ATCC VR-1469) est propagé et recensé comme nombres les plus probables (MPN = Most Probable Numbers) en utilisant comme hôtes des monocouches (ATCC CCL-34) de cellules de MDCK (Madin-Darbin Canine Kidney type I).</p>
+<p id="p0201" num="0201">Les cellules sont cultivées dans des plaques de culture cellulaire à 12 puits.</p>
+<p id="p0202" num="0202">Pour le recensement, les parties aliquotes d'un échantillon sont inoculées sur des monocouches fraichement préparées de monocouches de MDCK.</p>
+<p id="p0203" num="0203">Les cellules sont incubées dans un milieu dMEM (MediaTech, USA) contenant de la trypsine, à 35 °C et sous une atmosphère à 5 % en CO<sub>2</sub> pendant 5-7 jours.</p>
+<p id="p0204" num="0204">Les cellules sont surveillées systématiquement au microscope pour observer les signes de dégénérescence.</p>
+<p id="p0205" num="0205">Les cellules dans les puits présentant des signes d'infectiosités (Cytopathic effects ; CPE) sont enregistrés comme positives (+) et celles qui n'en présentent pas sont enregistrées comme négatives (-).</p>
+<p id="p0206" num="0206">Le nombre le plus probable de virus infectieux dans un échantillon est ensuite calculé en utilisant un logiciel MPNCALC (version 0.0.0.23).</p>
+<p id="p0207" num="0207">Pour les expériences, un stock viral congelé (typiquement 1 x 10<sup>8</sup> iu/ml) est rapidement décongelé dans un bain d'eau à 35 °C le jour précédent les expériences.</p>
+<p id="p0208" num="0208">On fait ensuite une dilution 1/10 du stock dans du PBS complété avec du BSA (Bovine Serum Albumin) à 2 %.</p>
+<p id="p0209" num="0209">Le stock est ensuite utilisé pour le test antiviral qui suit.</p>
+<p id="p0210" num="0210">Le stock de virus dilué est titré par dix dilutions successives de PBS et inoculé sur des cellules de MDCK comme décrites ci-dessus.</p>
+<p id="p0211" num="0211">Le mode opératoire pour le test antiviral est le même que celui décrit ci-dessus.</p>
+<p id="p0212" num="0212">Le nombre de Influenza A dans chaque tube est recensé.</p>
+<p id="p0213" num="0213">Le recensement est effectué selon la procédure MPN décrite ci-dessus.<!-- EPO <DP n="24"> --></p>
+<p id="p0214" num="0214">Les résultats sont reportés ci-après.
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title><u>Tableau V</u></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" colwidth="61mm"/>
+<colspec colnum="2" colname="col2" colwidth="55mm"/>
+<colspec colnum="3" colname="col3" colwidth="51mm"/>
+<thead>
+<row rowsep="0">
+<entry namest="col1" nameend="col3" align="left" valign="middle">Le MPN calculé initial est de 460000 et le nombre d'unités virales infectieuses inoculées par échantillon est de 46000.</entry></row>
+<row>
+<entry namest="col1" nameend="col3" rowsep="0" align="left" valign="middle">Les résultats sont appréciés après un temps de contact de 24h.</entry></row>
+<row>
+<entry align="center" valign="middle"/>
+<entry align="center" valign="middle">Nombre le plus probable (MPN) calculé de Influenza A %</entry>
+<entry align="center" valign="middle">Pourcentage moyen de réduction de la concentration de virus</entry></row></thead>
+<tbody>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">&lt; 0,4</entry>
+<entry morerows="4" align="center" valign="middle">&gt; 99,999</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">&lt; 0,4</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">&lt; 0,4</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">&lt; 0,4</entry></row>
+<row>
+<entry align="center" valign="middle">Support traité avec vernis de sur-impression selon l'exemple 1</entry>
+<entry align="center" valign="middle">&lt; 0,4</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 1</entry>
+<entry align="center" valign="middle">460</entry>
+<entry morerows="4" align="center" valign="middle">98,2</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 2</entry>
+<entry align="center" valign="middle">1100</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 3</entry>
+<entry align="center" valign="middle">460</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 4</entry>
+<entry align="center" valign="middle">1100</entry></row>
+<row>
+<entry align="center" valign="middle">Témoin 5</entry>
+<entry align="center" valign="middle">1100</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="fr"><!-- EPO <DP n="25"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Composition fluide apte à former un revêtement <b>caractérisée en ce qu'</b>elle contient de 0,1 % à 3 % en poids sec par rapport au poids total de la composition d'au moins un virucide d'origine naturelle, ledit virucide d'origine naturelle étant la monolaurine,<br/>
+ladite composition possédant une viscosité comprise entre 30 mPa.s et 40 Pa.s, à température et pression ambiante,<br/>
+ladite composition comprenant en outre au moins un agent liant choisi parmi les résines, les cires et les gommes.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Composition selon la revendication 1, <b>caractérisée en ce qu'</b>elle contient en outre au moins un biocide bactériostatique et/ou bactéricide ou un biocide fongistatique et/ou fongicide.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Composition selon l'une quelconque des revendications précédentes, <b>caractérisée en ce qu'</b>elle contient de 0,1 % à 2 % en poids sec, par exemple de 0,5 % à 1,5 % en poids sec, dudit virucide par rapport à son poids total.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Composition selon l'une quelconque des revendications précédentes, <b>caractérisée en ce qu'</b>elle contient en outre un agent humectant, ledit agent humectant étant en particulier un polyol et plus particulièrement du glycérol.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Composition selon l'une quelconque des revendications précédentes, <b>caractérisée en ce que</b> le rapport pondéral masse d'agent humectant sur masse de virucide est au moins égal à 1.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Composition selon l'une quelconque des revendications précédentes, <b>caractérisée</b> en qu'elle est de type encre ou vernis.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Composition selon l'une quelconque des revendications précédentes, <b>caractérisée en ce qu'</b>il s'agit d'une encre contenant au moins un pigment et au moins un agent liant en particulier choisi parmi une cire polyéthylénique, une résine acrylique et leurs mélanges.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Composition selon l'une quelconque des revendications précédentes, <b>caractérisée</b> en qu'elle contient une quantité de pigments comprise entre 0 % et 60 % en poids, notamment entre 10 % et 50 % en poids, et en particulier comprise entre 15 % et 35 % en poids, par rapport au poids total de ladite composition.<!-- EPO <DP n="26"> --></claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Composition selon l'une quelconque des revendications 1 à 6, <b>caractérisée en ce qu'</b>il s'agit d'un vernis contenant au moins un agent liant en particulier choisi parmi une cire polyéthylénique, une résine acrylique et leurs mélanges.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Composition fluide selon l'une quelconque des revendications 1 à 6, <b>caractérisée en ce qu'</b>il s'agit d'un vernis de surimpression contenant au moins un agent liant en particulier choisi parmi les résines époxy cycloaliphatiques.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé utile pour conférer des propriétés virucides à tout ou partie de la surface d'un support souple ou massique comprenant au moins l'étape consistant à appliquer une composition telle que définie en revendications 1 à 10,<br/>
+ledit support étant choisi dans le groupe constitué des billets de banque, des cartes telles que des cartes à puce, des objets plastiques tels que les jouets, les claviers et souris d'ordinateurs, des écrans tactiles, des claviers, écrans et combinés de téléphones, des instruments de soins, médicaux ou de santé, des instruments de musique, des vêtements de travail, des outils et des tissus d'ameublement.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé utile pour conférer des propriétés virucides à tout ou partie de la surface d'un support souple ou massique,<br/>
+ledit support étant choisi dans le groupe constitué des billets de banque, des cartes telles que des cartes à puce, des objets plastiques tels que les jouets, les claviers et souris d'ordinateurs, des écrans tactiles, des claviers, écrans et combinés de téléphones, des instruments de soins, médicaux ou de santé, des instruments de musique, des vêtements de travail, des outils et des tissus d'ameublement,<br/>
+comprenant au moins l'étape consistant à appliquer une composition fluide apte à former un revêtement contenant de 0,1 % à 3 % en poids sec d'acide laurique par rapport au poids total de la composition,<br/>
+ladite composition possédant une viscosité comprise entre 30 mPa.s et 40 Pa.s, à température et pression ambiante,<br/>
+ladite composition comprenant en outre au moins un agent liant choisi parmi les résines, les cires et les gommes ;<br/>
+et la génération de la monolaurine <i>in situ</i> en surface du support souple ou massique, lors de ladite application de ladite composition ;<br/>
+<!-- EPO <DP n="27"> -->la monolaurine étant synthétisée <i>in situ</i> par réaction d'acide laurique et de glycérol en présence d'un catalyseur, ledit catalyseur étant en particulier de type zéolite ou une lipase.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Procédé selon la revendication précédente, comprenant au moins les étapes consistant à:
+<claim-text>a) disposer d'un support souple ou massique dont la surface à traiter comporte au moins un catalyseur et/ou réactif apte à stimuler l'interaction entre l'acide laurique et le glycérol ; ledit catalyseur étant en particulier de type zéolite ou une lipase ;</claim-text>
+<claim-text>b) mettre en contact ladite surface avec une composition selon la revendication 12 contenant au moins de l'acide laurique et du glycérol ; et</claim-text>
+<claim-text>c) imposer à la surface traitée en étape b) un traitement thermique propice à la synthèse de la monolaurine ;</claim-text>
+lesdites étapes b) et c) pouvant être réalisées consécutivement ou simultanément.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Procédé selon la revendication 12 ou 13, dans lequel la composition comprend de 0,1 % à 2 % en poids sec, par exemple de 0,5 % à 1,5 % en poids sec, d'acide laurique par rapport à son poids total.</claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Procédé selon l'une quelconque des revendications 12 à 14, dans lequel la composition contient en outre un agent humectant, ledit agent humectant étant en particulier un polyol et plus particulièrement du glycérol.</claim-text></claim>
+<claim id="c-fr-01-0016" num="0016">
+<claim-text>Procédé selon la revendication précédente, dans lequel le rapport pondéral masse d'agent humectant sur masse d'acide laurique est au moins égal à 1.</claim-text></claim>
+<claim id="c-fr-01-0017" num="0017">
+<claim-text>Procédé selon l'une quelconque des revendications 12 à 16, dans lequel la composition est telle que défini selon l'une quelconque des revendications 6 à 10.</claim-text></claim>
+<claim id="c-fr-01-0018" num="0018">
+<claim-text>Procédé dans lequel une composition telle que définie en revendications 1 à 10 est déposée en surface d'un support par impression offset, par héliogravure, par flexographie, par surimpression flexographique, par gravure en taille-douce, par typographie ou par lithographie.</claim-text></claim>
+<claim id="c-fr-01-0019" num="0019">
+<claim-text>Objet <b>caractérisé en ce qu'</b>il est susceptible d'être obtenu par un procédé comprenant au moins une étape de revêtement en surface par une composition telle que définie en revendication 1 à 10.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="28"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Fluidzusammensetzung, geeignet zum Bilden einer Beschichtung, <b>gekennzeichnet dadurch, dass</b> sie 0,1% bis 3% im Trockengewicht in Bezug auf das Gesamtgewicht der Zusammensetzung von mindestens einem Viruzid natürlichen Ursprungs enthält, wobei das Viruzid natürlichen Ursprungs Monolaurin ist,<br/>
+wobei die Zusammensetzung eine Viskosität im Bereich zwischen 30 mPa·s und 40 Pa·s bei Umgebungstemperatur und - druck aufweist,<br/>
+wobei die Zusammensetzung unter anderem mindestens ein Bindemittel umfasst, das aus Harzen, Wachsen und Gummis ausgewählt ist.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Zusammensetzung nach Anspruch 1, <b>gekennzeichnet dadurch, dass</b> sie unter anderem mindestens ein bakteriostatisches und/oder bakterizides Biozid oder ein fungistatisches und/oder fungizides Biozid enthält.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Zusammensetzung nach einem der vorhergehenden Ansprüche, <b>gekennzeichnet dadurch, dass</b> sie 0,1% bis 2% im Trockengewicht, beispielsweise 0,5% bis 1,5% im Trockengewicht, des Viruzids bezüglich ihres Gesamtgewichts enthält.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Zusammensetzung nach einem der vorhergehenden Ansprüche, <b>gekennzeichnet dadurch, dass</b> sie unter anderem ein Feuchthaltemittel enthält, wobei das Feuchthaltemittel insbesondere ein Polyol und weiter insbesondere ein Glyzerol ist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Zusammensetzung nach einem der vorhergehenden Ansprüche, <b>gekennzeichnet dadurch, dass</b> das Gewichtsverhältnis der Masse des Feuchthaltemittels zur Masse des Viruzids wenigstens gleich 1 ist.<!-- EPO <DP n="29"> --></claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Zusammensetzung nach einem der vorhergehenden Ansprüche, <b>gekennzeichnet dadurch, dass</b> sie vom Tinten- oder Lacktyp ist.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Zusammensetzung nach einem der vorhergehenden Ansprüche, <b>gekennzeichnet dadurch, dass</b> es sich um eine Tinte handelt, die mindestens ein Pigment und mindestens ein Bindemittel enthält, das aus einem Polyethylenwachs, einem Acrylharz und deren Mischungen ausgewählt ist.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Zusammensetzung nach einem der vorhergehenden Ansprüche, <b>gekennzeichnet dadurch, dass</b> sie eine Pigmentmenge enthält, die im Bereich von 0% und 60% im Gewicht, insbesondere zwischen 10% und 50% im Gewicht und darüber hinaus insbesondere zwischen 15% und 35% im Gewicht, bezüglich des Gesamtgewichts der Zusammensetzung liegt.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Zusammensetzung nach einem der Ansprüche 1 bis 6, <b>gekennzeichnet dadurch, dass</b> es sich um einen Lack handelt, der mindestens ein Bindemittel enthält, das insbesondere aus einem Polyethylenwachs, einem Acrylharz und deren Mischungen ausgewählt ist.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Fluidzusammensetzung nach einem der Ansprüche 1 bis 6, <b>gekennzeichnet dadurch, dass</b> es sich um einen Überdrucklack handelt, der mindestens ein Bindemittel enthält, das aus den zykloaliphatischen Epoxidharzen ausgewählt ist.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verwendungsverfahren zum Aufbringen von viruziden Eigenschaften auf die gesamte Oberfläche eines flexiblen oder massigen Trägers oder einen Teil davon, umfassend mindestens den Schritt des Anwendens einer Zusammensetzung nach einem der Ansprüche 1 bis 10,<br/>
+wobei der Träger in der Gruppe ausgewählt wird, die gebildet wird durch Banknoten, Karten wie etwa Chipkarten, Plastikobjekte wie etwa Spielzeug, Tastaturen und Mäuse von Computern, berührungsempfindliche Bildschirme, Tastaturen,<!-- EPO <DP n="30"> --> Bildschirme und Hörer von Telefonen, Instrumente für Pflege, Medizin oder Gesundheit, Musikinstrumente, Arbeitskleidung, Werkzeuge und Möbelstoffe.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verwendungsverfahren zum Aufbringen von viruziden Eigenschaften auf die gesamte Oberfläche eines flexiblen oder massigen Trägers oder einen Teil davon,<br/>
+wobei der Träger in der Gruppe ausgewählt wird, die gebildet wird durch Banknoten, Karten wie etwa Chipkarten, Plastikobjekte wie etwa Spielzeug, Tastaturen und Mäuse von Computern, berührungsempfindliche Bildschirme, Tastaturen, Bildschirme und Hörer von Telefonen, Instrumente für Pflege, Medizin oder Gesundheit, Musikinstrumente, Arbeitskleidung, Werkzeuge und Möbelstoffe,<br/>
+umfassend mindestens den Schritt des Anwendens einer Fluidzusammensetzung, die zur Bildung einer Beschichtung geeignet ist und 0,1% bis 3% im Trockengewicht von Laurinsäure bezüglich des Gesamtgewichts der Zusammensetzung enthält,<br/>
+wobei die Zusammensetzung eine Viskosität im Bereich von 30 mPa·s und 40 Pa·s bei Umgebungstemperatur und -druck aufweist,<br/>
+wobei die Zusammensetzung unter anderem mindestens ein Bindemittel umfasst, das aus den Harzen, den Wachsen und den Gummis ausgewählt ist;<br/>
+und die Erzeugung des Monolaurins <i>in situ</i> auf der Oberfläche des flexiblen oder massigen Trägers nach der Anwendung der Zusammensetzung;<br/>
+wobei das Monolaurin <i>in situ</i> durch Reaktion der Laurinsäure und von Glyzerol bei Vorhandensein eines Katalysators synthetisiert wird, wobei der Katalysator insbesondere vom Zeolithtyp oder eine Lipase ist.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Verfahren nach dem vorhergehenden Anspruch, umfassend mindestens die folgenden Schritte:
+<claim-text>a) Bereitstellen eines flexiblen oder massigen Trägers, dessen zu behandelnde Oberfläche mindestens<!-- EPO <DP n="31"> --> einen Katalysator und/oder Reaktionsmittel aufweist, der bzw. das zum Stimulieren der Interaktion der Laurinsäure und des Glyzerols geeignet ist, wobei der Katalysator insbesondere vom Zeolithtyp oder eine Lipase ist;</claim-text>
+<claim-text>b) In-Kontakt-Bringen der Oberfläche mit einer Zusammensetzung nach Anspruch 12, die mindestens die Laurinsäure und Glyzerol enthält, und</claim-text>
+<claim-text>c) Unterziehen der in Schritt b) behandelten Oberfläche einer Wärmebehandlung, die für die Synthese des Monolaurins günstig ist;</claim-text>
+wobei die Schritte b) und c) aufeinanderfolgend oder gleichzeitig ausgeführt werden können.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Verfahren nach Anspruch 12 oder 13, bei dem die Zusammensetzung 0,1% bis 2% im Trockengewicht, beispielsweise 0,5% bis 1,5% im Trockengewicht, Laurinsäure bezüglich ihres Gesamtgewichts enthält.</claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Verfahren nach einem der Ansprüche 12 bis 14, bei dem die Zusammensetzung unter anderem ein Feuchthaltemittel enthält, wobei das Feuchthaltemittel insbesondere ein Polyol und darüber hinaus insbesondere aus Glyzerol ist.</claim-text></claim>
+<claim id="c-de-01-0016" num="0016">
+<claim-text>Verfahren nach dem vorhergehenden Anspruch, bei dem das Gewichtsverhältnis der Masse des Feuchthaltemittels zur Masse der Laurinsäure wenigstens gleich 1 ist.</claim-text></claim>
+<claim id="c-de-01-0017" num="0017">
+<claim-text>Verfahren nach einem der Ansprüche 12 bis 16, bei dem die Zusammensetzung so wie in einem der Ansprüche 6 bis 10 definiert beschaffen ist.</claim-text></claim>
+<claim id="c-de-01-0018" num="0018">
+<claim-text>Verfahren, bei dem eine Zusammensetzung nach einem der Ansprüche 1 bis 10 auf einem Träger durch Offsetdruck, durch Lichtdruck, durch Flexographie, durch flexographischen Aufdruck, durch Stichdruck, durch Typographie oder durch Lithographie aufgebracht wird.<!-- EPO <DP n="32"> --></claim-text></claim>
+<claim id="c-de-01-0019" num="0019">
+<claim-text>Gegenstand, <b>gekennzeichnet dadurch, dass</b> er durch ein Verfahren erzeugt werden kann, das mindestens einen Schritt der Oberflächenbeschichtung mit einer Zusammensetzung nach einem der Ansprüche 1 bis 10 umfasst.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="en"><!-- EPO <DP n="33"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A fluid composition capable of forming a coating, <b>characterized in that</b> it contains from 0.1% to 3% by dry weight, relative to the total weight of the composition, of at least one virucide of natural origin, said virucide of natural origin being monolaurin, said composition having a viscosity between 30 mPa.s and 40 Pa.s, at room temperature and ambient pressure,<br/>
+said composition comprising, in addition, at least one binder chosen from resins, waxes and gums.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The composition as claimed in claim 1, <b>characterized in that</b> it also contains at least one bacteriostatic and/or bactericidal biocide or a fungistatic and/or fungicidal biocide.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The composition as claimed in any one of the preceding claims, <b>characterized in that</b> it contains from 0.1% to 2% by dry weight, for example from 0.5% to 1.5% by dry weight, of said virucide relative to its total weight.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The composition as claimed in any one of the preceding claims, <b>characterized in that</b> it also contains a humectant, said humectant being in particular a polyol and more particularly glycerol.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The composition as claimed in any one of the preceding claims, <b>characterized in that</b> the weight ratio of the mass of humectant to the mass of virucide is at least equal to 1.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The composition as claimed in any one of the preceding claims, <b>characterized in that</b> it is of ink or varnish type.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The composition as claimed in any one of the preceding claims, <b>characterized in that</b> it is an ink containing at least one pigment and at least one binder in particular chosen from a polyethylene wax, an acrylic resin and mixtures thereof.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The composition as claimed in any one of the preceding claims, <b>characterized in that</b> it contains an amount of pigments between 0% and 60% by weight, especially between 10% and 50% by weight, and in particular between 15% and 35% by weight, relative to the total weight of said composition.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The composition as claimed in any one of claims 1 to 6, <b>characterized in that</b> it is a varnish containing at least one binder in particular chosen from a polyethylene wax, an acrylic resin and mixtures thereof.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The fluid composition as claimed in any one of claims 1 to 6, <b>characterized in that</b> it is an overprint varnish containing at least one binder in particular chosen from cycloaliphatic epoxy resins.<!-- EPO <DP n="34"> --></claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>A process useful for imparting virucidal properties to all or part of the surface of a flexible or solid support comprising at least the step that consists in applying a composition as defined in claims 1 to 10,<br/>
+said support being selected in the group consisting in banknotes, cards such as chip cards, plastic articles such as toys, computer keyboards and mice, touch screens, telephone keypads, screens and handsets, care, medical or health instruments, musical instruments, uniforms, tools and upholstery fabrics.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>A process useful for imparting virucidal properties to all or part of the surface of a flexible or solid support,<br/>
+said support being selected in the group consisting in banknotes, cards such as chip cards, plastic articles such as toys, computer keyboards and mice, touch screens, telephone keypads, screens and handsets, care, medical or health instruments, musical instruments, uniforms, tools and upholstery fabrics,<br/>
+comprising at least the application of a fluid composition capable of forming a coating, containing from 0.1% to 3% by dry weight, of lauric acid, relative to the total weight of the composition,<br/>
+said composition having a viscosity between 30 mPa.s and 40 Pa.s, at room temperature and ambient pressure,<br/>
+said composition comprising, in addition, at least one binder chosen from resins, waxes and gums,<br/>
+and the generation of monolaurin <i>in situ</i> on the surface of the flexible or solid support, during said application of said composition,<br/>
+the monolaurin being synthesized <i>in situ</i> by reaction of lauric acid and glycerol in the presence of a catalyst, said catalyst being in particular of zeolite-type or a lipase.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>The process as claimed in the preceding claim, comprising at least the steps that consist in:
+<claim-text>a) using a flexible or solid support having a surface to be treated that comprises at least one catalyst and/or reactant capable of stimulating the interaction between lauric acid and glycerol; said catalyst being in particular of zeolite-type or a lipase;</claim-text>
+<claim-text>b) bringing said surface into contact with a composition as claimed in claim 1 containing at least lauric acid and glycerol; and</claim-text>
+<claim-text>c) subjecting the surface treated in step b) to a heat treatment conducive to the synthesis of monolaurin;</claim-text>
+it being possible for said steps b) and c) to be carried out consecutively or simultaneously.<!-- EPO <DP n="35"> --></claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>The process as claimed in claim 12 or 13, wherein the composition comprises from 0.1% to 2% by dry weight, for example from 0.5% to 1.5% by dry weight, of lauric acid relative to its total weight.</claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>The process as claimed in any one of claims 12 to 14, wherein the composition also contains a humectant, said humectant being in particular a polyol and more particularly glycerol.</claim-text></claim>
+<claim id="c-en-01-0016" num="0016">
+<claim-text>The process as claimed in the preceding claim, wherein the weight ratio of the mass of humectant to the mass of virucide is at least equal to 1.</claim-text></claim>
+<claim id="c-en-01-0017" num="0017">
+<claim-text>The process as claimed in any one of claims 12 to 16, wherein the composition is as defined in any one of claims 6 to 10.</claim-text></claim>
+<claim id="c-en-01-0018" num="0018">
+<claim-text>A process wherein a composition as defined in claims 1 to 10 is deposited on the surface of a support by offset printing, gravure printing, by flexography, by flexographic overprinting, by intaglio printing, by typography or by lithography.</claim-text></claim>
+<claim id="c-en-01-0019" num="0019">
+<claim-text>Articles <b>characterized in that</b> they may be obtained by a process comprising at least one step of coating the surface with a composition as defined in claims 1 to 10.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>RÉFÉRENCES CITÉES DANS LA DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>Cette liste de références citées par le demandeur vise uniquement à aider le lecteur et ne fait pas partie du document de brevet européen. Même si le plus grand soin a été accordé à sa conception, des erreurs ou des omissions ne peuvent être exclues et l'OEB décline toute responsabilité à cet égard.</i></p>
+<heading id="ref-h0002"><b>Documents brevets cités dans la description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US5968538A"><document-id><country>US</country><doc-number>5968538</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0008]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US4662403A"><document-id><country>US</country><doc-number>4662403</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0011]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Littérature non-brevet citée dans la description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>CLARKE et al.</name></author><atl/><serial><sertitle>Journal of Medical Microbiology</sertitle><vid>49</vid></serial><location><pp><ppf>719</ppf><ppl>723</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0009]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>THORMAR et al.</name></author><atl/><serial><sertitle>Antimicrobial Agents and Chemotherapy</sertitle><pubdate><sdate>19870101</sdate><edate/></pubdate></serial><location><pp><ppf>27</ppf><ppl>31</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0010]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>C.C.B., DA SILVA M.A.P.</name></author><author><name>LANGONE M.A.P.</name></author><atl>Enzymatic synthesis of monolaurine</atl><serial><sertitle>Applied biochemistry and Biotechnology</sertitle><pubdate><sdate>20040000</sdate><edate/></pubdate><vid>113</vid><ino>116</ino></serial><location><pp><ppf>433</ppf><ppl>445</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0150]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>
