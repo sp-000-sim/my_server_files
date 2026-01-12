@@ -1,0 +1,38 @@
+{
+  "title": "Method of producing a stabilized aqueous chlorine dioxide solution",
+  "application_number": "EP21862175.3A",
+  "inventor_name": [
+    "Mikhail Abramovich VELKOVICH",
+    "Aleksandr Alekseevich SHMATKOV",
+    "Andrei Andreevich RUCHYEV",
+    "Emiliya Borisovna SHMATKOVA"
+  ],
+  "assignee_name_orig": [
+    "Nexigreen Solutions Ltd"
+  ],
+  "assignee_name_current": [
+    "\n    Nexigreen Solutions Ltd\n  "
+  ],
+  "pub_date": "2023-07-05",
+  "application_date": "2021-06-16",
+  "abstract_text": "\n     The invention relates to the chemical industry and can be used in the production of an aqueous chlorine dioxide solution for disinfection, water purification, sterilization and bleaching. To produce a stabilized aqueous chlorine dioxide solution, in the first step two aqueous solutions, (A) and (B), are prepared. To prepare the first solution (A), metallic or ammonium chloride (Al), metallic or ammonium carbonate (A2) and metallic or ammonium bicarbonate (A3) are dissolved in water. The mass ratio of (B1) to (A2+A3) is (2.4-3.0):1. To prepare the second solution (B). metallic or ammonium persulfate (B1) and metallic or ammonium bisulfate (B2) are dissolved in water. The mass ratio of (B1) to (B2) is 3:1. In the second step, solution (B) is added to solution (A). The invention provides maximum production of the end product (aqueous chlorine dioxide solution) that does not have destabilizing side products and can be stored at a temperature of up to 30°C and at normal atmospheric pressure for at least 12 months. \n   \n   ",
+  "url": "https://patents.google.com/patent/EP4206122A1/en",
+  "patent": "EP4206122A1",
+  "pdf_link": "https://patentimages.storage.googleapis.com/0d/30/55/f9be1cc38d9de5/EP4206122A1.pdf",
+  "classifications": [
+    "Stabilization",
+    "Chemical synthesis",
+    "Disinfection",
+    "Long-term storage"
+  ],
+  "bas_no": "1294",
+  "substance_name": "Disodium peroxodisulphate/Sodium persulphate",
+  "auxiliary_substance_names": [
+    "Disodium peroxodisulphatel",
+    "7775-27-1",
+    "Na2O8S2",
+    "disodium [(sulfonato peroxy)sulfonyl] oxidanide",
+    "Disodium persulfate",
+    "Sodium peroxodisulfate"
+  ]
+}

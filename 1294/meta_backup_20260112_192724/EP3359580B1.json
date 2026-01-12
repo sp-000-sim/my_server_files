@@ -1,0 +1,50 @@
+{
+  "title": "Polymer having antimicrobial and/or antifouling properties",
+  "application_number": "EP16797528.3A",
+  "inventor_name": [
+    "Karen Lienkamp",
+    "David BOSCHERT",
+    "Alexandra Schneider",
+    "Ali Al-Ahmad"
+  ],
+  "assignee_name_orig": [
+    "Albert Ludwigs Universitaet Freiburg"
+  ],
+  "assignee_name_current": [
+    "\n    Albert Ludwigs Universitaet Freiburg\n  "
+  ],
+  "pub_date": "2018-08-15",
+  "grant_date": "2022-03-30",
+  "expiration_date": "2036-11-15",
+  "status": "Active",
+  "application_date": "2016-11-15",
+  "abstract_text": "",
+  "url": "https://patents.google.com/patent/EP3359580B1/en",
+  "patent": "EP3359580B1",
+  "pdf_link": "https://patentimages.storage.googleapis.com/4e/cd/51/1159ecfc9dd90b/EP3359580B1.pdf",
+  "classifications": [
+    "The provided example and the problem's pattern suggest that the keywords should include a material",
+    "functional properties",
+    "and possibly a process or domain. In this case",
+    "the material is \"Polymer",
+    "\" and the functional properties are \"Antimicrobial\" and \"Antifouling.\" There is no specific process or domain mentioned",
+    "so we'll include the material and the two functional properties.\n\nThe good combination example given was: \"Polymer\"",
+    "\"Self-healing\"",
+    "\"Coating\"",
+    "\"Corrosion resistant\" (material",
+    "functional",
+    "process",
+    "functional). This has a balanced distribution across categories. For our case",
+    "we have:\n\n- Material: \"Polymer\"\n- Functional: \"Antimicrobial\" and \"Antifouling\"\n\nThis results in three keywords: \"Polymer\"",
+    "\"Antimicrobial\"",
+    "\"Antifouling\". \n\nThe distribution is:\n- Material: 1/3 ≈ 33.3% (within 20-35%)\n- Functional: 2/3 ≈ 66.7% (which is higher than the 20-35% range"
+  ],
+  "bas_no": "1294",
+  "substance_name": "Disodium peroxodisulphate/Sodium persulphate",
+  "auxiliary_substance_names": [
+    "Disodium peroxodisulphatel",
+    "7775-27-1",
+    "Na2O8S2",
+    "disodium [(sulfonato peroxy)sulfonyl] oxidanide"
+  ]
+}
