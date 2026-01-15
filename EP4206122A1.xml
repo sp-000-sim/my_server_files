@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.6//EN" "ep-patent-document-v1-6.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP21862175A1" file="EP21862175NWA1.xml" lang="en" country="EP" doc-number="4206122" kind="A1" date-publ="20230705" status="n" dtd-version="ep-patent-document-v1-6">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP><B005EP>J</B005EP><B007EP>2.0.21 -  1100000/0</B007EP></eptags></B000><B100><B110>4206122</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 153(4) EPC</B121EP></B120><B130>A1</B130><B140><date>20230705</date></B140><B190>EP</B190></B100><B200><B210>21862175.3</B210><B220><date>20210616</date></B220><B240><B241><date>20230331</date></B241></B240><B250>ru</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2020128785</B310><B320><date>20200831</date></B320><B330><ctry>RU</ctry></B330></B300><B400><B405><date>20230705</date><bnum>202327</bnum></B405><B430><date>20230705</date><bnum>202327</bnum></B430></B400><B500><B510EP><classification-ipcr sequence="1"><text>C01B  11/02        20060101AFI20220305BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C02F   1/76        20230101ALI20220305BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>A61L   2/18        20060101ALI20220305BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A01N  59/00        20060101ALI20220305BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>VERFAHREN ZUR HERSTELLUNG EINER STABILISIERTEN WÄSSRIGEN CHLORDIOXIDLÖSUNG</B542><B541>en</B541><B542>METHOD OF PRODUCING A STABILIZED AQUEOUS CHLORINE DIOXIDE SOLUTION</B542><B541>fr</B541><B542>PROCÉDÉ DE PRODUCTION DE SOLUTION AQUEUSE STABILISÉE DE DIOXYDE DE CHLORE</B542></B540></B500><B700><B710><B711><snm>Nexigreen Solutions Ltd</snm><iid>101963541</iid><irf>CYV 012 WO/EP</irf><adr><str>Georgiou A' 83 Shop 17 Potamos Yermasoyias</str><city>Limassol</city><ctry>CY</ctry></adr></B711></B710><B720><B721><snm>VELKOVICH, Mikhail Abramovich</snm><adr><city>Sankt-Peterburg, 191186</city><ctry>RU</ctry></adr></B721><B721><snm>SHMATKOV, Aleksandr Alekseevich</snm><adr><city>Sankt- Peterburg, 197373</city><ctry>RU</ctry></adr></B721><B721><snm>RUCHYEV, Andrei Andreevich</snm><adr><city>Sankt-Peterburg, 197373</city><ctry>RU</ctry></adr></B721><B721><snm>SHMATKOVA, Emiliya Borisovna</snm><adr><city>Sankt- Peterburg, 197373</city><ctry>RU</ctry></adr></B721></B720><B740><B741><snm>Betten &amp; Resch</snm><iid>101517873</iid><adr><str>Patent- und Rechtsanwälte PartGmbB 
+Maximiliansplatz 14</str><city>80333 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>BA</ctry></B845EP><B845EP><ctry>ME</ctry></B845EP></B844EP><B848EP><B849EP><ctry>KH</ctry></B849EP><B849EP><ctry>MA</ctry></B849EP><B849EP><ctry>MD</ctry></B849EP><B849EP><ctry>TN</ctry></B849EP></B848EP><B860><B861><dnum><anum>RU2021000255</anum></dnum><date>20210616</date></B861><B862>ru</B862></B860><B870><B871><dnum><pnum>WO2022045925</pnum></dnum><date>20220303</date><bnum>202209</bnum></B871></B870></B800></SDOBI>
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">The invention relates to the chemical industry and can be used in the production of an aqueous chlorine dioxide solution for disinfection, water purification, sterilization and bleaching. To produce a stabilized aqueous chlorine dioxide solution, in the first step two aqueous solutions, (A) and (B), are prepared. To prepare the first solution (A), metallic or ammonium chloride (Al), metallic or ammonium carbonate (A2) and metallic or ammonium bicarbonate (A3) are dissolved in water. The mass ratio of (B1) to (A2+A3) is (2.4-3.0):1. To prepare the second solution (B). metallic or ammonium persulfate (B1) and metallic or ammonium bisulfate (B2) are dissolved in water. The mass ratio of (B1) to (B2) is 3:1. In the second step, solution (B) is added to solution (A). The invention provides maximum production of the end product (aqueous chlorine dioxide solution) that does not have destabilizing side products and can be stored at a temperature of up to 30°C and at normal atmospheric pressure for at least 12 months.</p>
+</abstract>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001"><u>PERTINENT ART</u></heading>
+<p id="p0001" num="0001">The claimed invention relates to the chemical industry and can be used in the production of an aqueous chlorine dioxide solution for disinfection, water purification, sterilization and bleaching.</p>
+<heading id="h0002"><u>PRIOR ART</u></heading>
+<p id="p0002" num="0002">There is a method of producing an aqueous chlorine dioxide solution which comprises the following stages: a) producing chloride, B) producing peroxodisulfate, c) combining chloride and peroxodisulfate in an aqueous system with a molar ratio of peroxodisulfate to chloride [S<sub>2</sub>O<sub>8</sub> <sup>2-</sup>]/[ClO<sub>2</sub><sup>-</sup>] greater than 1 with the formation of an aqueous chlorine dioxide solution, where no additional buffer is added to produce an aqueous chlorine dioxide solution (RF Patent No. <patcit id="pcit0001" dnum="WO2567937A"><text>2567937, 2015</text></patcit>).</p>
+<p id="p0003" num="0003">The disadvantage of this method is the formation of destabilizing side products, such as hypochloride and chlorine, which do not allow maintaining the stability of the chlorine dioxide solution without the use of cooling devices and overpressure for a long time, as well as the absence of stabilizing substances.</p>
+<p id="p0004" num="0004">There is also a known method for producing stable and pure liquid chlorine dioxide, which includes the combination of two components in an aqueous solution, one being textone sodium salt (sodium chloride, NaClOz), and the other being sodium peroxodisulfate (sodium persulfate, Na<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) or sodium hydrosulfate (sodium bisulfate, NaHSO<sub>4</sub>). At the first stage an aqueous textone sodium salt solution is prepared, at the second stage an aqueous sodium peroxodisulfate solution or an aqueous sodium hydrosulfate solution is prepared, and at the third stage the aqueous solutions produced at the first and second stages are combined (international application <patcit id="pcit0002" dnum="WO2011086579A"><text>WO2011086579, 2011</text></patcit>).</p>
+<p id="p0005" num="0005">The disadvantage of this method is the lack of stability during preparation (there is no release of carbon dioxide when the components are combined), as well as the inability to maintain the stability of the chlorine dioxide solution for more than 30 days.</p>
+<p id="p0006" num="0006">There is also a known method for producing chlorine dioxide mixed with oxygen by the reaction of chloride with peroxymonosulfate in the presence of a redox initiating agent in an acidic aqueous solution (international application <patcit id="pcit0003" dnum="WO03055797A"><text>WO03055797, 2003</text></patcit>).</p>
+<p id="p0007" num="0007">The disadvantage of this method is the low (acidic) pH of the chlorine dioxide solution, which contributes to the destabilization of chlorine dioxide due to the formation of chlorous acid HClOz, which, in turn, decomposes into hydrochloric HCl and chloric acid HClO<sub>3</sub>. In addition, the chlorine dioxide solution contains such a destabilizing side product as hydrogen peroxide.</p>
+<p id="p0008" num="0008">There is also a method for producing chlorine dioxide which comprises producing an aqueous persulfate solution with a concentration of 0.01-1.0 mole of persulfate per liter, which is buffered to a pH of 3-9; producing an aqueous chloride solution with a concentration of 0.01-1.0 mole of chloride per liter, which is buffered to a pH of 9-12; mixing a persulfate solution with chloride solution with a molar ratio of persulfate to chloride being greater than 2 (US Patent <patcit id="pcit0004" dnum="US7303737B"><text>US7303737, 2007</text></patcit>).</p>
+<p id="p0009" num="0009">The disadvantage of this method is the formation of destabilizing side products, such as an excess of<!-- EPO <DP n="2"> --> persulfate, which forms an acidic medium and causes the formation of chlorous acid HClOz, which, in turn, decomposes into hydrochloric HCl and chloric acid HClO<sub>3</sub>.</p>
+<heading id="h0003"><u>DISCLOSURE OF THE INVENTION</u></heading>
+<p id="p0010" num="0010">The technical issue solved by the claimed invention is to develop a method for producing a stabilized aqueous chlorine dioxide solution, which can be stored at a temperature up to 30°C and normal atmospheric pressure for at least 12 months.</p>
+<p id="p0011" num="0011">The technical result provided by the claimed invention is to maximize the production of the final product (chlorine dioxide) without destabilizing side products.</p>
+<p id="p0012" num="0012">The specified technical result is achieved by the fact that in the method for producing a stabilized aqueous chlorine dioxide solution which includes the interaction of two aqueous solutions, one of the solutions (A) is produced by means of dissolving metallic or ammonium chloride (A1), metallic or ammonium carbonate (A2) and metallic or ammonium bicarbonate (A3) in water, with the mass ratio of metallic or ammonium chloride (A1) to metallic or ammonium carbonate or metallic or ammonium bicarbonate (A2+A3) being 2.4-3.0 : 1, and the second of the solutions (B) is produced by means of dissolving metallic or ammonium persulfate (B1) and metallic or ammonium bisulfate (B2) in water, with the mass ratio of metallic or ammonium persulfate (B1) to metallic or ammonium bisulfate (B2) being 3:1.</p>
+<p id="p0013" num="0013">The technical result is also achieved by the fact that the mass ratio of the components is as follows (mass %):
+<ul id="ul0001" list-style="none" compact="compact">
+<li>metallic or ammonium chloride - 0.005-3.939</li>
+<li>metallic or ammonium carbonate - 0.001-0.855</li>
+<li>metallic or ammonium bicarbonate - 0.001-0.782</li>
+</ul>
+<ul id="ul0002" list-style="none" compact="compact">
+<li>metallic or ammonium persulfate - 0.006-4.641</li>
+<li>metallic or ammonium bisulfate - 0.002-1.547</li>
+<li>water - 88.236 -99.985.</li>
+</ul></p>
+<p id="p0014" num="0014">As a metallic chloride, the chloride of an alkaline or alkaline-earth metal, such as sodium, potassium, calcium, magnesium, can be used.</p>
+<p id="p0015" num="0015">As a metallic carbonate, the carbonate of an alkaline or alkaline-earth metal, such as sodium, potassium, calcium, magnesium, can be used.</p>
+<p id="p0016" num="0016">As a metallic bicarbonate, the bicarbonate of an alkaline or alkaline-earth metal, such as sodium, potassium, calcium, magnesium, can be used.</p>
+<p id="p0017" num="0017">As a metallic persulfate, the persulfate of an alkaline or alkaline-earth metal, such as sodium, potassium, calcium, magnesium, can be used.</p>
+<p id="p0018" num="0018">As a metallic bisulfate, bisulfate of an alkaline or alkaline-earth metal, such as sodium, potassium, calcium, magnesium, can be used.</p>
+<p id="p0019" num="0019">These components (with sodium, potassium, calcium, magnesium and ammonium ions) are selected<!-- EPO <DP n="3"> --> based on their greatest prevalence, stability of aqueous solutions and compliance with the maximum permissible concentrations in water.</p>
+<p id="p0020" num="0020">The method is implemented as follows.</p>
+<p id="p0021" num="0021">At the first stage, two aqueous solutions (A) and (B) are prepared. To do this, one takes suitable containers made of chemically resistant material, for example, high-density polyethylene (HDP) or unplasticized polyvinyl chloride (PVC-U), or polytetrafluoroethylene (PTFE). Distilled lukewarm water is used for solutions.</p>
+<p id="p0022" num="0022">To produce the first solution (A), metallic or ammonium chloride (A1), metallic or ammonium carbonate (A2) and metallic or ammonium bicarbonate (A3) are dissolved in water, with the mass ratio (A1) to (A2 +A3) being 2.4-3.0 : 1. Metallic or ammonium chloride is dissolved in water gradually - first in a small amount of water, then water is added to achieve the desired concentration. Metallic or ammonium carbonate with metallic or ammonium bicarbonate are also dissolved in water gradually - first in a small amount of water, then the resulting solution is poured into a container with dissolved metallic or ammonium chloride. Everything is mixed until completely dissolved. Herewith, the following hydrolysis reactions occur:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1) in the case of a single-charged metallic cation<br/>
+<br/>
+        MeClOz + H<sub>2</sub>O ⇔ MeOH + HClOz<br/>
+<br/>
+        Me<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O ⇔ MeOH + MeHCO<sub>3</sub><br/>
+<br/>
+        MeHCO<sub>3</sub> + H<sub>2</sub>O ⇔ MeOH + H<sub>2</sub>CO<sub>3</sub>;<br/>
+<br/>
+</li>
+<li>2) in the case of a double-charged metallic cation<br/>
+<br/>
+        Me(ClO<sub>2</sub>)<sub>2</sub> + H<sub>2</sub>O ⇔ MeOHClO<sub>2</sub> + HClOz<br/>
+<br/>
+        Me(HCO<sub>3</sub>)<sub>2</sub> + 2H<sub>2</sub>O ⇔ Me(OH)<sub>2</sub> + 2H<sub>2</sub>CO<sub>3</sub>,<br/>
+<br/>
+where Me is the metallic cation.<br/>
+Herewith, calcium carbonate and magnesium carbonate do not hydrolyze, because these salts are not soluble in water.</li>
+<li>3) in the case of ammonium ion<br/>
+<br/>
+        NH<sub>4</sub>ClO<sub>2</sub> + H<sub>2</sub>O ⇔ NH<sub>3</sub><sup>∗</sup>H<sub>2</sub>O + HClOz<br/>
+<br/>
+        (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>O ⇔ NH<sub>3</sub><sup>∗</sup>H<sub>2</sub>O + NH<sub>4</sub>HCO<sub>3</sub><br/>
+<br/>
+        NH<sub>4</sub>HCO<sub>3</sub> + H<sub>2</sub>O ⇔ NH<sub>3</sub><sup>∗</sup>H<sub>2</sub>O + H<sub>2</sub>CO<sub>3</sub><br/>
+<br/>
+There is also a reaction with the formation of an aqueous complex:<br/>
+<br/>
+        E<sub>2</sub>CO<sub>3</sub>(diluted) + 8H<sub>2</sub>O = 2E[(H<sub>2</sub>O)<sub>4</sub>]<sup>+</sup> + CO<sub>3</sub>-,<br/>
+<br/>
+where E is a metallic or ammonium cation.</li>
+</ol></p>
+<p id="p0023" num="0023">Those parts of metallic or ammonium chloride, metallic or ammonium carbonate and metallic or ammonium bicarbonate that do not hydrolyze dissolve and dissociate in solution in the form of metallic or ammonium ions (E<sup>+</sup>), carbonate ion (CO<sub>3</sub><sup>2-</sup>), bicarbonate ion (HCO<sub>3</sub>-) and chloride ion (ClOz-):<br/>
+<br/>
+        E(ClOz)k ⇔ E<sup>k+</sup> + kClOz-<br/>
+<br/>
+        E(<sub>2</sub>/<sub>k</sub>)CO<sub>3</sub> ⇔ (2/k)E<sup>k+</sup> + CO<sub>3</sub><sup>2-</sup><br/>
+<br/>
+        E(HCO<sub>3</sub>)κ ⇔ E<sup>k+</sup> + kHCO<sub>3</sub>-,<br/>
+<br/>
+<!-- EPO <DP n="4"> -->where k is a coefficient equal to 1 or 2 depending on the valence.</p>
+<p id="p0024" num="0024">To produce the second solution (B), metallic or ammonium persulfate (B1) and metallic or ammonium bisulfate (B2) are dissolved in water, with the mass ratio (B1) to (B2) being 3:1. Metallic or ammonium persulfate is dissolved in water gradually - first in a small amount of water, then water is added to achieve the desired concentration. Then metallic or ammonium bisulfate is added, everything is mixed until completely dissolved. Herewith, the following reactions occur:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>1) for metal ion compounds that are not hydrolyzed, completely dissolve in water and dissociate into metal ions (Me<sup>+</sup>), persulfate ion (S<sub>2</sub>O<sub>8</sub><sup>2-</sup>), hydrogen ion (H<sup>+</sup>) and sulfate ion (SO<sub>4</sub><sup>2-</sup>)<br/>
+<br/>
+        Me<sub>(2/k</sub>)S<sub>2</sub>O<sub>8</sub> ⇔ (2/k)Me<sup>k+</sup> + S<sub>2</sub>O<sub>8</sub><sup>2-</sup><br/>
+<br/>
+        Me(HSO<sub>4</sub>)<sub>k</sub> ⇔ Me<sup>k+</sup> + kHSO<sub>4</sub>-<br/>
+<br/>
+        HSO<sub>4</sub>- ⇔ H<sup>+</sup> + SO<sub>4</sub><sup>2-</sup><br/>
+<br/>
+</li>
+<li>2) for metallic ion compounds and ammonium ion compounds that undergo hydrolysis<br/>
+<br/>
+        Me<sub>(2/k)</sub>S<sub>2</sub>O<sub>8</sub> + 2HzO = Me<sub>(2/k)</sub>SO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> + HzOz<br/>
+<br/>
+        2Me(HSO<sub>4</sub>)<sub>2</sub> + 2H<sub>2</sub>O = (MeOH)<sub>2</sub>SO<sub>4</sub> + 3H<sub>2</sub>SO<sub>4</sub><br/>
+<br/>
+        (NH<sub>4</sub>)<sub>2</sub>S<sub>2</sub>O<sub>8</sub> + 2H<sub>2</sub>O = (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> + HzOz<br/>
+<br/>
+        NH<sub>4</sub>HSO<sub>4</sub> + 2H<sub>2</sub>O = NH<sub>3</sub><sup>∗</sup>H<sub>2</sub>O + H<sub>3</sub>O<sup>+</sup> + HSO<sub>4</sub>-<br/>
+<br/>
+</li>
+</ol>
+Herewith, since the solution is sufficiently diluted during the hydrolysis of persulfate, the resulting small amount of hydrogen peroxide spontaneously disproportionates to water and molecular oxygen:<br/>
+<br/>
+        2HzOz = 2H<sub>2</sub>O + Oz<br/>
+<br/>
+</p>
+<p id="p0025" num="0025">Therefore, hydrogen peroxide does not remain in the solution.</p>
+<p id="p0026" num="0026">At the second stage, solutions (A) and (B) are combined by adding solution (B) to solution (A) and mixed well for several minutes.</p>
+<p id="p0027" num="0027">The mass of the final solution m(s-n) is calculated by the formula: <maths id="math0001" num=""><math display="block"><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mi mathvariant="normal">m</mi><mfenced><mi>water</mi></mfenced><mo>+</mo><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">E</mi><msub><mfenced><msub><mi>ClO</mi><mn>2</mn></msub></mfenced><mi mathvariant="normal">k</mi></msub></mfenced><mo>+</mo><mi mathvariant="normal">m</mi><mfenced separators=""><msub><mi mathvariant="normal">E</mi><mfenced separators=""><mn>2</mn><mo>/</mo><mi mathvariant="normal">k</mi></mfenced></msub><msub><mi>CO</mi><mn>3</mn></msub></mfenced><mo>+</mo><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">E</mi><msub><mfenced><msub><mi>HCO</mi><mn>3</mn></msub></mfenced><mi mathvariant="normal">k</mi></msub></mfenced><mo>+</mo><mi mathvariant="normal">m</mi><mfenced separators=""><msub><mi mathvariant="normal">E</mi><mfenced separators=""><mn>2</mn><mo>/</mo><mi mathvariant="normal">k</mi></mfenced></msub><msub><mi mathvariant="normal">S</mi><mn>2</mn></msub><msub><mi mathvariant="normal">O</mi><mn>8</mn></msub></mfenced><mo>+</mo><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">E</mi><msub><mfenced><msub><mi>HSO</mi><mn>4</mn></msub></mfenced><mi mathvariant="normal">k</mi></msub></mfenced><mo>,</mo></math><img id="ib0001" file="imgb0001.tif" wi="153" he="5" img-content="math" img-format="tif"/></maths> where E is a metallic or ammonium cation.</p>
+<p id="p0028" num="0028">The mass ratio of components (mass %) is as follows:
+<ul id="ul0003" list-style="none" compact="compact">
+<li>metallic or ammonium chloride - 0.005-3.939</li>
+<li>metallic or ammonium carbonate - 0.001-0.855</li>
+<li>metallic or ammonium bicarbonate - 0.001-0.782</li>
+<li>metallic or ammonium persulfate - 0.006-4.648</li>
+<li>metallic or ammonium bisulfate - 0.002-1.547</li>
+<li>water-88.229 -99.985.</li>
+</ul></p>
+<p id="p0029" num="0029">Then, using a pH meter, the pH value of the solution is monitored - it should be in the range from 5.5 to 7.0.</p>
+<p id="p0030" num="0030">After that, the final solution is poured into a suitable container and closed with a lid. The solution is<!-- EPO <DP n="5"> --> left in the container for 48 hours at room temperature (20-25 ° C). During this time, if possible, the container is shaken for more efficient reactions.</p>
+<p id="p0031" num="0031">Herewith, the following chemical reactions occur:<br/>
+<br/>
+        E<sub>(2/k)</sub>S<sub>2</sub>O<sub>8</sub> + (2/k)E(ClO<sub>2</sub>)<sub>k</sub> = 2ClO<sub>2</sub> + 2E<sub>(2/k)</sub>SO<sub>4</sub><br/>
+<br/>
+        5E(ClO<sub>2</sub>)<sub>k</sub> + 4E(HSO<sub>4</sub>)<sub>k</sub> = 4kClO<sub>2</sub> + 4kE<sub>(2/k)</sub>SO<sub>4</sub> + 2kH<sub>2</sub>O + 3Cl<sub>k</sub><br/>
+<br/>
+        2E<sub>(2/k)</sub>CO<sub>3</sub>(excess) + (2/k)E(HSO<sub>4</sub>)<sub>k</sub> = E<sub>(2/k)</sub>CO<sub>3</sub>(remainder) + 2E<sub>(2/k)</sub>SO<sub>4</sub> +<br/>
+<br/>
+        COz + + H<sub>2</sub>O<br/>
+<br/>
+        E(HSO<sub>4</sub>)<sub>k</sub> + E(HCO<sub>3</sub>)<sub>k</sub> - kE<sub>(2/k)</sub>SO<sub>4</sub> + kH<sub>2</sub>O + kCO<sup>2</sup>,<br/>
+<br/>
+where E is a metallic or ammonium cation, k is a coefficient equal to 1 or 2 depending on the valence.</p>
+<p id="p0032" num="0032">Thus, a chlorine dioxide solution is formed, which contains a small amount of sulfate, chloride and carbon dioxide as side products, with carbon dioxide evaporating from the solution upon completion of the reactions. Also, a small amount of carbonate remains in the solution, since only part of the carbonate reacts. These side products do not destabilize chlorine dioxide. Herewith, a slightly alkaline medium of the solution is maintained, which prevents the chlorine dioxide from decomposition into hydrochloric and chloric acids. This is what ensures the stability of chlorine dioxide.</p>
+<p id="p0033" num="0033">Simultaneous use of persulfate and bisulfate in solution (B) increases the yield of chlorine dioxide and allows reactions to occur at room temperature.</p>
+<p id="p0034" num="0034">Simultaneous use of carbonate and bicarbonate in solution (A) allows to regulate the pH of the solution (the concentration of hydroxyl ions (OH<sup>-</sup>) and reduce the amount of sulfate ions in the solution. The gradual dissolution of a mixture of carbonate and bicarbonate leads to the formation of metallic ion aqueous complexes that attract hydroxyl ions (OH<sup>-</sup>), thereby creating a slightly alkaline environment that helps stabilize the solution in the long term.</p>
+<p id="p0035" num="0035">The simultaneous use of carbonate and bisulfate also leads to the formation of carbon dioxide, which prevents the decomposition of chlorine dioxide at the preparing stage.</p>
+<p id="p0036" num="0036">In addition, due to the specified mass ratio of components, the maximum production of the final product (chlorine dioxide) is ensured with optimal pH stabilization.</p>
+<heading id="h0004"><u>EMBODIMENT OF INVENTION</u></heading>
+<p id="p0037" num="0037">The invention can be illustrated, but not limited to the following examples of its specific implementation.</p>
+<heading id="h0005">Example 1.</heading>
+<p id="p0038" num="0038">To produce the first solution (A), a 1.5-liter HDP container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 0.050 g of sodium chloride (0.005% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.01 g (0.001% of the final solution mass) of sodium carbonate and 0.01 g (0.001% of the final solution mass) of sodium bicarbonate are added successively to container No. 2 and mixed in water for about 1 min. After that, the solution from<!-- EPO <DP n="6"> --> container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0039" num="0039">To produce the second solution (B), a 1-liter HDP container (container No. 3) is taken, and 30 ml of lukewarm water is poured into it. Then 0.062 g (0.006% of the final solution mass) of sodium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 0.021 g of sodium bisulfate (0.002% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0040" num="0040">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0041" num="0041">The mass of the final solution m (s-n) is <maths id="math0002" num=""><math display="block"><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>0.050</mn><mo>+</mo><mn>0.01</mn><mo>+</mo><mn>0.01</mn><mo>+</mo><mn>0.062</mn><mo>+</mo><mn>0.021</mn><mo>=</mo><mn>1000.153</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi><mo>.</mo></math><img id="ib0002" file="imgb0002.tif" wi="102" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0042" num="0042">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0004" list-style="none" compact="compact">
+<li>sodium chloride (NaClOz) - 0.005 %</li>
+<li>sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>) - 0.001 %</li>
+<li>sodium bicarbonate (NaHCO<sub>3</sub>) - 0.001 %</li>
+<li>sodium persulfate (Na<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 0.006 %</li>
+<li>sodium bisulfate (NaHSO<sub>4</sub>) - 0.002 %</li>
+<li>water (H<sub>2</sub>O) - 99.985%</li>
+</ul></p>
+<p id="p0043" num="0043">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.5- 7.0.</p>
+<p id="p0044" num="0044">Then the final solution is poured into a 1-liter container and closed with a lid (the container and the lid are made of HDP). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0045" num="0045">As a result, 0.003% chlorine dioxide solution is produced.</p>
+<heading id="h0006">Example 2.</heading>
+<p id="p0046" num="0046">To produce the first solution (A), a 1.5-liter PVC-U container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 5.12 g of sodium chloride (0.50% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 1.01 g (0.10% of the final solution mass) of sodium carbonate and 1.01 g (0.10% of the final solution mass) of sodium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0047" num="0047">To produce the second solution (B), a 1-liter PVC-U container (container No. 3) is taken and 30 ml of lukewarm water is poured into it. Then 6.3 g (0.62% of the final solution mass) of sodium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 2.1 g of sodium bisulfate (0.21% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0048" num="0048">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0049" num="0049">The mass of the final solution m (s-n) is<!-- EPO <DP n="7"> --> <maths id="math0003" num=""><math display="block"><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>5.12</mn><mo>+</mo><mn>1.01</mn><mo>+</mo><mn>1.01</mn><mo>+</mo><mn>6.3</mn><mo>+</mo><mn>2.1</mn><mo>=</mo><mn>1015.54</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi><mo>.</mo></math><img id="ib0003" file="imgb0003.tif" wi="88" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0050" num="0050">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0005" list-style="none" compact="compact">
+<li>sodium chloride (NaClO<sub>2</sub>) - 0.50 %</li>
+<li>sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>) -0.10 %</li>
+<li>sodium bicarbonate (NaHCO<sub>3</sub>) - 0.10%</li>
+<li>sodium persulfate (Na<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 0.62 %</li>
+<li>sodium bisulfate (NaHSO<sub>4</sub>) - 0.21 %</li>
+<li>water (H<sub>2</sub>O) - 98.47%</li>
+</ul></p>
+<p id="p0051" num="0051">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.0- 6.5.</p>
+<p id="p0052" num="0052">Then the finished solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PVC-U). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0053" num="0053">As a result, a 0.3% chlorine dioxide solution is produced.</p>
+<heading id="h0007">Example 3.</heading>
+<p id="p0054" num="0054">To produce the first solution (A), a 1.5-liter PTFE container (container No. 1) is taken and 150 ml of lukewarm water is poured into it. Then 37.730 g of sodium chloride (3.385% of the final solution mass) is added and dissolved in water for about 1 min. Then 400 ml of lukewarm water is added. Then a 150-ml HDP container is taken (container No. 2), 100 ml of water is poured into it. After that, 7.443 g (0.668% of the final solution mass) of sodium carbonate and 7.443 g (0.668% of the final solution mass) of sodium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0055" num="0055">To produce the second solution (B), a 1-liter PTFE container (container No. 3) is taken and 250 ml of lukewarm water is poured into it. Then 46.425 g (4.165% of the final solution mass) of sodium persulfate is added and dissolved in water for about 1 min. Then 100 ml of lukewarm water is added. After that, 15.475 g of sodium bisulfate (1.388% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0056" num="0056">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0057" num="0057">The mass of the final solution m (s-n) is <maths id="math0004" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>650</mn><mo>+</mo><mn>350</mn><mo>+</mo><mn>37.730</mn><mo>+</mo><mn>7.443</mn><mo>+</mo><mn>7.443</mn><mo>+</mo><mn>15.474</mn><mo>+</mo><mn>46.425</mn><mo>=</mo><mn>1114.516</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0004" file="imgb0004.tif" wi="123" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0058" num="0058">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0006" list-style="none" compact="compact">
+<li>sodium chloride (NaClOz) - 3.385 %</li>
+<li>sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>) - 0.668%</li>
+<li>sodium bicarbonate (NaHCO<sub>3</sub>) - 0.668%</li>
+<li>sodium persulfate (Na<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) -4.165 %</li>
+<li>sodium bisulfate (NaHSO<sub>4</sub>) - 1.388 %</li>
+<li>water (H<sub>2</sub>O) - 89.726%</li>
+</ul></p>
+<p id="p0059" num="0059">After that, the pH value of the solution is measured with a pH meter - it is equal to 5.5- 6.0.<!-- EPO <DP n="8"> --></p>
+<p id="p0060" num="0060">Then the final solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PTFE). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0061" num="0061">As a result, a 2% chlorine dioxide solution is produced.</p>
+<heading id="h0008">Example 4.</heading>
+<p id="p0062" num="0062">To produce the first solution (A), a 1.5-liter HDP container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 0.06 g of potassium chloride (0.006% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.013 g (0.001% of the final solution mass) of potassium carbonate and 0.012 g (0.001% of the final solution mass) of potassium bicarbonate are added successively to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0063" num="0063">To produce the second solution (B), a 1-liter HDP container (container No. 3) is taken, and 30 ml of lukewarm water is poured into it. Then 0.070 g (0.006% of the final solution mass) of potassium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 0.024 g of potassium bisulfate (0.002% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0064" num="0064">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0065" num="0065">The mass of the final solution m (s-n) is <maths id="math0005" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>0.06</mn><mo>+</mo><mn>0.013</mn><mo>+</mo><mn>0.012</mn><mo>+</mo><mn>0.070</mn><mo>+</mo><mn>0.024</mn><mo>=</mo><mn>1000.179</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0005" file="imgb0005.tif" wi="116" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0066" num="0066">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0007" list-style="none" compact="compact">
+<li>potassium chloride (KClOz) - 0.006 %</li>
+<li>potassium carbonate (K<sub>2</sub>CO<sub>3</sub>) - 0.001%</li>
+<li>potassium bicarbonate (KHCO<sub>3</sub>) - 0.001%</li>
+<li>potassium persulfate (K<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 0.006%</li>
+<li>potassium bisulfate (KHSO<sub>4</sub>) - 0.002 %<br/>
+water (H<sub>2</sub>0) - 99.984%</li>
+</ul></p>
+<p id="p0067" num="0067">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.5- 7.0.</p>
+<p id="p0068" num="0068">Then the final solution is poured into a 1-liter container and closed with a lid (the container and the lid are made of HDP). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0069" num="0069">As a result, 0.003% chlorine dioxide solution is produced.</p>
+<heading id="h0009">Example 5.</heading>
+<p id="p0070" num="0070">To produce the first solution (A), a 1.5-liter PVC-U container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 6.059 g of potassium chloride (0.595% of the final solution mass)<!-- EPO <DP n="9"> --> is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 1.315 g (0.129% of the final solution mass) of potassium carbonate and 1.202 g (0.118% of the final solution mass) of potassium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0071" num="0071">To produce the second solution (B), a 1-liter PVC-U container (container No. 3) is taken and 30 ml of lukewarm water is poured into it. Then 7.150 g (0.702% of the final solution mass) of potassium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 2.379 g of potassium bisulfate (0.234% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0072" num="0072">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0073" num="0073">The mass of the final solution m (s-n) is <maths id="math0006" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>6.059</mn><mo>+</mo><mn>1.315</mn><mo>+</mo><mn>1.202</mn><mo>+</mo><mn>7.150</mn><mo>+</mo><mn>2.379</mn><mo>=</mo><mn>1018.105</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0006" file="imgb0006.tif" wi="116" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0074" num="0074">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0008" list-style="none" compact="compact">
+<li>potassium chloride (KClOz) - 0.595%</li>
+<li>potassium carbonate (K<sub>2</sub>CO<sub>3</sub>) - 0.129%</li>
+<li>potassium bicarbonate (KHCO<sub>3</sub>) -0.118%</li>
+<li>potassium persulfate (K<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 0.702%</li>
+<li>potassium bisulfate (KHSO<sub>4</sub>) - 0.234 %</li>
+<li>water (H<sub>2</sub>O) - 98.222%</li>
+</ul></p>
+<p id="p0075" num="0075">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.0- 6.5.</p>
+<p id="p0076" num="0076">Then the finished solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PVC-U). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0077" num="0077">As a result, a 0.3% chlorine dioxide solution is produced.</p>
+<heading id="h0010">Example 6.</heading>
+<p id="p0078" num="0078">To produce the first solution (A), a 1.5-liter PTFE container (container No. 1) is taken and 150 ml of lukewarm water is poured into it. Then 44.647 g of potassium chloride (3.939% of the final solution mass) is added and dissolved in water for about 1 min. Then 400 ml of lukewarm water is added. Then a 150-ml HDP container is taken (container No. 2), 100 ml of water is poured into it. After that, 9.689 g (0.855% of the final solution mass) of potassium carbonate and 8.858 g (0.782% of the final solution mass) of potassium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0079" num="0079">To produce the second solution (B), a 1-liter PTFE container (container No. 3) is taken and 250 ml<!-- EPO <DP n="10"> --> of lukewarm water is poured into it. Then 52.685 g (4.648% of the final solution mass) of potassium persulfate is added and dissolved in water for about 1 min. Then 100 ml of lukewarm water is added. After that, 17.531 g of potassium bisulfate (1.547% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0080" num="0080">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0081" num="0081">The mass of the final solution m (s-n) is <maths id="math0007" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>650</mn><mo>+</mo><mn>350</mn><mo>+</mo><mn>44.647</mn><mo>+</mo><mn>9.689</mn><mo>+</mo><mn>8.858</mn><mo>+</mo><mn>17.531</mn><mo>+</mo><mn>52.685</mn><mo>=</mo><mn>1133.410</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0007" file="imgb0007.tif" wi="124" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0082" num="0082">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0009" list-style="none" compact="compact">
+<li>potassium chloride (KClOz) - 3.939 %</li>
+<li>potassium carbonate (K<sub>2</sub>CO<sub>3</sub>) - 0.855 %</li>
+<li>potassium bicarbonate (KHCO<sub>3</sub>) - 0.782%</li>
+<li>potassium persulfate (K<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 4.648%</li>
+<li>potassium bisulfate (KHSO<sub>4</sub>) - 1.547 %</li>
+<li>water (H<sub>2</sub>O) - 88.229%</li>
+</ul></p>
+<p id="p0083" num="0083">After that, the pH value of the solution is measured with a pH meter - it is equal to 5.5- 6.0.</p>
+<p id="p0084" num="0084">Then the final solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PTFE). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0085" num="0085">As a result, a 2% chlorine dioxide solution is produced.</p>
+<heading id="h0011">Example 7.</heading>
+<p id="p0086" num="0086">To produce the first solution (A), a 1.5-liter HDP container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 0.048 g of ammonium chloride (0.005% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.009 g (0.001% of the final solution mass) of ammonium carbonate and 0.009 g (0.001% of the final solution mass) of ammonium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10- 15 minutes until completely dissolved.</p>
+<p id="p0087" num="0087">To produce the second solution (B), a 1-liter PTFE container (container No. 3) is taken and 30 ml of lukewarm water is poured into it. Then 0.059 g (0.006% of the final solution mass) of ammonium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 0.020 g of ammonium bisulfate (0.002% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0088" num="0088">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0089" num="0089">The mass of the final solution m (s-n) is <maths id="math0008" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>0.048</mn><mo>+</mo><mn>0.009</mn><mo>+</mo><mn>0.009</mn><mo>+</mo><mn>0.059</mn><mo>+</mo><mn>0.020</mn><mo>=</mo><mn>1000.145</mn></math><img id="ib0008" file="imgb0008.tif" wi="116" he="5" img-content="math" img-format="tif"/></maths><!-- EPO <DP n="11"> --></p>
+<p id="p0090" num="0090">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0010" list-style="none" compact="compact">
+<li>ammonium chloride (NH<sub>4</sub>ClO<sub>2</sub>) - 0.005 %</li>
+<li>ammonium carbonate (NH<sub>4</sub>CO<sub>3</sub>) - 0.001 %</li>
+<li>ammonium bicarbonate (NH<sub>4</sub>HCO<sub>3</sub>) - 0.001%</li>
+<li>ammonium persulfate ((NH<sub>4</sub>)<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 0.006 %</li>
+<li>ammonium bisulfate (NH<sub>4</sub>HSO<sub>4</sub>) - 0.002 %</li>
+<li>water (H<sub>2</sub>O) - 99.985%</li>
+</ul></p>
+<p id="p0091" num="0091">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.5- 7.0.</p>
+<p id="p0092" num="0092">Then the final solution is poured into a 1,5-liter container and closed with a lid (the container and the lid are made of HDP). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0093" num="0093">As a result, 0.003% chlorine dioxide solution is produced.</p>
+<heading id="h0012">Example 8.</heading>
+<p id="p0094" num="0094">To produce the first solution (A), a 1.5-liter PVC-U container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 4.864 g of ammonium chloride (0.479% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.915 g (0.090% of the final solution mass) of ammonium carbonate and 0.950 g (0.093% of the final solution mass) of ammonium bicarbonate are added successively to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0095" num="0095">To produce the second solution (B), a 1-liter PVC-U container (container No. 3) is taken and 30 ml of lukewarm water is poured into it. Then 6.037 g (0.595% of the final solution mass) of ammonium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 2.012 g of ammonium bisulfate (0.198% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0096" num="0096">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0097" num="0097">The mass of the final solution m (s-n) is <maths id="math0009" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>4.864</mn><mo>+</mo><mn>0.915</mn><mo>+</mo><mn>0.950</mn><mo>+</mo><mn>6.037</mn><mo>+</mo><mn>2.012</mn><mo>=</mo><mn>1014.778</mn></math><img id="ib0009" file="imgb0009.tif" wi="114" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0098" num="0098">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0011" list-style="none" compact="compact">
+<li>ammonium chloride (NH<sub>4</sub>ClO<sub>2</sub>) - 0.479 %</li>
+<li>ammonium carbonate ((NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>) - 0.090%</li>
+<li>ammonium bicarbonate (NH<sub>4</sub>HCO<sub>3</sub>) - 0.093%</li>
+<li>ammonium persulfate ((NH<sub>4</sub>)<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 0.595%</li>
+<li>ammonium bisulfate (NH<sub>4</sub>HSO<sub>4</sub>) - 0.198 %</li>
+<li>water (H<sub>2</sub>O) - 98.545%</li>
+</ul></p>
+<p id="p0099" num="0099">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.0- 6.5.<!-- EPO <DP n="12"> --></p>
+<p id="p0100" num="0100">Then the finished solution is poured into a 1-liter container and closed with a lid (the container with the lid are made of PVC-U). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0101" num="0101">As a result, a 0.3% chlorine dioxide solution is produced.</p>
+<heading id="h0013">Example 9.</heading>
+<p id="p0102" num="0102">To produce the first solution (A), a 1.5-liter PTFE container (container No. 1) is taken and 150 ml of lukewarm water is poured into it. Then 35.843 g of ammonium chloride (3.232% of the final solution mass) is added and dissolved in water for about 1 min. Then 400 ml of lukewarm water is added. Then a 150-ml HDP container is taken (container No. 2), 100 ml of water is poured into it. After that, 6.740 g (0.607% of the final solution mass) of ammonium carbonate and 6.998 g (0.631% of the final solution mass) of ammonium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0103" num="0103">To produce the second solution (B), a 1-liter PTFE container (container No. 3) is taken and 250 ml of lukewarm water is poured into it. Then 44.490 g (4.012% of the final solution mass) of ammonium persulfate is added and dissolved in water for about 1 min. Then 100 ml of lukewarm water is added. After that, 14.824 g of ammonium bisulfate (1.337% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0104" num="0104">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0105" num="0105">The mass of the final solution m (s-n) is <maths id="math0010" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>650</mn><mo>+</mo><mn>350</mn><mo>+</mo><mn>35.843</mn><mo>+</mo><mn>6.740</mn><mo>+</mo><mn>6.998</mn><mo>+</mo><mn>44.490</mn><mo>+</mo><mn>14.824</mn><mo>=</mo><mn>1108.895</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0010" file="imgb0010.tif" wi="125" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0106" num="0106">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0012" list-style="none" compact="compact">
+<li>ammonium chloride (NH<sub>4</sub>ClO<sub>2</sub>) - 3.232 %</li>
+<li>ammonium carbonate ((NH4)<sub>2</sub>CO<sub>3</sub>) - 0.607 %</li>
+<li>ammonium bicarbonate (NH<sub>4</sub>HCO<sub>3</sub>) - 0.631 %</li>
+<li>ammonium persulfate ((NH<sub>4</sub>)<sub>2</sub>S<sub>2</sub>O<sub>8</sub>) - 4.012 %</li>
+<li>ammonium bisulfate ((NH<sub>4</sub>)HSO<sub>4</sub>) - 1.337 %</li>
+<li>water (N<sub>2</sub>O) - 90.181%</li>
+</ul></p>
+<p id="p0107" num="0107">After that, the pH value of the solution is measured with a pH meter - it is equal to 5.5- 6.0.</p>
+<p id="p0108" num="0108">Then the final solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PTFE). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0109" num="0109">As a result, a 2% chlorine dioxide solution is produced.</p>
+<heading id="h0014">Example 10.</heading>
+<p id="p0110" num="0110">To produce the first solution (A), a 1.5-liter HDP container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 0.049 g of calcium chloride (0.005% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP<!-- EPO <DP n="13"> --> container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.009 g (0.001% of the final solution mass) of calcium carbonate and 0.010 g (0.001% of the final solution mass) of calcium bicarbonate are added successively to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0111" num="0111">To produce the second solution (B), a 1-liter HDP container (container No. 3) is taken, and 30 ml of lukewarm water is poured into it. Then 0.060 g (0.006% of the final solution mass) of calcium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 0.020 g of calcium bisulfate (0.002% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0112" num="0112">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0113" num="0113">The mass of the final solution m (s-n) is <maths id="math0011" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>0.049</mn><mo>+</mo><mn>0.009</mn><mo>+</mo><mn>0.010</mn><mo>+</mo><mn>0.060</mn><mo>+</mo><mn>0.020</mn><mo>=</mo><mn>1000.148</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0011" file="imgb0011.tif" wi="106" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0114" num="0114">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0013" list-style="none" compact="compact">
+<li>calcium chloride (Ca(ClOz)z) - 0.005 %</li>
+<li>calcium carbonate (CaCO<sub>3</sub>) - 0.001 %</li>
+<li>calcium bicarbonate (Ca(HCO<sub>3</sub>)<sub>2</sub>) - 0.001%</li>
+<li>calcium persulfate (CaS<sub>2</sub>O<sub>8</sub>) - 0.006 %</li>
+<li>calcium bisulfate (Ca(HSO<sub>4</sub>)<sub>2</sub>) - 0.002 %</li>
+<li>water (H<sub>2</sub>O) - 99.985%</li>
+</ul></p>
+<p id="p0115" num="0115">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.5- 7.0.</p>
+<p id="p0116" num="0116">Then the final solution is poured into a 1-liter container and closed with a lid (the container and the lid are made of HDP). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0117" num="0117">As a result, 0.003% chlorine dioxide solution is produced.</p>
+<heading id="h0015">Example 11.</heading>
+<p id="p0118" num="0118">To produce the first solution (A), a 1.5-liter PVC-U container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 4.978 g of calcium chloride (0.490% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.952 g (0.094% of the final solution mass) of calcium carbonate and 0.974 g (0.096% of the final solution mass) of calcium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0119" num="0119">To produce the second solution (B), a 1-liter PVC-U container (container No. 3) is taken and 30 ml of lukewarm water is poured into it. Then 6.143 g (0.605% of the final solution mass) of calcium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 2.047 g of calcium bisulfate (0.202% of the final solution mass) is added and stirred for 10-15 minutes until<!-- EPO <DP n="14"> --> completely dissolved.</p>
+<p id="p0120" num="0120">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0121" num="0121">The mass of the final solution m(s-n) is <maths id="math0012" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>4.978</mn><mo>+</mo><mn>0.952</mn><mo>+</mo><mn>0.974</mn><mo>+</mo><mn>6.143</mn><mo>+</mo><mn>2.047</mn><mo>=</mo><mn>1015.094</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0012" file="imgb0012.tif" wi="104" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0122" num="0122">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0014" list-style="none" compact="compact">
+<li>calcium chloride (Ca(ClOz)z) - 0.490 %</li>
+<li>calcium carbonate (CaCO<sub>3</sub>) - 0.094 %</li>
+<li>calcium bicarbonate (Ca(HCO<sub>3</sub>)<sub>2</sub>) - 0.096%</li>
+</ul>
+<ul id="ul0015" list-style="none" compact="compact">
+<li>calcium persulfate (CaS<sub>2</sub>O<sub>8</sub>) - 0.605%</li>
+<li>calcium bisulfate (Ca(HSO<sub>4</sub>)<sub>2</sub>) - 0.202%</li>
+<li>water (H<sub>2</sub>O) - 98.513%</li>
+</ul></p>
+<p id="p0123" num="0123">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.0- 6.5.</p>
+<p id="p0124" num="0124">Then the finished solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PVC-U). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0125" num="0125">As a result, a 0.3% chlorine dioxide solution is produced.</p>
+<heading id="h0016">Example 12.</heading>
+<p id="p0126" num="0126">To produce the first solution (A), a 1.5-liter PTFE container (container No. 1) is taken and 150 ml of lukewarm water is poured into it. Then 36.682 g of calcium chloride (3.301% of the final solution mass) is added and dissolved in water for about 1 min. Then 400 ml of lukewarm water is added. Then a 150-ml HDP container (container No. 2) is taken, 100 ml of water is poured into it. After that, 7.021 g (0.632% of the final solution mass) of calcium carbonate and 7.175 g (0.646% of the final solution mass) of calcium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0127" num="0127">To produce the second solution (B), a 1-liter PTFE container (container No. 3) is taken and 250 ml of lukewarm water is poured into it. Then 45.270 g (4.074% of the final solution mass) of calcium persulfate is added and dissolved in water for about 1 min. Then 100 ml of lukewarm water is added. After that, 15.082 g of calcium bisulfate (1.357% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0128" num="0128">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0129" num="0129">The mass of the final solution m (s-n) is <maths id="math0013" num=""><math display="block"><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>650</mn><mo>+</mo><mn>350</mn><mo>+</mo><mn>36.682</mn><mo>+</mo><mn>7.021</mn><mo>+</mo><mn>7.175</mn><mo>+</mo><mn>15.082</mn><mo>+</mo><mn>45.270</mn><mo>=</mo><mn>1111.23</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0013" file="imgb0013.tif" wi="121" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0130" num="0130">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0016" list-style="none" compact="compact">
+<li>calcium chloride (Ca(ClO<sub>2</sub>)<sub>2</sub> - 3.301 %</li>
+<li>calcium carbonate (CaCO<sub>3</sub>) - 0.632%</li>
+<li>calcium bicarbonate (Ca(HCO<sub>3</sub>)<sub>2</sub>) - 0.646%<!-- EPO <DP n="15"> --></li>
+<li>calcium persulfate (CaS<sub>2</sub>O<sub>8</sub>) - 4.074%</li>
+<li>calcium bisulfate (Ca(HSO<sub>4</sub>)<sub>2</sub> - 1.357 %</li>
+<li>water (H<sub>2</sub>O) - 89.990%</li>
+</ul></p>
+<p id="p0131" num="0131">After that, the pH value of the solution is measured with a pH meter - it is equal to 5.5- 6.0.</p>
+<p id="p0132" num="0132">Then the final solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PTFE). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0133" num="0133">As a result, a 2% chlorine dioxide solution is produced.</p>
+<heading id="h0017">Example 13.</heading>
+<p id="p0134" num="0134">To produce the first solution (A), a 1.5-liter HDP container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 0.045 g of magnesium chloride (0.005% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.008 g (0.001% of the final solution mass) of magnesium carbonate and 0.009 g (0.001% of the final solution mass) of magnesium bicarbonate are added successively to container No. 2 and stirred in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0135" num="0135">To produce the second solution (B), a 1-liter HDP container (container No. 3) is taken, and 30 ml of lukewarm water is poured into it. Then 0.056 g (0.006% of the final solution mass) of magnesium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 0.019 g of magnesium bisulfate (0.002% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0136" num="0136">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0137" num="0137">The mass of the final solution m (s-n) is <maths id="math0014" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>0.045</mn><mo>+</mo><mn>0.008</mn><mo>+</mo><mn>0.009</mn><mo>+</mo><mn>0.056</mn><mo>+</mo><mn>0.019</mn><mo>=</mo><mn>1000.137</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi></math><img id="ib0014" file="imgb0014.tif" wi="106" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0138" num="0138">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0017" list-style="none" compact="compact">
+<li>magnesium chloride (Mg(ClO<sub>2</sub>)<sub>2</sub>) - 0.005%</li>
+<li>magnesium carbonate (MgCO<sub>3</sub>) - 0.001%</li>
+<li>magnesium bicarbonate (Mg(HCO<sub>3</sub>)<sub>2</sub>) - 0.001%</li>
+<li>magnesium persulfate (MgS<sub>2</sub>O<sub>8</sub>) - 0.006%</li>
+<li>magnesium bisulfate (Mg(HSO<sub>4</sub>)<sub>2</sub>) - 0.002 %</li>
+<li>water (H<sub>2</sub>O) - 99.985%</li>
+</ul></p>
+<p id="p0139" num="0139">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.5- 7.0.</p>
+<p id="p0140" num="0140">Then the final solution is poured into a 1-liter container and closed with a lid (the container and the lid are made of HDP). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.<!-- EPO <DP n="16"> --></p>
+<p id="p0141" num="0141">As a result, 0.003% chlorine dioxide solution is produced.</p>
+<heading id="h0018">Example 14.</heading>
+<p id="p0142" num="0142">To produce the first solution (A), a 1.5-liter PVC-U container (container No. 1) is taken and 15 ml of lukewarm water is poured into it. Then 4.523 g of magnesium chloride (0.446% of the final solution mass) is added and dissolved in water for about 1 min. Then 850 ml of lukewarm water is added. Then a 100-ml HDP container (container No. 2) is taken, 35 ml of water is poured into it. After that, 0.800 g (0.079% of the final solution mass) of magnesium carbonate and 0.878 g (0.087% of the final solution mass) of magnesium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0143" num="0143">To produce the second solution (B), a 1-liter PVC-U container (container No. 3) is taken and 30 ml of lukewarm water is poured into it. Then 5.720 g (0.564% of the final solution mass) of magnesium persulfate is added and dissolved in water for about 1 min. Then 70 ml of lukewarm water is added. After that, 1.907 g of magnesium bisulfate (0.188% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0144" num="0144">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0145" num="0145">The mass of the final solution m (s-n) is <maths id="math0015" num=""><math display="block"><mi mathvariant="normal">m</mi><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>900</mn><mo>+</mo><mn>100</mn><mo>+</mo><mn>4.523</mn><mo>+</mo><mn>0.800</mn><mo>+</mo><mn>0.878</mn><mo>+</mo><mn>5.720</mn><mo>+</mo><mn>1.907</mn><mo>=</mo><mn>1013.828</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi><mo>.</mo></math><img id="ib0015" file="imgb0015.tif" wi="115" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0146" num="0146">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0018" list-style="none" compact="compact">
+<li>magnesium chloride (Mg(ClO<sub>2</sub>)<sub>2</sub>) - 0.446 %</li>
+<li>magnesium carbonate (MgCO<sub>3</sub>) - 0.079 %</li>
+<li>magnesium bicarbonate (Mg(HCO<sub>3</sub>)<sub>2</sub>) - 0.087%</li>
+<li>magnesium persulfate (MgS<sub>2</sub>O<sub>8</sub>) - 0.564%</li>
+<li>magnesium bisulfate (Mg(HSO<sub>4</sub>)<sub>2</sub>) - 0.188%,</li>
+<li>water (H<sub>2</sub>O) - 98.636%</li>
+</ul></p>
+<p id="p0147" num="0147">After that, the pH value of the solution is measured with a pH meter - it is equal to 6.0- 6.5.</p>
+<p id="p0148" num="0148">Then the finished solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PVC-U). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0149" num="0149">As a result, a 0.3% chlorine dioxide solution is produced.</p>
+<heading id="h0019">Example 15.</heading>
+<p id="p0150" num="0150">To produce the first solution (A), a 1.5-liter PTFE container (container No. 1) is taken and 150 ml of lukewarm water is poured into it. Then 33.328 g of magnesium chloride (3.025% of the final solution mass) is added and dissolved in water for about 1 min. Then 400 ml of lukewarm water is added. Then a 150-ml HDP container (container No. 2) is taken, 100 ml of water is poured into it. After that, 5.898 g (0.535% of the final solution mass) of magnesium carbonate and 6.467 g (0.587% of the final solution mass) of<!-- EPO <DP n="17"> --> magnesium bicarbonate are sequentially added to container No. 2 and mixed in water for about 1 min. After that, the solution from container No. 2 is poured into container No. 1 and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0151" num="0151">To produce the second solution (B), a 1-liter PTFE container (container No. 3) is taken and 250 ml of lukewarm water is poured into it. Then 42.148 g (3.825% of the final solution mass) of magnesium persulfate is added and dissolved in water for about 1 min. Then 100 ml of lukewarm water is added. After that, 14.051 g of magnesium bisulfate (1.275% of the final solution mass) is added and stirred for 10-15 minutes until completely dissolved.</p>
+<p id="p0152" num="0152">The solution (B) is added to solution (A) and mixed well for about 2 minutes.</p>
+<p id="p0153" num="0153">The mass of the final solution m (s-n) is <maths id="math0016" num=""><math display="block"><mi mathvariant="normal">m</mi><mspace width="1ex"/><mfenced separators=""><mi mathvariant="normal">s</mi><mo>−</mo><mi mathvariant="normal">n</mi></mfenced><mo>=</mo><mn>650</mn><mo>+</mo><mn>350</mn><mo>+</mo><mn>33.328</mn><mo>+</mo><mn>5.898</mn><mo>+</mo><mn>6.467</mn><mo>+</mo><mn>14.051</mn><mo>+</mo><mn>42.148</mn><mo>=</mo><mn>1101.892</mn><mspace width="1ex"/><mi mathvariant="normal">g</mi><mo>.</mo></math><img id="ib0016" file="imgb0016.tif" wi="125" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0154" num="0154">Herewith, the mass ratios of the components (mass %) are as follows:
+<ul id="ul0019" list-style="none" compact="compact">
+<li>magnesium chloride (Mg(ClO<sub>2</sub>)<sub>2</sub>) - 3.025 %</li>
+<li>magnesium carbonate (MgCO<sub>3</sub>) - 0.535 %</li>
+<li>magnesium bicarbonate (Mg(HCO<sub>3</sub>)<sub>2</sub>)- 0.587%</li>
+<li>magnesium persulfate (MgS<sub>2</sub>O<sub>8</sub>) - 3.825 %</li>
+<li>magnesium bisulfate (Mg(HSO<sub>4</sub>)<sub>2</sub>) - 1.275 %.</li>
+<li>water (H<sub>2</sub>O) - 90.753%</li>
+</ul></p>
+<p id="p0155" num="0155">After that, the pH value of the solution is measured with a pH meter - it is equal to 5.5- 6.0.</p>
+<p id="p0156" num="0156">Then the final solution is poured into a 1.5-liter container and closed with a lid (the container with the lid are made of PTFE). The solution is left in the container for 48 hours at room temperature (20-25°C). During this time, if possible, the container is shaken (2-3 times per day) for a more efficient reaction.</p>
+<p id="p0157" num="0157">As a result, a 2% chlorine dioxide solution is produced.</p>
+<heading id="h0020"><u>INDUSTRIAL APPLICABILITY</u></heading>
+<p id="p0158" num="0158">The claimed invention makes it possible to produce a stabilized aqueous chlorine dioxide solution, which can be stored at a temperature up to 30°C and normal atmospheric pressure for at least 12 months.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="18"> -->
+<claim id="c-en-0001" num="0001">
+<claim-text>The method of producing a stabilized aqueous chlorine dioxide solution, involving the interaction of two aqueous solutions, <b>characterized in that</b> one of the solutions (A) is produced by dissolving metallic or ammonium chloride (A1), metallic or ammonium carbonate (A2) and metallic or ammonium bicarbonate (A3) in water, with the mass ratio of metallic or ammonium chloride (A1) to metallic or ammonium carbonate or metallic or ammonium bicarbonate (A2+A3) being 2.4-3.0 : 1, whereas the second of the solutions (B) is obtained by dissolving metallic or ammonium persulfate (B1) and metallic or ammonium bisulfate (B2) in water, with the mass ratio of metallic or ammonium persulfate (B1) to metal or ammonium bisulfate (B2) being 3:1.</claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The method of producing a stabilized aqueous chlorine dioxide solution according to claim 1, identified by the mass ratio of components (mass.%) as follows:
+<claim-text>metallic or ammonium chloride - 0.005-3.939</claim-text>
+<claim-text>metallic or ammonium carbonate - 0.001-0.855</claim-text>
+<claim-text>metallic or ammonium bicarbonate - 0.001-0.782</claim-text>
+<claim-text>metallic or ammonium persulfate - 0.006-4.641</claim-text>
+<claim-text>metallic or ammonium bisulfate - 0.002-1.547</claim-text>
+<claim-text>water - 88.236 -99.985.</claim-text></claim-text></claim>
+</claims>
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="156" he="233" type="tif"/></search-report-data>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="WO2567937A"><document-id><country>WO</country><doc-number>2567937</doc-number><kind>A</kind><date>20150000</date></document-id></patcit><crossref idref="pcit0001">[0002]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="WO2011086579A"><document-id><country>WO</country><doc-number>2011086579</doc-number><kind>A</kind><date>20110000</date></document-id></patcit><crossref idref="pcit0002">[0004]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO03055797A"><document-id><country>WO</country><doc-number>03055797</doc-number><kind>A</kind><date>20030000</date></document-id></patcit><crossref idref="pcit0003">[0006]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US7303737B"><document-id><country>US</country><doc-number>7303737</doc-number><kind>B</kind><date>20070000</date></document-id></patcit><crossref idref="pcit0004">[0008]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>
